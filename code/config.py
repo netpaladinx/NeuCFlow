@@ -232,7 +232,7 @@ def get_nell995_separate_config(parser):
     parser.add_argument('--test_batch_size', type=int, default=10)
     parser.add_argument('--test_max_edges_per_example', type=int, default=10000)
     parser.add_argument('--test_max_edges_per_node', type=int, default=1000)
-    parser.add_argument('--test_max_attended_nodes', type=int, default=10)
+    parser.add_argument('--test_max_attended_nodes', type=int, default=100)
     parser.add_argument('--test_max_seen_nodes', type=int, default=1000)
 
     parser.add_argument('--n_layers', type=int, default=2)

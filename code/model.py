@@ -669,9 +669,6 @@ class Model(object):
         attended_nodes = self.graph.get_topk_nodes(final_node_attention, max_attended_nodes)  # n_attended_nodes x 2
         self.attended_nodes.append((attended_nodes, tf.gather_nd(final_node_attention, attended_nodes)))
 
-        if not os.path.exists(dir_name):
-            os.mkdir(dir_name)
-
         batch_size = len(self.heads)
         for batch_i in range(batch_size):
             head, rel, tail = self.heads[batch_i], self.rels[batch_i], self.tails[batch_i]

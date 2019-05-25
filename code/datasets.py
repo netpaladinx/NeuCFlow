@@ -115,7 +115,7 @@ class FB237(Dataset):
     path = '../data/KBC/FB237'
 
     def __init__(self, do_reverse=True, do_reverse_on_graph=True):
-        self.name = 'fb237'
+        self.name = 'FB237'
         train_path = os.path.join(self.path, 'train')
         valid_path = os.path.join(self.path, 'valid')
         test_path = os.path.join(self.path, 'test')
@@ -127,7 +127,7 @@ class FB237_v2(Dataset):
     path = '../data/MWalk/FB15K-237'
 
     def __init__(self):
-        self.name = 'fb237_v2'
+        self.name = 'FB237_v2'
         train_path = os.path.join(self.path, 'train.txt')
         valid_path = os.path.join(self.path, 'dev.txt')
         test_path = os.path.join(self.path, 'test.txt')
@@ -141,7 +141,7 @@ class FB15K(Dataset):
     path = '../data/KBC/FB15K'
 
     def __init__(self, do_reverse=True, do_reverse_on_graph=True):
-        self.name = 'fb15k'
+        self.name = 'FB15K'
         train_path = os.path.join(self.path, 'train')
         valid_path = os.path.join(self.path, 'valid')
         test_path = os.path.join(self.path, 'test')
@@ -153,7 +153,7 @@ class WN(Dataset):
     path = '../data/KBC/WN'
 
     def __init__(self, do_reverse=True, do_reverse_on_graph=True):
-        self.name = 'wn'
+        self.name = 'WN'
         train_path = os.path.join(self.path, 'train')
         valid_path = os.path.join(self.path, 'valid')
         test_path = os.path.join(self.path, 'test')
@@ -165,7 +165,7 @@ class WN18RR(Dataset):
     path = '../data/KBC/WN18RR'
 
     def __init__(self, do_reverse=True, do_reverse_on_graph=True):
-        self.name = 'wn18rr'
+        self.name = 'WN18RR'
         train_path = os.path.join(self.path, 'train')
         valid_path = os.path.join(self.path, 'valid')
         test_path = os.path.join(self.path, 'test')
@@ -177,7 +177,7 @@ class WN18RR_v2(Dataset):
     path = '../data/MWalk/WN18RR'
 
     def __init__(self):
-        self.name = 'wn18rr_v2'
+        self.name = 'WN18RR_v2'
         train_path = os.path.join(self.path, 'train.txt')
         valid_path = os.path.join(self.path, 'dev.txt')
         test_path = os.path.join(self.path, 'test.txt')
@@ -191,7 +191,7 @@ class YAGO310(Dataset):
     path = '../data/KBC/YAGO3-10'
 
     def __init__(self, do_reverse=True, do_reverse_on_graph=True):
-        self.name = 'yago'
+        self.name = 'YAGO310'
         train_path = os.path.join(self.path, 'train')
         valid_path = os.path.join(self.path, 'valid')
         test_path = os.path.join(self.path, 'test')
@@ -216,7 +216,7 @@ class NELL995(Dataset):
                        'teamplaysinleague']
 
     def __init__(self, query_relation=None):
-        self.name = 'nell' if query_relation is None else query_relation
+        self.name = 'NELL995' if query_relation is None else query_relation
         if query_relation is None:
             self.path = os.path.join(NELL995.path, 'nell')
             test_candidates_path = None

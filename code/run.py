@@ -442,12 +442,6 @@ def run_eval(data_env, model, hparams, epoch, batch_i,
 
 
 def run(dataset, hparams):
-    if hparams.test_output_attention:
-        dir_name = dataset.name + '_attention'
-        hparams.dir_name = dir_name
-        if os.path.exists(dir_name):
-            shutil.rmtree(dir_name)
-
     data_env = DataEnv(dataset)
     model = Model(data_env.graph, hparams)
 
@@ -516,22 +510,64 @@ def run(dataset, hparams):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', default='FB15K-237',
-                        choices=['FB237', 'FB237_v2', 'FB15K', 'WN18RR', 'WN18RR_v2', 'WN', 'YAGO310', 'NELL995'])
+    parser.add_argument('--dataset', default=None, choices=['FB237', 'FB237_v2', 'FB15K', 'WN18RR', 'WN18RR_v2', 'WN', 'YAGO310', 'NELL995'])
+    parser.add_argument('--n_dims_sm', type=int, default=None)
+    parser.add_argument('--n_dims', type=int, default=None)
+    parser.add_argument('--batch_size', type=int, default=None)
+    parser.add_argument('--max_edges_per_example', type=int, default=None)
+    parser.add_argument('--max_edges_per_node', type=int, default=None)
+    parser.add_argument('--max_attended_nodes', type=int, default=None)
+    parser.add_argument('--max_seen_nodes', type=int, default=None)
+    parser.add_argument('--test_batch_size', type=int, default=None)
+    parser.add_argument('--test_max_edges_per_example', type=int, default=None)
+    parser.add_argument('--test_max_edges_per_node', type=int, default=None)
+    parser.add_argument('--test_max_attended_nodes', type=int, default=None)
+    parser.add_argument('--test_max_seen_nodes', type=int, default=None)
+    parser.add_argument('--n_layers', type=int, default=None)
+    parser.add_argument('--aggregate_op', default=None)
+    parser.add_argument('--uncon_steps', type=int, default=None)
+    parser.add_argument('--con_steps', type=int, default=None)
+    parser.add_argument('--max_epochs', type=int, default=None)
+    parser.add_argument('--learning_rate', type=float, default=None)
+    parser.add_argument('--clipnorm', type=float, default=None)
+    parser.add_argument('--remove_all_head_tail_edges', action='store_true', default=None)
+    parser.add_argument('--timer', action='store_true', default=None)
+    parser.add_argument('--print_train', action='store_true', default=None)
+    parser.add_argument('--print_train_metric', action='store_true', default=None)
+    parser.add_argument('--print_train_freq', type=int, default=None)
+    parser.add_argument('--eval_within_epoch', default=None)
+    parser.add_argument('--eval_valid', action='store_true', default=None)
+    parser.add_argument('--moving_mean_decay', type=float, default=None)
+    parser.add_argument('--test_output_attention', action='store_true', default=None)
+    parser.add_argument('--test_analyze_attention', action='store_true', default=None)
     args = parser.parse_args()
 
     default_parser = config.get_default_config(args.dataset)
     hparams = copy.deepcopy(default_parser.parse_args())
     for arg in vars(args):
-        setattr(hparams, arg, getattr(args, arg))
+        attr = getattr(args, arg)
+        if attr is not None:
+            setattr(hparams, arg, attr)
     print(hparams)
 
     if hparams.dataset == 'NELL995':
         nell995_cls = getattr(datasets, hparams.dataset)
         for ds in nell995_cls.datasets():
             print('nell > ' + ds.name)
+            if hparams.test_output_attention:
+                dir_name = '../output/NELL995_subgraph/' + ds.name
+                hparams.dir_name = dir_name
+                if os.path.exists(dir_name):
+                    shutil.rmtree(dir_name)
+                os.makedirs(dir_name)
             run(ds, hparams)
     else:
         ds = getattr(datasets, hparams.dataset)()
         print(ds.name)
+        if hparams.test_output_attention:
+            dir_name = '../output/' + ds.name + '_subgraph'
+            hparams.dir_name = dir_name
+            if os.path.exists(dir_name):
+                shutil.rmtree(dir_name)
+            os.makedirs(dir_name)
         run(ds, hparams)

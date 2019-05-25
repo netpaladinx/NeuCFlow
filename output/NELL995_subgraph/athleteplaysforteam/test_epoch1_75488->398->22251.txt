@@ -1,0 +1,13 @@
+nodes:
+75488(concept_athlete_ashley_cole):1.000000
+75488(concept_athlete_ashley_cole):1.000000
+75488(concept_athlete_ashley_cole):1.000000
+75488(concept_athlete_ashley_cole):1.000000
+75488(concept_athlete_ashley_cole):1.000000
+75488(concept_athlete_ashley_cole):1.000000
+edges:
+
+
+
+
+
