@@ -1,0 +1,3 @@
+# in Python 3.7
+
+tensorflow == 2.0.0-alpha0
