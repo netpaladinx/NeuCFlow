@@ -3,7 +3,6 @@ import argparse
 
 # FB237
 def get_fb237_config(parser):
-
     parser.add_argument('--dataset', default='FB237')
 
     parser.add_argument('--n_dims_sm', type=int, default=50)
