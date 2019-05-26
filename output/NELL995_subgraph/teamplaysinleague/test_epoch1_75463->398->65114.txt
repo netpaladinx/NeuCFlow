@@ -1,0 +1,13 @@
+nodes:
+75463(concept_sportsteam_oklahoma_st__cowboys):1.000000
+75463(concept_sportsteam_oklahoma_st__cowboys):1.000000
+75463(concept_sportsteam_oklahoma_st__cowboys):1.000000
+75463(concept_sportsteam_oklahoma_st__cowboys):1.000000
+75463(concept_sportsteam_oklahoma_st__cowboys):1.000000
+75463(concept_sportsteam_oklahoma_st__cowboys):1.000000
+edges:
+
+
+
+
+

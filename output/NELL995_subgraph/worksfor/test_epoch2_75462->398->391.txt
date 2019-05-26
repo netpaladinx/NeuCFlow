@@ -1,0 +1,13 @@
+nodes:
+75462(concept_journalist_john_stossel):1.000000
+75462(concept_journalist_john_stossel):1.000000
+75462(concept_journalist_john_stossel):1.000000
+75462(concept_journalist_john_stossel):1.000000
+75462(concept_journalist_john_stossel):1.000000
+75462(concept_journalist_john_stossel):1.000000
+edges:
+
+
+
+
+

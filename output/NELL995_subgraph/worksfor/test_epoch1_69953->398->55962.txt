@@ -1,0 +1,13 @@
+nodes:
+69953(concept_journalist_don_burke):1.000000
+55962(concept_newspaper_newark_star_ledger):0.999995	69953(concept_journalist_don_burke):0.000005
+69953(concept_journalist_don_burke):0.767384	55963(concept_athlete_don_burke):0.232610	55962(concept_newspaper_newark_star_ledger):0.000006
+55962(concept_newspaper_newark_star_ledger):0.999992	69953(concept_journalist_don_burke):0.000006	55963(concept_athlete_don_burke):0.000001
+69953(concept_journalist_don_burke):0.985631	55963(concept_athlete_don_burke):0.014362	55962(concept_newspaper_newark_star_ledger):0.000007
+55962(concept_newspaper_newark_star_ledger):0.999991	69953(concept_journalist_don_burke):0.000009	55963(concept_athlete_don_burke):0.000000
+edges:
+69953(concept_journalist_don_burke)->216(concept:journalistwritesforpublication)->55962(concept_newspaper_newark_star_ledger)
+55962(concept_newspaper_newark_star_ledger)->24(concept:agentcollaborateswithagent)->55963(concept_athlete_don_burke)	55962(concept_newspaper_newark_star_ledger)->217(concept:journalistwritesforpublication_inv)->69953(concept_journalist_don_burke)	69953(concept_journalist_don_burke)->216(concept:journalistwritesforpublication)->55962(concept_newspaper_newark_star_ledger)
+55962(concept_newspaper_newark_star_ledger)->24(concept:agentcollaborateswithagent)->55963(concept_athlete_don_burke)	55962(concept_newspaper_newark_star_ledger)->217(concept:journalistwritesforpublication_inv)->69953(concept_journalist_don_burke)	55963(concept_athlete_don_burke)->25(concept:agentcollaborateswithagent_inv)->55962(concept_newspaper_newark_star_ledger)	69953(concept_journalist_don_burke)->216(concept:journalistwritesforpublication)->55962(concept_newspaper_newark_star_ledger)
+55962(concept_newspaper_newark_star_ledger)->24(concept:agentcollaborateswithagent)->55963(concept_athlete_don_burke)	55962(concept_newspaper_newark_star_ledger)->217(concept:journalistwritesforpublication_inv)->69953(concept_journalist_don_burke)	55963(concept_athlete_don_burke)->25(concept:agentcollaborateswithagent_inv)->55962(concept_newspaper_newark_star_ledger)	69953(concept_journalist_don_burke)->216(concept:journalistwritesforpublication)->55962(concept_newspaper_newark_star_ledger)
+55962(concept_newspaper_newark_star_ledger)->24(concept:agentcollaborateswithagent)->55963(concept_athlete_don_burke)	55962(concept_newspaper_newark_star_ledger)->217(concept:journalistwritesforpublication_inv)->69953(concept_journalist_don_burke)	55963(concept_athlete_don_burke)->25(concept:agentcollaborateswithagent_inv)->55962(concept_newspaper_newark_star_ledger)	69953(concept_journalist_don_burke)->216(concept:journalistwritesforpublication)->55962(concept_newspaper_newark_star_ledger)

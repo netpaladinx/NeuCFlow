@@ -1,0 +1,13 @@
+nodes:
+65738(concept_athlete_jeff_nelson):1.000000
+12766(concept_sportsteamposition_center):0.993916	65738(concept_athlete_jeff_nelson):0.006084
+60490(concept_athlete_ivan_rodriguez):0.993916	1047(concept_sportsleague_mlb):0.006084	60813(concept_athlete_brian_moehler):0.000000
+39436(concept_sport_baseball):0.993916	1573(concept_sportsteam_red_sox_this_season):0.006084
+25194(concept_awardtrophytournament_world_series):1.000000	35600(concept_stadiumoreventvenue_shea_stadium):0.000000	21273(concept_sportsgame_n2009_world_series):0.000000
+1573(concept_sportsteam_red_sox_this_season):1.000000	59887(concept_coach_john_maine):0.000000	17194(concept_sportsteam_red_sox):0.000000	1046(concept_female_yankees):0.000000
+edges:
+65738(concept_athlete_jeff_nelson)->222(concept:athleteflyouttosportsteamposition)->12766(concept_sportsteamposition_center)
+12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60490(concept_athlete_ivan_rodriguez)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60813(concept_athlete_brian_moehler)	65738(concept_athlete_jeff_nelson)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->1573(concept_sportsteam_red_sox_this_season)	60490(concept_athlete_ivan_rodriguez)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	60813(concept_athlete_brian_moehler)->396(concept:athleteplayssport)->39436(concept_sport_baseball)
+1573(concept_sportsteam_red_sox_this_season)->260(concept:teamwontrophy)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->21273(concept_sportsgame_n2009_world_series)	39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)
+21273(concept_sportsgame_n2009_world_series)->13(concept:agentparticipatedinevent_inv)->1046(concept_female_yankees)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->1573(concept_sportsteam_red_sox_this_season)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->17194(concept_sportsteam_red_sox)	35600(concept_stadiumoreventvenue_shea_stadium)->183(concept:athletehomestadium_inv)->59887(concept_coach_john_maine)

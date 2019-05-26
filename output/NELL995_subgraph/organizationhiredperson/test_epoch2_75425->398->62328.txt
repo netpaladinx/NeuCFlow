@@ -1,0 +1,13 @@
+nodes:
+75425(concept_organization_quaker_state):1.000000
+75425(concept_organization_quaker_state):1.000000
+75425(concept_organization_quaker_state):1.000000
+75425(concept_organization_quaker_state):1.000000
+75425(concept_organization_quaker_state):1.000000
+75425(concept_organization_quaker_state):1.000000
+edges:
+
+
+
+
+

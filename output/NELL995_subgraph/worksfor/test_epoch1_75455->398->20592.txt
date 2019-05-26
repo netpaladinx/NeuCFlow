@@ -1,0 +1,13 @@
+nodes:
+75455(concept_journalist_sam_adams):1.000000
+75455(concept_journalist_sam_adams):1.000000
+75455(concept_journalist_sam_adams):1.000000
+75455(concept_journalist_sam_adams):1.000000
+75455(concept_journalist_sam_adams):1.000000
+75455(concept_journalist_sam_adams):1.000000
+edges:
+
+
+
+
+

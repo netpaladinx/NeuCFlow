@@ -1,0 +1,13 @@
+nodes:
+75483(concept_sportsteam_long_beach_st__49ers):1.000000
+75483(concept_sportsteam_long_beach_st__49ers):1.000000
+75483(concept_sportsteam_long_beach_st__49ers):1.000000
+75483(concept_sportsteam_long_beach_st__49ers):1.000000
+75483(concept_sportsteam_long_beach_st__49ers):1.000000
+75483(concept_sportsteam_long_beach_st__49ers):1.000000
+edges:
+
+
+
+
+

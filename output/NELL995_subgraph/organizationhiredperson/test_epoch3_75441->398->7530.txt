@@ -1,0 +1,13 @@
+nodes:
+75441(concept_politicalparty_indian_national_congress):1.000000
+75441(concept_politicalparty_indian_national_congress):1.000000
+75441(concept_politicalparty_indian_national_congress):1.000000
+75441(concept_politicalparty_indian_national_congress):1.000000
+75441(concept_politicalparty_indian_national_congress):1.000000
+75441(concept_politicalparty_indian_national_congress):1.000000
+edges:
+
+
+
+
+

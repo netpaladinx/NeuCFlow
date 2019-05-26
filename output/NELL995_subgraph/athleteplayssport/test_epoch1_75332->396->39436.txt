@@ -1,0 +1,13 @@
+nodes:
+75332(concept_female_shannon_stewart):1.000000
+75332(concept_female_shannon_stewart):1.000000
+75332(concept_female_shannon_stewart):1.000000
+75332(concept_female_shannon_stewart):1.000000
+75332(concept_female_shannon_stewart):1.000000
+75332(concept_female_shannon_stewart):1.000000
+edges:
+
+
+
+
+

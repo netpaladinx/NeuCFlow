@@ -1,0 +1,13 @@
+nodes:
+75488(concept_personeurope_luiz_felipe_scolari):1.000000
+75488(concept_personeurope_luiz_felipe_scolari):1.000000
+75488(concept_personeurope_luiz_felipe_scolari):1.000000
+75488(concept_personeurope_luiz_felipe_scolari):1.000000
+75488(concept_personeurope_luiz_felipe_scolari):1.000000
+75488(concept_personeurope_luiz_felipe_scolari):1.000000
+edges:
+
+
+
+
+

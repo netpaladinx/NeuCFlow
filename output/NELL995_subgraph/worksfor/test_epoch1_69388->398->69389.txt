@@ -1,0 +1,13 @@
+nodes:
+69388(concept_ceo_steve_luczo):1.000000
+69389(concept_biotechcompany_seagate_technology):0.999998	69388(concept_ceo_steve_luczo):0.000002
+69388(concept_ceo_steve_luczo):0.999997	69389(concept_biotechcompany_seagate_technology):0.000003
+69389(concept_biotechcompany_seagate_technology):0.999997	69388(concept_ceo_steve_luczo):0.000003
+69388(concept_ceo_steve_luczo):0.999997	69389(concept_biotechcompany_seagate_technology):0.000003
+69389(concept_biotechcompany_seagate_technology):0.999997	69388(concept_ceo_steve_luczo):0.000003
+edges:
+69388(concept_ceo_steve_luczo)->26(concept:personleadsorganization)->69389(concept_biotechcompany_seagate_technology)
+69388(concept_ceo_steve_luczo)->26(concept:personleadsorganization)->69389(concept_biotechcompany_seagate_technology)	69389(concept_biotechcompany_seagate_technology)->27(concept:personleadsorganization_inv)->69388(concept_ceo_steve_luczo)
+69388(concept_ceo_steve_luczo)->26(concept:personleadsorganization)->69389(concept_biotechcompany_seagate_technology)	69389(concept_biotechcompany_seagate_technology)->27(concept:personleadsorganization_inv)->69388(concept_ceo_steve_luczo)
+69388(concept_ceo_steve_luczo)->26(concept:personleadsorganization)->69389(concept_biotechcompany_seagate_technology)	69389(concept_biotechcompany_seagate_technology)->27(concept:personleadsorganization_inv)->69388(concept_ceo_steve_luczo)
+69388(concept_ceo_steve_luczo)->26(concept:personleadsorganization)->69389(concept_biotechcompany_seagate_technology)	69389(concept_biotechcompany_seagate_technology)->27(concept:personleadsorganization_inv)->69388(concept_ceo_steve_luczo)

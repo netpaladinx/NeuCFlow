@@ -1,0 +1,13 @@
+nodes:
+2121(concept_ceo_millard_drexler):1.000000
+2120(concept_company_j__crew):1.000000	2121(concept_ceo_millard_drexler):0.000000
+2121(concept_ceo_millard_drexler):1.000000	2120(concept_company_j__crew):0.000000
+2120(concept_company_j__crew):1.000000	2121(concept_ceo_millard_drexler):0.000000
+2121(concept_ceo_millard_drexler):1.000000	2120(concept_company_j__crew):0.000000
+2120(concept_company_j__crew):1.000000	2121(concept_ceo_millard_drexler):0.000000
+edges:
+2121(concept_ceo_millard_drexler)->25(concept:agentcollaborateswithagent_inv)->2120(concept_company_j__crew)	2121(concept_ceo_millard_drexler)->26(concept:personleadsorganization)->2120(concept_company_j__crew)
+2120(concept_company_j__crew)->24(concept:agentcollaborateswithagent)->2121(concept_ceo_millard_drexler)	2120(concept_company_j__crew)->27(concept:personleadsorganization_inv)->2121(concept_ceo_millard_drexler)	2121(concept_ceo_millard_drexler)->25(concept:agentcollaborateswithagent_inv)->2120(concept_company_j__crew)	2121(concept_ceo_millard_drexler)->26(concept:personleadsorganization)->2120(concept_company_j__crew)
+2120(concept_company_j__crew)->24(concept:agentcollaborateswithagent)->2121(concept_ceo_millard_drexler)	2120(concept_company_j__crew)->27(concept:personleadsorganization_inv)->2121(concept_ceo_millard_drexler)	2121(concept_ceo_millard_drexler)->25(concept:agentcollaborateswithagent_inv)->2120(concept_company_j__crew)	2121(concept_ceo_millard_drexler)->26(concept:personleadsorganization)->2120(concept_company_j__crew)
+2120(concept_company_j__crew)->24(concept:agentcollaborateswithagent)->2121(concept_ceo_millard_drexler)	2120(concept_company_j__crew)->27(concept:personleadsorganization_inv)->2121(concept_ceo_millard_drexler)	2121(concept_ceo_millard_drexler)->25(concept:agentcollaborateswithagent_inv)->2120(concept_company_j__crew)	2121(concept_ceo_millard_drexler)->26(concept:personleadsorganization)->2120(concept_company_j__crew)
+2120(concept_company_j__crew)->24(concept:agentcollaborateswithagent)->2121(concept_ceo_millard_drexler)	2120(concept_company_j__crew)->27(concept:personleadsorganization_inv)->2121(concept_ceo_millard_drexler)	2121(concept_ceo_millard_drexler)->25(concept:agentcollaborateswithagent_inv)->2120(concept_company_j__crew)	2121(concept_ceo_millard_drexler)->26(concept:personleadsorganization)->2120(concept_company_j__crew)

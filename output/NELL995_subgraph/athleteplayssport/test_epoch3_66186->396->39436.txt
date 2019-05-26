@@ -1,0 +1,13 @@
+nodes:
+66186(concept_personmexico_daisuke_matsuzaka):1.000000
+12766(concept_sportsteamposition_center):1.000000
+60490(concept_athlete_ivan_rodriguez):1.000000	60813(concept_athlete_brian_moehler):0.000000	60288(concept_personmexico_jason_kubel):0.000000
+39436(concept_sport_baseball):1.000000	25194(concept_awardtrophytournament_world_series):0.000000
+21273(concept_sportsgame_n2009_world_series):1.000000	35600(concept_stadiumoreventvenue_shea_stadium):0.000000	1573(concept_sportsteam_red_sox_this_season):0.000000	35265(concept_stadiumoreventvenue_tropicana_field):0.000000
+39436(concept_sport_baseball):1.000000
+edges:
+66186(concept_personmexico_daisuke_matsuzaka)->222(concept:athleteflyouttosportsteamposition)->12766(concept_sportsteamposition_center)
+12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60288(concept_personmexico_jason_kubel)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60490(concept_athlete_ivan_rodriguez)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60813(concept_athlete_brian_moehler)
+60288(concept_personmexico_jason_kubel)->152(concept:coachwontrophy)->25194(concept_awardtrophytournament_world_series)	60288(concept_personmexico_jason_kubel)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	60490(concept_athlete_ivan_rodriguez)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	60813(concept_athlete_brian_moehler)->396(concept:athleteplayssport)->39436(concept_sport_baseball)
+25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->1573(concept_sportsteam_red_sox_this_season)	39436(concept_sport_baseball)->181(concept:teamplayssport_inv)->1573(concept_sportsteam_red_sox_this_season)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->21273(concept_sportsgame_n2009_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35265(concept_stadiumoreventvenue_tropicana_field)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)
+1573(concept_sportsteam_red_sox_this_season)->180(concept:teamplayssport)->39436(concept_sport_baseball)	21273(concept_sportsgame_n2009_world_series)->320(concept:sportsgamesport)->39436(concept_sport_baseball)	35265(concept_stadiumoreventvenue_tropicana_field)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	35600(concept_stadiumoreventvenue_shea_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)

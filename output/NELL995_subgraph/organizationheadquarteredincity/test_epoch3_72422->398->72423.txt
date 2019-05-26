@@ -1,0 +1,13 @@
+nodes:
+72422(concept_company_air_southwest):1.000000
+72423(concept_city_newquay):0.863884	72422(concept_company_air_southwest):0.136116
+72423(concept_city_newquay):0.968302	72422(concept_company_air_southwest):0.031698
+72423(concept_city_newquay):0.999281	72422(concept_company_air_southwest):0.000719
+72423(concept_city_newquay):0.999997	72422(concept_company_air_southwest):0.000003
+72423(concept_city_newquay):1.000000	72422(concept_company_air_southwest):0.000000
+edges:
+72422(concept_company_air_southwest)->168(concept:hasofficeincity)->72423(concept_city_newquay)
+72422(concept_company_air_southwest)->168(concept:hasofficeincity)->72423(concept_city_newquay)	72423(concept_city_newquay)->169(concept:hasofficeincity_inv)->72422(concept_company_air_southwest)
+72422(concept_company_air_southwest)->168(concept:hasofficeincity)->72423(concept_city_newquay)	72423(concept_city_newquay)->169(concept:hasofficeincity_inv)->72422(concept_company_air_southwest)
+72422(concept_company_air_southwest)->168(concept:hasofficeincity)->72423(concept_city_newquay)	72423(concept_city_newquay)->169(concept:hasofficeincity_inv)->72422(concept_company_air_southwest)
+72422(concept_company_air_southwest)->168(concept:hasofficeincity)->72423(concept_city_newquay)	72423(concept_city_newquay)->169(concept:hasofficeincity_inv)->72422(concept_company_air_southwest)

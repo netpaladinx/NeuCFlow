@@ -1,0 +1,13 @@
+nodes:
+69945(concept_journalist_mike_lopresti):1.000000
+69946(concept_newspaper_gannett_news_service):1.000000	69945(concept_journalist_mike_lopresti):0.000000
+69945(concept_journalist_mike_lopresti):1.000000	69946(concept_newspaper_gannett_news_service):0.000000
+69946(concept_newspaper_gannett_news_service):1.000000	69945(concept_journalist_mike_lopresti):0.000000
+69945(concept_journalist_mike_lopresti):1.000000	69946(concept_newspaper_gannett_news_service):0.000000
+69946(concept_newspaper_gannett_news_service):1.000000	69945(concept_journalist_mike_lopresti):0.000000
+edges:
+69945(concept_journalist_mike_lopresti)->216(concept:journalistwritesforpublication)->69946(concept_newspaper_gannett_news_service)
+69945(concept_journalist_mike_lopresti)->216(concept:journalistwritesforpublication)->69946(concept_newspaper_gannett_news_service)	69946(concept_newspaper_gannett_news_service)->217(concept:journalistwritesforpublication_inv)->69945(concept_journalist_mike_lopresti)
+69945(concept_journalist_mike_lopresti)->216(concept:journalistwritesforpublication)->69946(concept_newspaper_gannett_news_service)	69946(concept_newspaper_gannett_news_service)->217(concept:journalistwritesforpublication_inv)->69945(concept_journalist_mike_lopresti)
+69945(concept_journalist_mike_lopresti)->216(concept:journalistwritesforpublication)->69946(concept_newspaper_gannett_news_service)	69946(concept_newspaper_gannett_news_service)->217(concept:journalistwritesforpublication_inv)->69945(concept_journalist_mike_lopresti)
+69945(concept_journalist_mike_lopresti)->216(concept:journalistwritesforpublication)->69946(concept_newspaper_gannett_news_service)	69946(concept_newspaper_gannett_news_service)->217(concept:journalistwritesforpublication_inv)->69945(concept_journalist_mike_lopresti)

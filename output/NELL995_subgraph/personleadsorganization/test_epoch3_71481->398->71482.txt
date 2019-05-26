@@ -1,0 +1,13 @@
+nodes:
+71481(concept_ceo_helge_lund):1.000000
+71482(concept_company_statoil):1.000000	71481(concept_ceo_helge_lund):0.000000
+71481(concept_ceo_helge_lund):0.999999	71482(concept_company_statoil):0.000001
+71482(concept_company_statoil):0.999999	71481(concept_ceo_helge_lund):0.000001
+71481(concept_ceo_helge_lund):0.999999	71482(concept_company_statoil):0.000002
+71482(concept_company_statoil):0.999999	71481(concept_ceo_helge_lund):0.000002
+edges:
+71481(concept_ceo_helge_lund)->0(concept:worksfor)->71482(concept_company_statoil)
+71481(concept_ceo_helge_lund)->0(concept:worksfor)->71482(concept_company_statoil)	71482(concept_company_statoil)->1(concept:worksfor_inv)->71481(concept_ceo_helge_lund)
+71481(concept_ceo_helge_lund)->0(concept:worksfor)->71482(concept_company_statoil)	71482(concept_company_statoil)->1(concept:worksfor_inv)->71481(concept_ceo_helge_lund)
+71481(concept_ceo_helge_lund)->0(concept:worksfor)->71482(concept_company_statoil)	71482(concept_company_statoil)->1(concept:worksfor_inv)->71481(concept_ceo_helge_lund)
+71481(concept_ceo_helge_lund)->0(concept:worksfor)->71482(concept_company_statoil)	71482(concept_company_statoil)->1(concept:worksfor_inv)->71481(concept_ceo_helge_lund)

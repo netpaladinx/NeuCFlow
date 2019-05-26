@@ -1,0 +1,13 @@
+nodes:
+74098(concept_professor_chad_deaton):1.000000
+74099(concept_biotechcompany_baker_hughes):0.999999	74098(concept_professor_chad_deaton):0.000001
+74098(concept_professor_chad_deaton):0.999998	74099(concept_biotechcompany_baker_hughes):0.000002
+74099(concept_biotechcompany_baker_hughes):0.999998	74098(concept_professor_chad_deaton):0.000002
+74098(concept_professor_chad_deaton):0.999998	74099(concept_biotechcompany_baker_hughes):0.000002
+74099(concept_biotechcompany_baker_hughes):0.999998	74098(concept_professor_chad_deaton):0.000002
+edges:
+74098(concept_professor_chad_deaton)->26(concept:personleadsorganization)->74099(concept_biotechcompany_baker_hughes)
+74098(concept_professor_chad_deaton)->26(concept:personleadsorganization)->74099(concept_biotechcompany_baker_hughes)	74099(concept_biotechcompany_baker_hughes)->27(concept:personleadsorganization_inv)->74098(concept_professor_chad_deaton)
+74098(concept_professor_chad_deaton)->26(concept:personleadsorganization)->74099(concept_biotechcompany_baker_hughes)	74099(concept_biotechcompany_baker_hughes)->27(concept:personleadsorganization_inv)->74098(concept_professor_chad_deaton)
+74098(concept_professor_chad_deaton)->26(concept:personleadsorganization)->74099(concept_biotechcompany_baker_hughes)	74099(concept_biotechcompany_baker_hughes)->27(concept:personleadsorganization_inv)->74098(concept_professor_chad_deaton)
+74098(concept_professor_chad_deaton)->26(concept:personleadsorganization)->74099(concept_biotechcompany_baker_hughes)	74099(concept_biotechcompany_baker_hughes)->27(concept:personleadsorganization_inv)->74098(concept_professor_chad_deaton)

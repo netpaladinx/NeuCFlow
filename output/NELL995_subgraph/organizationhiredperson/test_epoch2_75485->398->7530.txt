@@ -1,0 +1,13 @@
+nodes:
+75485(concept_nongovorganization_leftist_parties):1.000000
+75485(concept_nongovorganization_leftist_parties):1.000000
+75485(concept_nongovorganization_leftist_parties):1.000000
+75485(concept_nongovorganization_leftist_parties):1.000000
+75485(concept_nongovorganization_leftist_parties):1.000000
+75485(concept_nongovorganization_leftist_parties):1.000000
+edges:
+
+
+
+
+

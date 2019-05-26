@@ -1,0 +1,8 @@
+concept_person_julian	concept:personborninlocation	concept_city_york
+
+concept_person_julian	concept:personbornincity	concept_city_york
+concept_person_julian	concept:persondiedatage	2
+concept_city_york	concept:personbornincity_inv	concept_person_julian
+2	concept:persondiedatage_inv	concept_person_richard003
+2	concept:persondiedatage_inv	concept_person_julian
+concept_person_richard003	concept:persondiedatage	2

@@ -1,0 +1,13 @@
+nodes:
+75486(concept_sportsteam_arkansas_state_indians):1.000000
+75486(concept_sportsteam_arkansas_state_indians):1.000000
+75486(concept_sportsteam_arkansas_state_indians):1.000000
+75486(concept_sportsteam_arkansas_state_indians):1.000000
+75486(concept_sportsteam_arkansas_state_indians):1.000000
+75486(concept_sportsteam_arkansas_state_indians):1.000000
+edges:
+
+
+
+
+

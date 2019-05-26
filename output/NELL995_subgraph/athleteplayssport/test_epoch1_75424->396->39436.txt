@@ -1,0 +1,13 @@
+nodes:
+75424(concept_athlete_boone_logan):1.000000
+75424(concept_athlete_boone_logan):1.000000
+75424(concept_athlete_boone_logan):1.000000
+75424(concept_athlete_boone_logan):1.000000
+75424(concept_athlete_boone_logan):1.000000
+75424(concept_athlete_boone_logan):1.000000
+edges:
+
+
+
+
+

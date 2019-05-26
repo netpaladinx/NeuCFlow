@@ -1,0 +1,13 @@
+nodes:
+66111(concept_athlete_reggie_sanders):1.000000
+66111(concept_athlete_reggie_sanders):1.000000
+1423(concept_sportsleague_nfl):1.000000
+11168(concept_sportsteam_redskins):1.000000
+3601(concept_sport_football):1.000000
+1688(concept_awardtrophytournament_super_bowl):1.000000
+edges:
+
+66111(concept_athlete_reggie_sanders)->158(concept:athleteplaysinleague)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)
+11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)
+3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->1688(concept_awardtrophytournament_super_bowl)

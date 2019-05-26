@@ -1,0 +1,13 @@
+nodes:
+75421(concept_sportsteam_moscow_state_university):1.000000
+75421(concept_sportsteam_moscow_state_university):1.000000
+75421(concept_sportsteam_moscow_state_university):1.000000
+75421(concept_sportsteam_moscow_state_university):1.000000
+75421(concept_sportsteam_moscow_state_university):1.000000
+75421(concept_sportsteam_moscow_state_university):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+75480(concept_publication_bookforum):1.000000
+75480(concept_publication_bookforum):1.000000
+75480(concept_publication_bookforum):1.000000
+75480(concept_publication_bookforum):1.000000
+75480(concept_publication_bookforum):1.000000
+75480(concept_publication_bookforum):1.000000
+edges:
+
+
+
+
+

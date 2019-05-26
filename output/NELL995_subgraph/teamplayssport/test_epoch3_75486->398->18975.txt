@@ -1,0 +1,13 @@
+nodes:
+75486(concept_sportsteam_cincinnati_royals):1.000000
+75486(concept_sportsteam_cincinnati_royals):1.000000
+75486(concept_sportsteam_cincinnati_royals):1.000000
+75486(concept_sportsteam_cincinnati_royals):1.000000
+75486(concept_sportsteam_cincinnati_royals):1.000000
+75486(concept_sportsteam_cincinnati_royals):1.000000
+edges:
+
+
+
+
+

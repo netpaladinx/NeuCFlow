@@ -1,0 +1,13 @@
+nodes:
+71300(concept_ceo_helge_lund):1.000000
+71301(concept_company_statoil):1.000000	71300(concept_ceo_helge_lund):0.000000
+71300(concept_ceo_helge_lund):1.000000	71301(concept_company_statoil):0.000000
+71301(concept_company_statoil):1.000000	71300(concept_ceo_helge_lund):0.000000
+71300(concept_ceo_helge_lund):1.000000	71301(concept_company_statoil):0.000000
+71301(concept_company_statoil):1.000000	71300(concept_ceo_helge_lund):0.000000
+edges:
+71300(concept_ceo_helge_lund)->26(concept:personleadsorganization)->71301(concept_company_statoil)
+71300(concept_ceo_helge_lund)->26(concept:personleadsorganization)->71301(concept_company_statoil)	71301(concept_company_statoil)->27(concept:personleadsorganization_inv)->71300(concept_ceo_helge_lund)
+71300(concept_ceo_helge_lund)->26(concept:personleadsorganization)->71301(concept_company_statoil)	71301(concept_company_statoil)->27(concept:personleadsorganization_inv)->71300(concept_ceo_helge_lund)
+71300(concept_ceo_helge_lund)->26(concept:personleadsorganization)->71301(concept_company_statoil)	71301(concept_company_statoil)->27(concept:personleadsorganization_inv)->71300(concept_ceo_helge_lund)
+71300(concept_ceo_helge_lund)->26(concept:personleadsorganization)->71301(concept_company_statoil)	71301(concept_company_statoil)->27(concept:personleadsorganization_inv)->71300(concept_ceo_helge_lund)

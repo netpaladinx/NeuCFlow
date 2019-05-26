@@ -1,0 +1,13 @@
+nodes:
+65924(concept_athlete_bret_boone):1.000000
+65924(concept_athlete_bret_boone):1.000000	35304(concept_stadiumoreventvenue_safeco_field):0.000000
+59407(concept_sportsleague_major_league_baseball):1.000000	39436(concept_sport_baseball):0.000000
+1047(concept_sportsleague_mlb):1.000000	35643(concept_stadiumoreventvenue_dolphin_stadium):0.000000
+17194(concept_sportsteam_red_sox):1.000000	39714(concept_sportsteam_los_angeles_angels_of_anaheim):0.000000	21191(concept_sportsteam_phillies):0.000000	1423(concept_sportsleague_nfl):0.000000
+39436(concept_sport_baseball):1.000000	11168(concept_sportsteam_redskins):0.000000
+edges:
+65924(concept_athlete_bret_boone)->182(concept:athletehomestadium)->35304(concept_stadiumoreventvenue_safeco_field)
+35304(concept_stadiumoreventvenue_safeco_field)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	65924(concept_athlete_bret_boone)->158(concept:athleteplaysinleague)->59407(concept_sportsleague_major_league_baseball)
+39436(concept_sport_baseball)->302(concept:sportusesstadium)->35643(concept_stadiumoreventvenue_dolphin_stadium)	59407(concept_sportsleague_major_league_baseball)->163(concept:organizationacronymhasname_inv)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->21191(concept_sportsteam_phillies)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->39714(concept_sportsteam_los_angeles_angels_of_anaheim)	35643(concept_stadiumoreventvenue_dolphin_stadium)->395(concept:leaguestadiums_inv)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)	21191(concept_sportsteam_phillies)->180(concept:teamplayssport)->39436(concept_sport_baseball)	39714(concept_sportsteam_los_angeles_angels_of_anaheim)->180(concept:teamplayssport)->39436(concept_sport_baseball)

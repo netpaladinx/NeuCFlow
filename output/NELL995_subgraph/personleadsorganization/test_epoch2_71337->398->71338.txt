@@ -1,0 +1,13 @@
+nodes:
+71337(concept_ceo_chua_sock_koong):1.000000
+71338(concept_company_singtel):0.999498	71337(concept_ceo_chua_sock_koong):0.000502
+71337(concept_ceo_chua_sock_koong):0.999394	71338(concept_company_singtel):0.000606
+71338(concept_company_singtel):0.999053	71337(concept_ceo_chua_sock_koong):0.000947
+71337(concept_ceo_chua_sock_koong):0.998875	71338(concept_company_singtel):0.001125
+71338(concept_company_singtel):0.998874	71337(concept_ceo_chua_sock_koong):0.001126
+edges:
+71337(concept_ceo_chua_sock_koong)->0(concept:worksfor)->71338(concept_company_singtel)
+71337(concept_ceo_chua_sock_koong)->0(concept:worksfor)->71338(concept_company_singtel)	71338(concept_company_singtel)->1(concept:worksfor_inv)->71337(concept_ceo_chua_sock_koong)
+71337(concept_ceo_chua_sock_koong)->0(concept:worksfor)->71338(concept_company_singtel)	71338(concept_company_singtel)->1(concept:worksfor_inv)->71337(concept_ceo_chua_sock_koong)
+71337(concept_ceo_chua_sock_koong)->0(concept:worksfor)->71338(concept_company_singtel)	71338(concept_company_singtel)->1(concept:worksfor_inv)->71337(concept_ceo_chua_sock_koong)
+71337(concept_ceo_chua_sock_koong)->0(concept:worksfor)->71338(concept_company_singtel)	71338(concept_company_singtel)->1(concept:worksfor_inv)->71337(concept_ceo_chua_sock_koong)

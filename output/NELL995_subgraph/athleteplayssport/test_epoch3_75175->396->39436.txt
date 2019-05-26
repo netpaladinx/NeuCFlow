@@ -1,0 +1,13 @@
+nodes:
+75175(concept_athlete_brian_tallet):1.000000
+75175(concept_athlete_brian_tallet):1.000000
+75175(concept_athlete_brian_tallet):1.000000
+75175(concept_athlete_brian_tallet):1.000000
+75175(concept_athlete_brian_tallet):1.000000
+75175(concept_athlete_brian_tallet):1.000000
+edges:
+
+
+
+
+

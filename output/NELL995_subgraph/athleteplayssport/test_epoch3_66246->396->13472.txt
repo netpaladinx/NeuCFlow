@@ -1,0 +1,13 @@
+nodes:
+66246(concept_athlete_erick_dampier):1.000000
+66246(concept_athlete_erick_dampier):1.000000	3083(concept_sportsleague_nba):0.000000
+3083(concept_sportsleague_nba):1.000000	24004(concept_sportsteam_golden_state_warriors):0.000000
+24004(concept_sportsteam_golden_state_warriors):1.000000	13472(concept_sport_basketball):0.000000
+13472(concept_sport_basketball):1.000000	46960(concept_sportsgame_western_conference):0.000000
+40628(concept_stadiumoreventvenue_td_garden):1.000000	13472(concept_sport_basketball):0.000000
+edges:
+66246(concept_athlete_erick_dampier)->158(concept:athleteplaysinleague)->3083(concept_sportsleague_nba)
+3083(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3083(concept_sportsleague_nba)	3083(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3083(concept_sportsleague_nba)	3083(concept_sportsleague_nba)->179(concept:teamplaysinleague_inv)->24004(concept_sportsteam_golden_state_warriors)	66246(concept_athlete_erick_dampier)->158(concept:athleteplaysinleague)->3083(concept_sportsleague_nba)
+3083(concept_sportsleague_nba)->179(concept:teamplaysinleague_inv)->24004(concept_sportsteam_golden_state_warriors)	24004(concept_sportsteam_golden_state_warriors)->180(concept:teamplayssport)->13472(concept_sport_basketball)
+13472(concept_sport_basketball)->321(concept:sportsgamesport_inv)->46960(concept_sportsgame_western_conference)	24004(concept_sportsteam_golden_state_warriors)->180(concept:teamplayssport)->13472(concept_sport_basketball)
+13472(concept_sport_basketball)->302(concept:sportusesstadium)->40628(concept_stadiumoreventvenue_td_garden)	46960(concept_sportsgame_western_conference)->320(concept:sportsgamesport)->13472(concept_sport_basketball)

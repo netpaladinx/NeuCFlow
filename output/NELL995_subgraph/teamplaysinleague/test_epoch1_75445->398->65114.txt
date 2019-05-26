@@ -1,0 +1,13 @@
+nodes:
+75445(concept_sportsteam_middle_tenn__st__blue_raiders):1.000000
+75445(concept_sportsteam_middle_tenn__st__blue_raiders):1.000000
+75445(concept_sportsteam_middle_tenn__st__blue_raiders):1.000000
+75445(concept_sportsteam_middle_tenn__st__blue_raiders):1.000000
+75445(concept_sportsteam_middle_tenn__st__blue_raiders):1.000000
+75445(concept_sportsteam_middle_tenn__st__blue_raiders):1.000000
+edges:
+
+
+
+
+

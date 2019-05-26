@@ -1,0 +1,13 @@
+nodes:
+71308(concept_ceo_paul_d__house):1.000000
+71309(concept_company_tim_hortons):0.999999	71308(concept_ceo_paul_d__house):0.000001
+71308(concept_ceo_paul_d__house):0.999999	71309(concept_company_tim_hortons):0.000001
+71309(concept_company_tim_hortons):0.999998	71308(concept_ceo_paul_d__house):0.000002
+71308(concept_ceo_paul_d__house):0.999998	71309(concept_company_tim_hortons):0.000002
+71309(concept_company_tim_hortons):0.999998	71308(concept_ceo_paul_d__house):0.000002
+edges:
+71308(concept_ceo_paul_d__house)->0(concept:worksfor)->71309(concept_company_tim_hortons)
+71308(concept_ceo_paul_d__house)->0(concept:worksfor)->71309(concept_company_tim_hortons)	71309(concept_company_tim_hortons)->1(concept:worksfor_inv)->71308(concept_ceo_paul_d__house)
+71308(concept_ceo_paul_d__house)->0(concept:worksfor)->71309(concept_company_tim_hortons)	71309(concept_company_tim_hortons)->1(concept:worksfor_inv)->71308(concept_ceo_paul_d__house)
+71308(concept_ceo_paul_d__house)->0(concept:worksfor)->71309(concept_company_tim_hortons)	71309(concept_company_tim_hortons)->1(concept:worksfor_inv)->71308(concept_ceo_paul_d__house)
+71308(concept_ceo_paul_d__house)->0(concept:worksfor)->71309(concept_company_tim_hortons)	71309(concept_company_tim_hortons)->1(concept:worksfor_inv)->71308(concept_ceo_paul_d__house)

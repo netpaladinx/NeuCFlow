@@ -1,0 +1,13 @@
+nodes:
+12683(concept_chef_jerome_corsi):1.000000
+12682(concept_company_wnd):0.999997	12683(concept_chef_jerome_corsi):0.000003
+12683(concept_chef_jerome_corsi):0.999996	12682(concept_company_wnd):0.000004
+12682(concept_company_wnd):0.999996	12683(concept_chef_jerome_corsi):0.000004
+12683(concept_chef_jerome_corsi):0.999996	12682(concept_company_wnd):0.000004
+12682(concept_company_wnd):0.999996	12683(concept_chef_jerome_corsi):0.000004
+edges:
+12683(concept_chef_jerome_corsi)->25(concept:agentcollaborateswithagent_inv)->12682(concept_company_wnd)
+12682(concept_company_wnd)->24(concept:agentcollaborateswithagent)->12683(concept_chef_jerome_corsi)	12683(concept_chef_jerome_corsi)->25(concept:agentcollaborateswithagent_inv)->12682(concept_company_wnd)
+12682(concept_company_wnd)->24(concept:agentcollaborateswithagent)->12683(concept_chef_jerome_corsi)	12683(concept_chef_jerome_corsi)->25(concept:agentcollaborateswithagent_inv)->12682(concept_company_wnd)
+12682(concept_company_wnd)->24(concept:agentcollaborateswithagent)->12683(concept_chef_jerome_corsi)	12683(concept_chef_jerome_corsi)->25(concept:agentcollaborateswithagent_inv)->12682(concept_company_wnd)
+12682(concept_company_wnd)->24(concept:agentcollaborateswithagent)->12683(concept_chef_jerome_corsi)	12683(concept_chef_jerome_corsi)->25(concept:agentcollaborateswithagent_inv)->12682(concept_company_wnd)

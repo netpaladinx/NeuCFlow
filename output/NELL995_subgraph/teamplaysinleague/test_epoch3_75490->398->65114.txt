@@ -1,0 +1,13 @@
+nodes:
+75490(concept_sportsteam_california_davis_aggies):1.000000
+75490(concept_sportsteam_california_davis_aggies):1.000000
+75490(concept_sportsteam_california_davis_aggies):1.000000
+75490(concept_sportsteam_california_davis_aggies):1.000000
+75490(concept_sportsteam_california_davis_aggies):1.000000
+75490(concept_sportsteam_california_davis_aggies):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+75297(concept_athlete_tim_spooneybarger):1.000000
+75297(concept_athlete_tim_spooneybarger):1.000000
+75297(concept_athlete_tim_spooneybarger):1.000000
+75297(concept_athlete_tim_spooneybarger):1.000000
+75297(concept_athlete_tim_spooneybarger):1.000000
+75297(concept_athlete_tim_spooneybarger):1.000000
+edges:
+
+
+
+
+

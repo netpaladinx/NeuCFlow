@@ -1,0 +1,13 @@
+nodes:
+66105(concept_coach_jeff_fulchino):1.000000
+12766(concept_sportsteamposition_center):1.000000
+59796(concept_athlete_nick_swisher):0.999988	65214(concept_athlete_rick_vandenhurk):0.000012	65487(concept_athlete_denny_bautista):0.000000	60565(concept_athlete_john_wetteland):0.000000	60579(concept_coach_jason_bay):0.000000	59923(concept_athlete_dan_boyle):0.000000
+39436(concept_sport_baseball):1.000000	25194(concept_awardtrophytournament_world_series):0.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000
+edges:
+66105(concept_coach_jeff_fulchino)->222(concept:athleteflyouttosportsteamposition)->12766(concept_sportsteamposition_center)
+12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->59796(concept_athlete_nick_swisher)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->59923(concept_athlete_dan_boyle)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60565(concept_athlete_john_wetteland)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60579(concept_coach_jason_bay)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->65214(concept_athlete_rick_vandenhurk)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->65487(concept_athlete_denny_bautista)
+59796(concept_athlete_nick_swisher)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	59923(concept_athlete_dan_boyle)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	60565(concept_athlete_john_wetteland)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	60579(concept_coach_jason_bay)->152(concept:coachwontrophy)->25194(concept_awardtrophytournament_world_series)	60579(concept_coach_jason_bay)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	65214(concept_athlete_rick_vandenhurk)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	65487(concept_athlete_denny_bautista)->396(concept:athleteplayssport)->39436(concept_sport_baseball)
+25194(concept_awardtrophytournament_world_series)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)

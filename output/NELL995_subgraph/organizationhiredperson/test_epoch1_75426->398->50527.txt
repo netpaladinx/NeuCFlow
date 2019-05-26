@@ -1,0 +1,13 @@
+nodes:
+75426(concept_politicalparty_iraqi_government):1.000000
+75426(concept_politicalparty_iraqi_government):1.000000
+75426(concept_politicalparty_iraqi_government):1.000000
+75426(concept_politicalparty_iraqi_government):1.000000
+75426(concept_politicalparty_iraqi_government):1.000000
+75426(concept_politicalparty_iraqi_government):1.000000
+edges:
+
+
+
+
+

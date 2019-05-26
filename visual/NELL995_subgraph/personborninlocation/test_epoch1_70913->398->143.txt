@@ -1,0 +1,8 @@
+concept_person_governor	concept:personborninlocation	concept_city_york
+
+concept_person_governor	concept:atdate	concept_date_n2004
+concept_person_governor	concept:atdate	concept_date_n2001
+concept_person_governor	concept:personbornincity	concept_city_hampshire
+concept_date_n2004	concept:atdate_inv	concept_person_governor
+concept_date_n2001	concept:atdate_inv	concept_person_governor
+concept_city_hampshire	concept:personbornincity_inv	concept_person_governor

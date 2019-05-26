@@ -1,0 +1,13 @@
+nodes:
+69359(concept_professor_david_yu):1.000000
+69360(concept_company_betfair):1.000000	69359(concept_professor_david_yu):0.000000
+69359(concept_professor_david_yu):1.000000	69360(concept_company_betfair):0.000000
+69360(concept_company_betfair):1.000000	69359(concept_professor_david_yu):0.000000
+69359(concept_professor_david_yu):1.000000	69360(concept_company_betfair):0.000000
+69360(concept_company_betfair):1.000000	69359(concept_professor_david_yu):0.000000
+edges:
+69359(concept_professor_david_yu)->26(concept:personleadsorganization)->69360(concept_company_betfair)
+69359(concept_professor_david_yu)->26(concept:personleadsorganization)->69360(concept_company_betfair)	69360(concept_company_betfair)->27(concept:personleadsorganization_inv)->69359(concept_professor_david_yu)
+69359(concept_professor_david_yu)->26(concept:personleadsorganization)->69360(concept_company_betfair)	69360(concept_company_betfair)->27(concept:personleadsorganization_inv)->69359(concept_professor_david_yu)
+69359(concept_professor_david_yu)->26(concept:personleadsorganization)->69360(concept_company_betfair)	69360(concept_company_betfair)->27(concept:personleadsorganization_inv)->69359(concept_professor_david_yu)
+69359(concept_professor_david_yu)->26(concept:personleadsorganization)->69360(concept_company_betfair)	69360(concept_company_betfair)->27(concept:personleadsorganization_inv)->69359(concept_professor_david_yu)

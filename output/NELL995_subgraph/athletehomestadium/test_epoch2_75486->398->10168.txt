@@ -1,0 +1,13 @@
+nodes:
+75486(concept_athlete_jerricho_cotchery):1.000000
+75486(concept_athlete_jerricho_cotchery):1.000000
+75486(concept_athlete_jerricho_cotchery):1.000000
+75486(concept_athlete_jerricho_cotchery):1.000000
+75486(concept_athlete_jerricho_cotchery):1.000000
+75486(concept_athlete_jerricho_cotchery):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+15842(concept_person_susan_newman):1.000000
+71779(concept_organization_it):0.963252	15841(concept_creditunion_it):0.036706	15842(concept_person_susan_newman):0.000042
+15842(concept_person_susan_newman):0.999921	71779(concept_organization_it):0.000053	15841(concept_creditunion_it):0.000026
+71779(concept_organization_it):0.953047	15841(concept_creditunion_it):0.046696	15842(concept_person_susan_newman):0.000257
+15842(concept_person_susan_newman):0.999224	71779(concept_organization_it):0.000424	15841(concept_creditunion_it):0.000352
+71779(concept_organization_it):0.948689	15841(concept_creditunion_it):0.050007	15842(concept_person_susan_newman):0.001304
+edges:
+15842(concept_person_susan_newman)->15(concept:mutualproxyfor_inv)->15841(concept_creditunion_it)	15842(concept_person_susan_newman)->0(concept:worksfor)->71779(concept_organization_it)
+15841(concept_creditunion_it)->14(concept:mutualproxyfor)->15842(concept_person_susan_newman)	15842(concept_person_susan_newman)->15(concept:mutualproxyfor_inv)->15841(concept_creditunion_it)	15842(concept_person_susan_newman)->0(concept:worksfor)->71779(concept_organization_it)	71779(concept_organization_it)->1(concept:worksfor_inv)->15842(concept_person_susan_newman)
+15841(concept_creditunion_it)->14(concept:mutualproxyfor)->15842(concept_person_susan_newman)	15842(concept_person_susan_newman)->15(concept:mutualproxyfor_inv)->15841(concept_creditunion_it)	15842(concept_person_susan_newman)->0(concept:worksfor)->71779(concept_organization_it)	71779(concept_organization_it)->1(concept:worksfor_inv)->15842(concept_person_susan_newman)
+15841(concept_creditunion_it)->14(concept:mutualproxyfor)->15842(concept_person_susan_newman)	15842(concept_person_susan_newman)->15(concept:mutualproxyfor_inv)->15841(concept_creditunion_it)	15842(concept_person_susan_newman)->0(concept:worksfor)->71779(concept_organization_it)	71779(concept_organization_it)->1(concept:worksfor_inv)->15842(concept_person_susan_newman)
+15841(concept_creditunion_it)->14(concept:mutualproxyfor)->15842(concept_person_susan_newman)	15842(concept_person_susan_newman)->15(concept:mutualproxyfor_inv)->15841(concept_creditunion_it)	15842(concept_person_susan_newman)->0(concept:worksfor)->71779(concept_organization_it)	71779(concept_organization_it)->1(concept:worksfor_inv)->15842(concept_person_susan_newman)

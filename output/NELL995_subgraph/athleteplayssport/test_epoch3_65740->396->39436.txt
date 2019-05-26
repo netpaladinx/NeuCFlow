@@ -1,0 +1,13 @@
+nodes:
+65740(concept_athlete_hal_morris):1.000000
+65740(concept_athlete_hal_morris):1.000000
+1047(concept_sportsleague_mlb):1.000000
+1573(concept_sportsteam_red_sox_this_season):1.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000	21273(concept_sportsgame_n2009_world_series):0.000000	35600(concept_stadiumoreventvenue_shea_stadium):0.000000
+edges:
+
+65740(concept_athlete_hal_morris)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->1573(concept_sportsteam_red_sox_this_season)
+1573(concept_sportsteam_red_sox_this_season)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->21273(concept_sportsgame_n2009_world_series)	39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)

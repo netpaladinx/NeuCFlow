@@ -1,0 +1,4 @@
+concept_person_nur_misuari	concept:worksfor	concept_nongovorganization_mnlf
+
+concept_person_nur_misuari	concept:personleadsorganization	concept_nongovorganization_mnlf
+concept_nongovorganization_mnlf	concept:personleadsorganization_inv	concept_person_nur_misuari

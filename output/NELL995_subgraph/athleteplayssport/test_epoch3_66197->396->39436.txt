@@ -1,0 +1,13 @@
+nodes:
+66197(concept_athlete_chan_ho_park):1.000000
+66197(concept_athlete_chan_ho_park):1.000000
+35350(concept_stadiumoreventvenue_pete_times_forum):1.000000	1047(concept_sportsleague_mlb):0.000000
+15329(concept_sport_hockey):1.000000	17194(concept_sportsteam_red_sox):0.000000	39512(concept_sportsteam_marlins):0.000000
+35426(concept_stadiumoreventvenue_prudential_center_2):1.000000	39436(concept_sport_baseball):0.000000
+15329(concept_sport_hockey):1.000000	39436(concept_sport_baseball):0.000000
+edges:
+
+66197(concept_athlete_chan_ho_park)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)	66197(concept_athlete_chan_ho_park)->182(concept:athletehomestadium)->35350(concept_stadiumoreventvenue_pete_times_forum)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->39512(concept_sportsteam_marlins)	35350(concept_stadiumoreventvenue_pete_times_forum)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)
+15329(concept_sport_hockey)->302(concept:sportusesstadium)->35426(concept_stadiumoreventvenue_prudential_center_2)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)	39512(concept_sportsteam_marlins)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+35426(concept_stadiumoreventvenue_prudential_center_2)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)

@@ -1,0 +1,13 @@
+nodes:
+65841(concept_athlete_sean_gallagher):1.000000
+65841(concept_athlete_sean_gallagher):1.000000
+27070(concept_stadiumoreventvenue_wrigley_field):1.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000	35314(concept_stadiumoreventvenue_pnc_park):0.000000
+39436(concept_sport_baseball):1.000000
+edges:
+
+65841(concept_athlete_sean_gallagher)->182(concept:athletehomestadium)->27070(concept_stadiumoreventvenue_wrigley_field)
+27070(concept_stadiumoreventvenue_wrigley_field)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35314(concept_stadiumoreventvenue_pnc_park)
+25194(concept_awardtrophytournament_world_series)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->39436(concept_sport_baseball)	35314(concept_stadiumoreventvenue_pnc_park)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)

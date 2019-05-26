@@ -1,0 +1,13 @@
+nodes:
+75433(concept_sportsteam_central_connecticut_blue_devils):1.000000
+75433(concept_sportsteam_central_connecticut_blue_devils):1.000000
+75433(concept_sportsteam_central_connecticut_blue_devils):1.000000
+75433(concept_sportsteam_central_connecticut_blue_devils):1.000000
+75433(concept_sportsteam_central_connecticut_blue_devils):1.000000
+75433(concept_sportsteam_central_connecticut_blue_devils):1.000000
+edges:
+
+
+
+
+

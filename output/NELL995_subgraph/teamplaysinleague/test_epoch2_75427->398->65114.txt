@@ -1,0 +1,13 @@
+nodes:
+75427(concept_sportsteam_prairie_view_a_m_panthers):1.000000
+75427(concept_sportsteam_prairie_view_a_m_panthers):1.000000
+75427(concept_sportsteam_prairie_view_a_m_panthers):1.000000
+75427(concept_sportsteam_prairie_view_a_m_panthers):1.000000
+75427(concept_sportsteam_prairie_view_a_m_panthers):1.000000
+75427(concept_sportsteam_prairie_view_a_m_panthers):1.000000
+edges:
+
+
+
+
+

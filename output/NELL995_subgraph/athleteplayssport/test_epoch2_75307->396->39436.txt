@@ -1,0 +1,13 @@
+nodes:
+75307(concept_athlete_collin_balester):1.000000
+75307(concept_athlete_collin_balester):1.000000
+75307(concept_athlete_collin_balester):1.000000
+75307(concept_athlete_collin_balester):1.000000
+75307(concept_athlete_collin_balester):1.000000
+75307(concept_athlete_collin_balester):1.000000
+edges:
+
+
+
+
+

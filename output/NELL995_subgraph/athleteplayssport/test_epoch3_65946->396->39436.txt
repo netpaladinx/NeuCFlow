@@ -1,0 +1,13 @@
+nodes:
+65946(concept_athlete_gil_meche):1.000000
+1047(concept_sportsleague_mlb):1.000000
+1573(concept_sportsteam_red_sox_this_season):1.000000	17194(concept_sportsteam_red_sox):0.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000
+21191(concept_sportsteam_phillies):0.854096	40153(concept_sportsteam_st__louis_cardinals):0.127400	39452(concept_sportsteam_cleveland_indians):0.018503
+edges:
+65946(concept_athlete_gil_meche)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->1573(concept_sportsteam_red_sox_this_season)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)
+1573(concept_sportsteam_red_sox_this_season)->180(concept:teamplayssport)->39436(concept_sport_baseball)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)
+25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->21191(concept_sportsteam_phillies)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->39452(concept_sportsteam_cleveland_indians)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->40153(concept_sportsteam_st__louis_cardinals)

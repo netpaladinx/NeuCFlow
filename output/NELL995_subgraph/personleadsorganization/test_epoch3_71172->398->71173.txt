@@ -1,0 +1,13 @@
+nodes:
+71172(concept_person_nur_misuari):1.000000
+71173(concept_nongovorganization_mnlf):0.999997	71172(concept_person_nur_misuari):0.000003
+71172(concept_person_nur_misuari):0.999997	71173(concept_nongovorganization_mnlf):0.000003
+71173(concept_nongovorganization_mnlf):0.999997	71172(concept_person_nur_misuari):0.000003
+71172(concept_person_nur_misuari):0.999996	71173(concept_nongovorganization_mnlf):0.000004
+71173(concept_nongovorganization_mnlf):0.999996	71172(concept_person_nur_misuari):0.000004
+edges:
+71172(concept_person_nur_misuari)->0(concept:worksfor)->71173(concept_nongovorganization_mnlf)
+71172(concept_person_nur_misuari)->0(concept:worksfor)->71173(concept_nongovorganization_mnlf)	71173(concept_nongovorganization_mnlf)->1(concept:worksfor_inv)->71172(concept_person_nur_misuari)
+71172(concept_person_nur_misuari)->0(concept:worksfor)->71173(concept_nongovorganization_mnlf)	71173(concept_nongovorganization_mnlf)->1(concept:worksfor_inv)->71172(concept_person_nur_misuari)
+71172(concept_person_nur_misuari)->0(concept:worksfor)->71173(concept_nongovorganization_mnlf)	71173(concept_nongovorganization_mnlf)->1(concept:worksfor_inv)->71172(concept_person_nur_misuari)
+71172(concept_person_nur_misuari)->0(concept:worksfor)->71173(concept_nongovorganization_mnlf)	71173(concept_nongovorganization_mnlf)->1(concept:worksfor_inv)->71172(concept_person_nur_misuari)

@@ -1,0 +1,13 @@
+nodes:
+66830(concept_athlete_dean_williams):1.000000
+66830(concept_athlete_dean_williams):0.658583	27753(55.3582300000000,-97.4829800000000):0.341417
+66830(concept_athlete_dean_williams):0.543355	27753(55.3582300000000,-97.4829800000000):0.280299	27752(concept_mlauthor_dean_williams):0.176345
+66830(concept_athlete_dean_williams):0.391717	27753(55.3582300000000,-97.4829800000000):0.314818	27752(concept_mlauthor_dean_williams):0.293465
+27752(concept_mlauthor_dean_williams):0.443126	27753(55.3582300000000,-97.4829800000000):0.303382	66830(concept_athlete_dean_williams):0.253492
+27752(concept_mlauthor_dean_williams):0.600628	27753(55.3582300000000,-97.4829800000000):0.293066	66830(concept_athlete_dean_williams):0.106306
+edges:
+66830(concept_athlete_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)
+27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->27752(concept_mlauthor_dean_williams)	27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->66830(concept_athlete_dean_williams)	66830(concept_athlete_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)
+27752(concept_mlauthor_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)	27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->27752(concept_mlauthor_dean_williams)	27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->66830(concept_athlete_dean_williams)	66830(concept_athlete_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)
+27752(concept_mlauthor_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)	27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->27752(concept_mlauthor_dean_williams)	27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->66830(concept_athlete_dean_williams)	66830(concept_athlete_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)
+27752(concept_mlauthor_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)	27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->27752(concept_mlauthor_dean_williams)	27753(55.3582300000000,-97.4829800000000)->11(concept:latitudelongitude_inv)->66830(concept_athlete_dean_williams)	66830(concept_athlete_dean_williams)->10(concept:latitudelongitude)->27753(55.3582300000000,-97.4829800000000)

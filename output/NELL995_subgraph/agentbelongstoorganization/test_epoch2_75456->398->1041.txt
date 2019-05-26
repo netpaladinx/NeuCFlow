@@ -1,0 +1,13 @@
+nodes:
+75456(concept_coach_san_diego_padres_cf_freddy_guzman):1.000000
+75456(concept_coach_san_diego_padres_cf_freddy_guzman):1.000000
+75456(concept_coach_san_diego_padres_cf_freddy_guzman):1.000000
+75456(concept_coach_san_diego_padres_cf_freddy_guzman):1.000000
+75456(concept_coach_san_diego_padres_cf_freddy_guzman):1.000000
+75456(concept_coach_san_diego_padres_cf_freddy_guzman):1.000000
+edges:
+
+
+
+
+

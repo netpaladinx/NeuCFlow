@@ -1,0 +1,13 @@
+nodes:
+65777(concept_coach_mark_mulder):1.000000
+65777(concept_coach_mark_mulder):1.000000	1423(concept_sportsleague_nfl):0.000000
+1423(concept_sportsleague_nfl):1.000000	11168(concept_sportsteam_redskins):0.000000
+11168(concept_sportsteam_redskins):1.000000	3601(concept_sport_football):0.000000
+3601(concept_sport_football):1.000000	47017(concept_sportsgame_n2001_super_bowl):0.000000
+1688(concept_awardtrophytournament_super_bowl):1.000000	3601(concept_sport_football):0.000000
+edges:
+65777(concept_coach_mark_mulder)->158(concept:athleteplaysinleague)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->4(concept:agentcompeteswithagent)->1423(concept_sportsleague_nfl)	1423(concept_sportsleague_nfl)->5(concept:agentcompeteswithagent_inv)->1423(concept_sportsleague_nfl)	1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)	65777(concept_coach_mark_mulder)->158(concept:athleteplaysinleague)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)	11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)
+3601(concept_sport_football)->321(concept:sportsgamesport_inv)->47017(concept_sportsgame_n2001_super_bowl)	11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)
+3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->1688(concept_awardtrophytournament_super_bowl)	47017(concept_sportsgame_n2001_super_bowl)->320(concept:sportsgamesport)->3601(concept_sport_football)

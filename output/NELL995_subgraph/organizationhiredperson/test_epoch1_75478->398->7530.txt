@@ -1,0 +1,13 @@
+nodes:
+75478(concept_politicalparty_bsp):1.000000
+75478(concept_politicalparty_bsp):1.000000
+75478(concept_politicalparty_bsp):1.000000
+75478(concept_politicalparty_bsp):1.000000
+75478(concept_politicalparty_bsp):1.000000
+75478(concept_politicalparty_bsp):1.000000
+edges:
+
+
+
+
+

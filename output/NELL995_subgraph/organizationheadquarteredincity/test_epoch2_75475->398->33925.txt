@@ -1,0 +1,13 @@
+nodes:
+75475(concept_biotechcompany_infosys_technologies_ltd):1.000000
+75475(concept_biotechcompany_infosys_technologies_ltd):1.000000
+75475(concept_biotechcompany_infosys_technologies_ltd):1.000000
+75475(concept_biotechcompany_infosys_technologies_ltd):1.000000
+75475(concept_biotechcompany_infosys_technologies_ltd):1.000000
+75475(concept_biotechcompany_infosys_technologies_ltd):1.000000
+edges:
+
+
+
+
+

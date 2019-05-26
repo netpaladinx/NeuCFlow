@@ -1,0 +1,13 @@
+nodes:
+75485(concept_person_scarlett):1.000000
+75485(concept_person_scarlett):1.000000
+75485(concept_person_scarlett):1.000000
+75485(concept_person_scarlett):1.000000
+75485(concept_person_scarlett):1.000000
+75485(concept_person_scarlett):1.000000
+edges:
+
+
+
+
+

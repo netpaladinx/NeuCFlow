@@ -1,0 +1,13 @@
+nodes:
+75488(concept_athlete_eric_cantona):1.000000
+75488(concept_athlete_eric_cantona):1.000000
+75488(concept_athlete_eric_cantona):1.000000
+75488(concept_athlete_eric_cantona):1.000000
+75488(concept_athlete_eric_cantona):1.000000
+75488(concept_athlete_eric_cantona):1.000000
+edges:
+
+
+
+
+

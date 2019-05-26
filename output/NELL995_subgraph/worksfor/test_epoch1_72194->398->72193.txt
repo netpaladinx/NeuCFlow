@@ -1,0 +1,13 @@
+nodes:
+72194(concept_person_otto_ambros):1.000000
+72193(concept_company_ig_farben):0.999998	72194(concept_person_otto_ambros):0.000002
+72194(concept_person_otto_ambros):0.999996	72193(concept_company_ig_farben):0.000004
+72193(concept_company_ig_farben):0.999995	72194(concept_person_otto_ambros):0.000005
+72194(concept_person_otto_ambros):0.999995	72193(concept_company_ig_farben):0.000005
+72193(concept_company_ig_farben):0.999995	72194(concept_person_otto_ambros):0.000005
+edges:
+72194(concept_person_otto_ambros)->25(concept:agentcollaborateswithagent_inv)->72193(concept_company_ig_farben)
+72193(concept_company_ig_farben)->24(concept:agentcollaborateswithagent)->72194(concept_person_otto_ambros)	72194(concept_person_otto_ambros)->25(concept:agentcollaborateswithagent_inv)->72193(concept_company_ig_farben)
+72193(concept_company_ig_farben)->24(concept:agentcollaborateswithagent)->72194(concept_person_otto_ambros)	72194(concept_person_otto_ambros)->25(concept:agentcollaborateswithagent_inv)->72193(concept_company_ig_farben)
+72193(concept_company_ig_farben)->24(concept:agentcollaborateswithagent)->72194(concept_person_otto_ambros)	72194(concept_person_otto_ambros)->25(concept:agentcollaborateswithagent_inv)->72193(concept_company_ig_farben)
+72193(concept_company_ig_farben)->24(concept:agentcollaborateswithagent)->72194(concept_person_otto_ambros)	72194(concept_person_otto_ambros)->25(concept:agentcollaborateswithagent_inv)->72193(concept_company_ig_farben)

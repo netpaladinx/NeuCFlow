@@ -1,0 +1,13 @@
+nodes:
+75439(concept_personmexico_ruddy_lugo):1.000000
+75439(concept_personmexico_ruddy_lugo):1.000000
+75439(concept_personmexico_ruddy_lugo):1.000000
+75439(concept_personmexico_ruddy_lugo):1.000000
+75439(concept_personmexico_ruddy_lugo):1.000000
+75439(concept_personmexico_ruddy_lugo):1.000000
+edges:
+
+
+
+
+

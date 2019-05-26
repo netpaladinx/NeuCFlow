@@ -1,0 +1,13 @@
+nodes:
+75423(concept_sportsteam_campbell_camels):1.000000
+75423(concept_sportsteam_campbell_camels):1.000000
+75423(concept_sportsteam_campbell_camels):1.000000
+75423(concept_sportsteam_campbell_camels):1.000000
+75423(concept_sportsteam_campbell_camels):1.000000
+75423(concept_sportsteam_campbell_camels):1.000000
+edges:
+
+
+
+
+

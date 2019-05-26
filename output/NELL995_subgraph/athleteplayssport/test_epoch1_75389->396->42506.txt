@@ -1,0 +1,13 @@
+nodes:
+75389(concept_athlete_samuel_peter):1.000000
+75389(concept_athlete_samuel_peter):1.000000
+75389(concept_athlete_samuel_peter):1.000000
+75389(concept_athlete_samuel_peter):1.000000
+75389(concept_athlete_samuel_peter):1.000000
+75389(concept_athlete_samuel_peter):1.000000
+edges:
+
+
+
+
+

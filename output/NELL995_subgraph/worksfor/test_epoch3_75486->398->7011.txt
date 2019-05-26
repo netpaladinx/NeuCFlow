@@ -1,0 +1,13 @@
+nodes:
+75486(concept_person_ron_cook):1.000000
+75486(concept_person_ron_cook):1.000000
+75486(concept_person_ron_cook):1.000000
+75486(concept_person_ron_cook):1.000000
+75486(concept_person_ron_cook):1.000000
+75486(concept_person_ron_cook):1.000000
+edges:
+
+
+
+
+

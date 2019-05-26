@@ -1,0 +1,13 @@
+nodes:
+75305(concept_athlete_clayton_richard):1.000000
+75305(concept_athlete_clayton_richard):1.000000
+75305(concept_athlete_clayton_richard):1.000000
+75305(concept_athlete_clayton_richard):1.000000
+75305(concept_athlete_clayton_richard):1.000000
+75305(concept_athlete_clayton_richard):1.000000
+edges:
+
+
+
+
+

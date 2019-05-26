@@ -1,0 +1,13 @@
+nodes:
+75488(concept_person_derek_freeman):1.000000
+75488(concept_person_derek_freeman):1.000000
+75488(concept_person_derek_freeman):1.000000
+75488(concept_person_derek_freeman):1.000000
+75488(concept_person_derek_freeman):1.000000
+75488(concept_person_derek_freeman):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,4 @@
+concept_ceo_helge_lund	concept:worksfor	concept_company_statoil
+
+concept_ceo_helge_lund	concept:personleadsorganization	concept_company_statoil
+concept_company_statoil	concept:personleadsorganization_inv	concept_ceo_helge_lund

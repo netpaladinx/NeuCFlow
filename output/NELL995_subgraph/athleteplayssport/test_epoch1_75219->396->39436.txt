@@ -1,0 +1,13 @@
+nodes:
+75219(concept_personmexico_david_cortes):1.000000
+75219(concept_personmexico_david_cortes):1.000000
+75219(concept_personmexico_david_cortes):1.000000
+75219(concept_personmexico_david_cortes):1.000000
+75219(concept_personmexico_david_cortes):1.000000
+75219(concept_personmexico_david_cortes):1.000000
+edges:
+
+
+
+
+

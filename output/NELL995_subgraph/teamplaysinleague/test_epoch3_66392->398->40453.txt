@@ -1,0 +1,13 @@
+nodes:
+66392(concept_sportsteam_cardiff_city):1.000000
+66391(concept_athlete_joe_ledley):0.707610	66392(concept_sportsteam_cardiff_city):0.292390
+66392(concept_sportsteam_cardiff_city):0.730599	66391(concept_athlete_joe_ledley):0.269401
+66391(concept_athlete_joe_ledley):0.701006	66392(concept_sportsteam_cardiff_city):0.298994
+66392(concept_sportsteam_cardiff_city):0.706354	66391(concept_athlete_joe_ledley):0.293646
+66391(concept_athlete_joe_ledley):0.695022	66392(concept_sportsteam_cardiff_city):0.304978
+edges:
+66392(concept_sportsteam_cardiff_city)->159(concept:athleteplaysforteam_inv)->66391(concept_athlete_joe_ledley)
+66391(concept_athlete_joe_ledley)->158(concept:athleteplaysforteam)->66392(concept_sportsteam_cardiff_city)	66392(concept_sportsteam_cardiff_city)->159(concept:athleteplaysforteam_inv)->66391(concept_athlete_joe_ledley)
+66391(concept_athlete_joe_ledley)->158(concept:athleteplaysforteam)->66392(concept_sportsteam_cardiff_city)	66392(concept_sportsteam_cardiff_city)->159(concept:athleteplaysforteam_inv)->66391(concept_athlete_joe_ledley)
+66391(concept_athlete_joe_ledley)->158(concept:athleteplaysforteam)->66392(concept_sportsteam_cardiff_city)	66392(concept_sportsteam_cardiff_city)->159(concept:athleteplaysforteam_inv)->66391(concept_athlete_joe_ledley)
+66391(concept_athlete_joe_ledley)->158(concept:athleteplaysforteam)->66392(concept_sportsteam_cardiff_city)	66392(concept_sportsteam_cardiff_city)->159(concept:athleteplaysforteam_inv)->66391(concept_athlete_joe_ledley)

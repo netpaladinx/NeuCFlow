@@ -1,0 +1,13 @@
+nodes:
+75465(concept_athlete_jose_veras):1.000000
+75465(concept_athlete_jose_veras):1.000000
+75465(concept_athlete_jose_veras):1.000000
+75465(concept_athlete_jose_veras):1.000000
+75465(concept_athlete_jose_veras):1.000000
+75465(concept_athlete_jose_veras):1.000000
+edges:
+
+
+
+
+

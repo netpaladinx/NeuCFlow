@@ -1,0 +1,4 @@
+concept_professor_chad_deaton	concept:personleadsorganization	concept_biotechcompany_baker_hughes
+
+concept_professor_chad_deaton	concept:worksfor	concept_company_baker_hughes
+concept_company_baker_hughes	concept:worksfor_inv	concept_professor_chad_deaton

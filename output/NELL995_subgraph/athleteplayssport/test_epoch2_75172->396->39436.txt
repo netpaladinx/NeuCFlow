@@ -1,0 +1,13 @@
+nodes:
+75172(concept_athlete_bret_prinz):1.000000
+75172(concept_athlete_bret_prinz):1.000000
+75172(concept_athlete_bret_prinz):1.000000
+75172(concept_athlete_bret_prinz):1.000000
+75172(concept_athlete_bret_prinz):1.000000
+75172(concept_athlete_bret_prinz):1.000000
+edges:
+
+
+
+
+

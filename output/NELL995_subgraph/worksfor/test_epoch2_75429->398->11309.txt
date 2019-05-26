@@ -1,0 +1,13 @@
+nodes:
+75429(concept_journalist_bill_ford):1.000000
+75429(concept_journalist_bill_ford):1.000000
+75429(concept_journalist_bill_ford):1.000000
+75429(concept_journalist_bill_ford):1.000000
+75429(concept_journalist_bill_ford):1.000000
+75429(concept_journalist_bill_ford):1.000000
+edges:
+
+
+
+
+

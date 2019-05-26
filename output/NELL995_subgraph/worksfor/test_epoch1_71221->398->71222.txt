@@ -1,0 +1,13 @@
+nodes:
+71221(concept_ceo_rodger_o__riney):1.000000
+71222(concept_company_scottrade):0.999998	71221(concept_ceo_rodger_o__riney):0.000002
+71221(concept_ceo_rodger_o__riney):0.999997	71222(concept_company_scottrade):0.000003
+71222(concept_company_scottrade):0.999997	71221(concept_ceo_rodger_o__riney):0.000003
+71221(concept_ceo_rodger_o__riney):0.999997	71222(concept_company_scottrade):0.000003
+71222(concept_company_scottrade):0.999997	71221(concept_ceo_rodger_o__riney):0.000003
+edges:
+71221(concept_ceo_rodger_o__riney)->26(concept:personleadsorganization)->71222(concept_company_scottrade)
+71221(concept_ceo_rodger_o__riney)->26(concept:personleadsorganization)->71222(concept_company_scottrade)	71222(concept_company_scottrade)->27(concept:personleadsorganization_inv)->71221(concept_ceo_rodger_o__riney)
+71221(concept_ceo_rodger_o__riney)->26(concept:personleadsorganization)->71222(concept_company_scottrade)	71222(concept_company_scottrade)->27(concept:personleadsorganization_inv)->71221(concept_ceo_rodger_o__riney)
+71221(concept_ceo_rodger_o__riney)->26(concept:personleadsorganization)->71222(concept_company_scottrade)	71222(concept_company_scottrade)->27(concept:personleadsorganization_inv)->71221(concept_ceo_rodger_o__riney)
+71221(concept_ceo_rodger_o__riney)->26(concept:personleadsorganization)->71222(concept_company_scottrade)	71222(concept_company_scottrade)->27(concept:personleadsorganization_inv)->71221(concept_ceo_rodger_o__riney)

@@ -1,0 +1,13 @@
+nodes:
+70488(concept_journalist_hal_mccoy):1.000000
+70048(concept_newspaper_dayton_daily_news):1.000000	70488(concept_journalist_hal_mccoy):0.000000
+70488(concept_journalist_hal_mccoy):0.614749	70047(concept_journalist_si_burick):0.385251	70048(concept_newspaper_dayton_daily_news):0.000000
+70048(concept_newspaper_dayton_daily_news):1.000000	70488(concept_journalist_hal_mccoy):0.000000	70047(concept_journalist_si_burick):0.000000
+70488(concept_journalist_hal_mccoy):0.951420	70047(concept_journalist_si_burick):0.048580	70048(concept_newspaper_dayton_daily_news):0.000000
+70048(concept_newspaper_dayton_daily_news):1.000000	70488(concept_journalist_hal_mccoy):0.000000	70047(concept_journalist_si_burick):0.000000
+edges:
+70488(concept_journalist_hal_mccoy)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)
+70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70047(concept_journalist_si_burick)	70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70488(concept_journalist_hal_mccoy)	70488(concept_journalist_hal_mccoy)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)
+70047(concept_journalist_si_burick)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)	70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70047(concept_journalist_si_burick)	70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70488(concept_journalist_hal_mccoy)	70488(concept_journalist_hal_mccoy)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)
+70047(concept_journalist_si_burick)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)	70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70047(concept_journalist_si_burick)	70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70488(concept_journalist_hal_mccoy)	70488(concept_journalist_hal_mccoy)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)
+70047(concept_journalist_si_burick)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)	70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70047(concept_journalist_si_burick)	70048(concept_newspaper_dayton_daily_news)->217(concept:journalistwritesforpublication_inv)->70488(concept_journalist_hal_mccoy)	70488(concept_journalist_hal_mccoy)->216(concept:journalistwritesforpublication)->70048(concept_newspaper_dayton_daily_news)

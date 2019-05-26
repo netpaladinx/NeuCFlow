@@ -1,0 +1,13 @@
+nodes:
+75428(concept_athlete_yorman_bazardo):1.000000
+75428(concept_athlete_yorman_bazardo):1.000000
+75428(concept_athlete_yorman_bazardo):1.000000
+75428(concept_athlete_yorman_bazardo):1.000000
+75428(concept_athlete_yorman_bazardo):1.000000
+75428(concept_athlete_yorman_bazardo):1.000000
+edges:
+
+
+
+
+

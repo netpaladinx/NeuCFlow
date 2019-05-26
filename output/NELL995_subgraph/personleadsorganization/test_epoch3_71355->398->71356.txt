@@ -1,0 +1,13 @@
+nodes:
+71355(concept_ceo_mary_sammons):1.000000
+71356(concept_company_rite_aid):0.999994	71355(concept_ceo_mary_sammons):0.000006
+71355(concept_ceo_mary_sammons):0.999992	71356(concept_company_rite_aid):0.000008
+71356(concept_company_rite_aid):0.999985	71355(concept_ceo_mary_sammons):0.000015
+71355(concept_ceo_mary_sammons):0.999984	71356(concept_company_rite_aid):0.000016
+71356(concept_company_rite_aid):0.999979	71355(concept_ceo_mary_sammons):0.000021
+edges:
+71355(concept_ceo_mary_sammons)->222(concept:ceoof)->71356(concept_company_rite_aid)
+71355(concept_ceo_mary_sammons)->222(concept:ceoof)->71356(concept_company_rite_aid)	71356(concept_company_rite_aid)->223(concept:ceoof_inv)->71355(concept_ceo_mary_sammons)
+71355(concept_ceo_mary_sammons)->222(concept:ceoof)->71356(concept_company_rite_aid)	71356(concept_company_rite_aid)->223(concept:ceoof_inv)->71355(concept_ceo_mary_sammons)
+71355(concept_ceo_mary_sammons)->222(concept:ceoof)->71356(concept_company_rite_aid)	71356(concept_company_rite_aid)->223(concept:ceoof_inv)->71355(concept_ceo_mary_sammons)
+71355(concept_ceo_mary_sammons)->222(concept:ceoof)->71356(concept_company_rite_aid)	71356(concept_company_rite_aid)->223(concept:ceoof_inv)->71355(concept_ceo_mary_sammons)

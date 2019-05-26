@@ -1,0 +1,13 @@
+nodes:
+72457(concept_company_raytheon):1.000000
+72458(concept_biotechcompany_e_systems):0.784585	72457(concept_company_raytheon):0.215415
+72458(concept_biotechcompany_e_systems):0.636157	72457(concept_company_raytheon):0.363843
+72458(concept_biotechcompany_e_systems):0.874498	72457(concept_company_raytheon):0.125502
+72458(concept_biotechcompany_e_systems):0.940752	72457(concept_company_raytheon):0.059248
+72458(concept_biotechcompany_e_systems):0.960835	72457(concept_company_raytheon):0.039165
+edges:
+72457(concept_company_raytheon)->26(concept:agentcollaborateswithagent)->72458(concept_biotechcompany_e_systems)	72457(concept_company_raytheon)->38(concept:agentcontrols)->72458(concept_biotechcompany_e_systems)
+72457(concept_company_raytheon)->26(concept:agentcollaborateswithagent)->72458(concept_biotechcompany_e_systems)	72457(concept_company_raytheon)->38(concept:agentcontrols)->72458(concept_biotechcompany_e_systems)	72458(concept_biotechcompany_e_systems)->27(concept:agentcollaborateswithagent_inv)->72457(concept_company_raytheon)	72458(concept_biotechcompany_e_systems)->39(concept:agentcontrols_inv)->72457(concept_company_raytheon)
+72457(concept_company_raytheon)->26(concept:agentcollaborateswithagent)->72458(concept_biotechcompany_e_systems)	72457(concept_company_raytheon)->38(concept:agentcontrols)->72458(concept_biotechcompany_e_systems)	72458(concept_biotechcompany_e_systems)->27(concept:agentcollaborateswithagent_inv)->72457(concept_company_raytheon)	72458(concept_biotechcompany_e_systems)->39(concept:agentcontrols_inv)->72457(concept_company_raytheon)
+72457(concept_company_raytheon)->26(concept:agentcollaborateswithagent)->72458(concept_biotechcompany_e_systems)	72457(concept_company_raytheon)->38(concept:agentcontrols)->72458(concept_biotechcompany_e_systems)	72458(concept_biotechcompany_e_systems)->27(concept:agentcollaborateswithagent_inv)->72457(concept_company_raytheon)	72458(concept_biotechcompany_e_systems)->39(concept:agentcontrols_inv)->72457(concept_company_raytheon)
+72457(concept_company_raytheon)->26(concept:agentcollaborateswithagent)->72458(concept_biotechcompany_e_systems)	72457(concept_company_raytheon)->38(concept:agentcontrols)->72458(concept_biotechcompany_e_systems)	72458(concept_biotechcompany_e_systems)->27(concept:agentcollaborateswithagent_inv)->72457(concept_company_raytheon)	72458(concept_biotechcompany_e_systems)->39(concept:agentcontrols_inv)->72457(concept_company_raytheon)

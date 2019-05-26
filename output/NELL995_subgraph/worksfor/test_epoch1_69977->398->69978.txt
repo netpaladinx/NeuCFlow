@@ -1,0 +1,13 @@
+nodes:
+69977(concept_journalist_joseph_liao):1.000000
+69978(concept_website_world_journal):0.999997	69977(concept_journalist_joseph_liao):0.000003
+69977(concept_journalist_joseph_liao):0.999996	69978(concept_website_world_journal):0.000004
+69978(concept_website_world_journal):0.999995	69977(concept_journalist_joseph_liao):0.000005
+69977(concept_journalist_joseph_liao):0.999994	69978(concept_website_world_journal):0.000006
+69978(concept_website_world_journal):0.999994	69977(concept_journalist_joseph_liao):0.000007
+edges:
+69977(concept_journalist_joseph_liao)->216(concept:journalistwritesforpublication)->69978(concept_website_world_journal)
+69977(concept_journalist_joseph_liao)->216(concept:journalistwritesforpublication)->69978(concept_website_world_journal)	69978(concept_website_world_journal)->217(concept:journalistwritesforpublication_inv)->69977(concept_journalist_joseph_liao)
+69977(concept_journalist_joseph_liao)->216(concept:journalistwritesforpublication)->69978(concept_website_world_journal)	69978(concept_website_world_journal)->217(concept:journalistwritesforpublication_inv)->69977(concept_journalist_joseph_liao)
+69977(concept_journalist_joseph_liao)->216(concept:journalistwritesforpublication)->69978(concept_website_world_journal)	69978(concept_website_world_journal)->217(concept:journalistwritesforpublication_inv)->69977(concept_journalist_joseph_liao)
+69977(concept_journalist_joseph_liao)->216(concept:journalistwritesforpublication)->69978(concept_website_world_journal)	69978(concept_website_world_journal)->217(concept:journalistwritesforpublication_inv)->69977(concept_journalist_joseph_liao)

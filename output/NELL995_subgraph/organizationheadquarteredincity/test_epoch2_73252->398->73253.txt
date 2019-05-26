@@ -1,0 +1,13 @@
+nodes:
+73252(concept_company_bp_america):1.000000
+73253(concept_city_warrenville):0.643629	73252(concept_company_bp_america):0.356371
+73253(concept_city_warrenville):0.888306	73252(concept_company_bp_america):0.111694
+73253(concept_city_warrenville):0.997309	73252(concept_company_bp_america):0.002691
+73253(concept_city_warrenville):0.997653	73252(concept_company_bp_america):0.002347
+73253(concept_city_warrenville):0.989101	73252(concept_company_bp_america):0.010899
+edges:
+73252(concept_company_bp_america)->168(concept:hasofficeincity)->73253(concept_city_warrenville)
+73252(concept_company_bp_america)->168(concept:hasofficeincity)->73253(concept_city_warrenville)	73253(concept_city_warrenville)->169(concept:hasofficeincity_inv)->73252(concept_company_bp_america)
+73252(concept_company_bp_america)->168(concept:hasofficeincity)->73253(concept_city_warrenville)	73253(concept_city_warrenville)->169(concept:hasofficeincity_inv)->73252(concept_company_bp_america)
+73252(concept_company_bp_america)->168(concept:hasofficeincity)->73253(concept_city_warrenville)	73253(concept_city_warrenville)->169(concept:hasofficeincity_inv)->73252(concept_company_bp_america)
+73252(concept_company_bp_america)->168(concept:hasofficeincity)->73253(concept_city_warrenville)	73253(concept_city_warrenville)->169(concept:hasofficeincity_inv)->73252(concept_company_bp_america)

@@ -1,0 +1,13 @@
+nodes:
+75286(concept_athlete_alex_periard):1.000000
+75286(concept_athlete_alex_periard):1.000000
+75286(concept_athlete_alex_periard):1.000000
+75286(concept_athlete_alex_periard):1.000000
+75286(concept_athlete_alex_periard):1.000000
+75286(concept_athlete_alex_periard):1.000000
+edges:
+
+
+
+
+

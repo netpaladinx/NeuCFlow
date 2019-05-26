@@ -1,0 +1,13 @@
+nodes:
+16228(concept_politician_olaf_scholz):1.000000
+16227(concept_bank_hamburg):1.000000	16228(concept_politician_olaf_scholz):0.000000
+16228(concept_politician_olaf_scholz):1.000000	16227(concept_bank_hamburg):0.000000
+16227(concept_bank_hamburg):1.000000	16228(concept_politician_olaf_scholz):0.000000
+16228(concept_politician_olaf_scholz):1.000000	16227(concept_bank_hamburg):0.000000
+16227(concept_bank_hamburg):1.000000	16228(concept_politician_olaf_scholz):0.000000
+edges:
+16228(concept_politician_olaf_scholz)->25(concept:agentcollaborateswithagent_inv)->16227(concept_bank_hamburg)
+16227(concept_bank_hamburg)->24(concept:agentcollaborateswithagent)->16228(concept_politician_olaf_scholz)	16228(concept_politician_olaf_scholz)->25(concept:agentcollaborateswithagent_inv)->16227(concept_bank_hamburg)
+16227(concept_bank_hamburg)->24(concept:agentcollaborateswithagent)->16228(concept_politician_olaf_scholz)	16228(concept_politician_olaf_scholz)->25(concept:agentcollaborateswithagent_inv)->16227(concept_bank_hamburg)
+16227(concept_bank_hamburg)->24(concept:agentcollaborateswithagent)->16228(concept_politician_olaf_scholz)	16228(concept_politician_olaf_scholz)->25(concept:agentcollaborateswithagent_inv)->16227(concept_bank_hamburg)
+16227(concept_bank_hamburg)->24(concept:agentcollaborateswithagent)->16228(concept_politician_olaf_scholz)	16228(concept_politician_olaf_scholz)->25(concept:agentcollaborateswithagent_inv)->16227(concept_bank_hamburg)

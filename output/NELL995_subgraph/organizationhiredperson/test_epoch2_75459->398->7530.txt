@@ -1,0 +1,13 @@
+nodes:
+75459(concept_politicalparty_bjp):1.000000
+75459(concept_politicalparty_bjp):1.000000
+75459(concept_politicalparty_bjp):1.000000
+75459(concept_politicalparty_bjp):1.000000
+75459(concept_politicalparty_bjp):1.000000
+75459(concept_politicalparty_bjp):1.000000
+edges:
+
+
+
+
+

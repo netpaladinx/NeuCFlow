@@ -1,0 +1,13 @@
+nodes:
+40774(concept_sportsteam_minnesota_lynx):1.000000
+203(concept_stadiumoreventvenue_target_center):0.999946	40774(concept_sportsteam_minnesota_lynx):0.000054
+3085(concept_sportsleague_nba):0.999946	203(concept_stadiumoreventvenue_target_center):0.000054	40774(concept_sportsteam_minnesota_lynx):0.000000
+3085(concept_sportsleague_nba):1.000000	40774(concept_sportsteam_minnesota_lynx):0.000000
+3085(concept_sportsleague_nba):1.000000	40774(concept_sportsteam_minnesota_lynx):0.000000
+3085(concept_sportsleague_nba):1.000000	40774(concept_sportsteam_minnesota_lynx):0.000000
+edges:
+40774(concept_sportsteam_minnesota_lynx)->244(concept:teamhomestadium)->203(concept_stadiumoreventvenue_target_center)
+203(concept_stadiumoreventvenue_target_center)->397(concept:leaguestadiums_inv)->3085(concept_sportsleague_nba)	203(concept_stadiumoreventvenue_target_center)->245(concept:teamhomestadium_inv)->40774(concept_sportsteam_minnesota_lynx)	40774(concept_sportsteam_minnesota_lynx)->244(concept:teamhomestadium)->203(concept_stadiumoreventvenue_target_center)
+203(concept_stadiumoreventvenue_target_center)->397(concept:leaguestadiums_inv)->3085(concept_sportsleague_nba)	203(concept_stadiumoreventvenue_target_center)->245(concept:teamhomestadium_inv)->40774(concept_sportsteam_minnesota_lynx)	3085(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3085(concept_sportsleague_nba)	3085(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3085(concept_sportsleague_nba)
+3085(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3085(concept_sportsleague_nba)	3085(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3085(concept_sportsleague_nba)
+3085(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3085(concept_sportsleague_nba)	3085(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3085(concept_sportsleague_nba)

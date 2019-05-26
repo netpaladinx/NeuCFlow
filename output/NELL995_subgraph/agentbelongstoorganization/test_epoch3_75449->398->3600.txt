@@ -1,0 +1,13 @@
+nodes:
+75449(concept_coach_seattle_supersonics):1.000000
+75449(concept_coach_seattle_supersonics):1.000000
+75449(concept_coach_seattle_supersonics):1.000000
+75449(concept_coach_seattle_supersonics):1.000000
+75449(concept_coach_seattle_supersonics):1.000000
+75449(concept_coach_seattle_supersonics):1.000000
+edges:
+
+
+
+
+

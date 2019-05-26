@@ -1,0 +1,13 @@
+nodes:
+75469(concept_journalist_armen_keteyian):1.000000
+75469(concept_journalist_armen_keteyian):1.000000
+75469(concept_journalist_armen_keteyian):1.000000
+75469(concept_journalist_armen_keteyian):1.000000
+75469(concept_journalist_armen_keteyian):1.000000
+75469(concept_journalist_armen_keteyian):1.000000
+edges:
+
+
+
+
+

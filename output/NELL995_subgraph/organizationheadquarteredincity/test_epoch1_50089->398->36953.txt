@@ -1,0 +1,13 @@
+nodes:
+50089(concept_biotechcompany_baxter_healthcare):1.000000
+50088(concept_drug_desflurane):0.510926	50089(concept_biotechcompany_baxter_healthcare):0.489074
+50088(concept_drug_desflurane):0.511571	50089(concept_biotechcompany_baxter_healthcare):0.488429
+50088(concept_drug_desflurane):0.662329	50089(concept_biotechcompany_baxter_healthcare):0.337671
+50088(concept_drug_desflurane):0.786332	50089(concept_biotechcompany_baxter_healthcare):0.213668
+50088(concept_drug_desflurane):0.520366	50089(concept_biotechcompany_baxter_healthcare):0.479634
+edges:
+50089(concept_biotechcompany_baxter_healthcare)->333(concept:drugworkedonbyagent_inv)->50088(concept_drug_desflurane)
+50088(concept_drug_desflurane)->332(concept:drugworkedonbyagent)->50089(concept_biotechcompany_baxter_healthcare)	50089(concept_biotechcompany_baxter_healthcare)->333(concept:drugworkedonbyagent_inv)->50088(concept_drug_desflurane)
+50088(concept_drug_desflurane)->332(concept:drugworkedonbyagent)->50089(concept_biotechcompany_baxter_healthcare)	50089(concept_biotechcompany_baxter_healthcare)->333(concept:drugworkedonbyagent_inv)->50088(concept_drug_desflurane)
+50088(concept_drug_desflurane)->332(concept:drugworkedonbyagent)->50089(concept_biotechcompany_baxter_healthcare)	50089(concept_biotechcompany_baxter_healthcare)->333(concept:drugworkedonbyagent_inv)->50088(concept_drug_desflurane)
+50088(concept_drug_desflurane)->332(concept:drugworkedonbyagent)->50089(concept_biotechcompany_baxter_healthcare)	50089(concept_biotechcompany_baxter_healthcare)->333(concept:drugworkedonbyagent_inv)->50088(concept_drug_desflurane)

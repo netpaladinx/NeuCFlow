@@ -1,0 +1,13 @@
+nodes:
+75418(concept_sportsteam_cal_st__northridge_matadors):1.000000
+75418(concept_sportsteam_cal_st__northridge_matadors):1.000000
+75418(concept_sportsteam_cal_st__northridge_matadors):1.000000
+75418(concept_sportsteam_cal_st__northridge_matadors):1.000000
+75418(concept_sportsteam_cal_st__northridge_matadors):1.000000
+75418(concept_sportsteam_cal_st__northridge_matadors):1.000000
+edges:
+
+
+
+
+

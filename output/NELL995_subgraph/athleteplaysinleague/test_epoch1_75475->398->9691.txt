@@ -1,0 +1,13 @@
+nodes:
+75475(concept_athlete_franklyn_german):1.000000
+75475(concept_athlete_franklyn_german):1.000000
+75475(concept_athlete_franklyn_german):1.000000
+75475(concept_athlete_franklyn_german):1.000000
+75475(concept_athlete_franklyn_german):1.000000
+75475(concept_athlete_franklyn_german):1.000000
+edges:
+
+
+
+
+

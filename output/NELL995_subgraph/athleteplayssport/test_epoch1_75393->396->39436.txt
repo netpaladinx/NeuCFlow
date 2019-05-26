@@ -1,0 +1,13 @@
+nodes:
+75393(concept_athlete_fernando_rodriguez):1.000000
+75393(concept_athlete_fernando_rodriguez):1.000000
+75393(concept_athlete_fernando_rodriguez):1.000000
+75393(concept_athlete_fernando_rodriguez):1.000000
+75393(concept_athlete_fernando_rodriguez):1.000000
+75393(concept_athlete_fernando_rodriguez):1.000000
+edges:
+
+
+
+
+

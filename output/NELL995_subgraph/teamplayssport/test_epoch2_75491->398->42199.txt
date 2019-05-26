@@ -1,0 +1,13 @@
+nodes:
+75491(concept_sportsteam_mighty_ducks_of_anaheim):1.000000
+75491(concept_sportsteam_mighty_ducks_of_anaheim):1.000000
+75491(concept_sportsteam_mighty_ducks_of_anaheim):1.000000
+75491(concept_sportsteam_mighty_ducks_of_anaheim):1.000000
+75491(concept_sportsteam_mighty_ducks_of_anaheim):1.000000
+75491(concept_sportsteam_mighty_ducks_of_anaheim):1.000000
+edges:
+
+
+
+
+

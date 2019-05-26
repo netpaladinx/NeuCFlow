@@ -1,0 +1,13 @@
+nodes:
+75276(concept_athlete_ron_garl):1.000000
+75276(concept_athlete_ron_garl):1.000000
+75276(concept_athlete_ron_garl):1.000000
+75276(concept_athlete_ron_garl):1.000000
+75276(concept_athlete_ron_garl):1.000000
+75276(concept_athlete_ron_garl):1.000000
+edges:
+
+
+
+
+

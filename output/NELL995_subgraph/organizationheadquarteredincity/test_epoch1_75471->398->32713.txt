@@ -1,0 +1,13 @@
+nodes:
+75471(concept_company_ntt_docomo):1.000000
+75471(concept_company_ntt_docomo):1.000000
+75471(concept_company_ntt_docomo):1.000000
+75471(concept_company_ntt_docomo):1.000000
+75471(concept_company_ntt_docomo):1.000000
+75471(concept_company_ntt_docomo):1.000000
+edges:
+
+
+
+
+

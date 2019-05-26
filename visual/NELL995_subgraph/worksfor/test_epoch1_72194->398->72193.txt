@@ -1,0 +1,4 @@
+concept_person_otto_ambros	concept:worksfor	concept_company_ig_farben
+
+concept_person_otto_ambros	concept:agentcollaborateswithagent_inv	concept_company_ig_farben
+concept_company_ig_farben	concept:agentcollaborateswithagent	concept_person_otto_ambros

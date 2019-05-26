@@ -1,0 +1,13 @@
+nodes:
+55881(concept_journalist_nick_fierro):1.000000
+55880(concept_newspaper_express_times):0.999997	55881(concept_journalist_nick_fierro):0.000003
+55881(concept_journalist_nick_fierro):0.999994	55880(concept_newspaper_express_times):0.000006
+55880(concept_newspaper_express_times):0.999993	55881(concept_journalist_nick_fierro):0.000007
+55881(concept_journalist_nick_fierro):0.999993	55880(concept_newspaper_express_times):0.000007
+55880(concept_newspaper_express_times):0.999992	55881(concept_journalist_nick_fierro):0.000008
+edges:
+55881(concept_journalist_nick_fierro)->25(concept:agentcollaborateswithagent_inv)->55880(concept_newspaper_express_times)	55881(concept_journalist_nick_fierro)->216(concept:journalistwritesforpublication)->55880(concept_newspaper_express_times)
+55880(concept_newspaper_express_times)->24(concept:agentcollaborateswithagent)->55881(concept_journalist_nick_fierro)	55880(concept_newspaper_express_times)->217(concept:journalistwritesforpublication_inv)->55881(concept_journalist_nick_fierro)	55881(concept_journalist_nick_fierro)->25(concept:agentcollaborateswithagent_inv)->55880(concept_newspaper_express_times)	55881(concept_journalist_nick_fierro)->216(concept:journalistwritesforpublication)->55880(concept_newspaper_express_times)
+55880(concept_newspaper_express_times)->24(concept:agentcollaborateswithagent)->55881(concept_journalist_nick_fierro)	55880(concept_newspaper_express_times)->217(concept:journalistwritesforpublication_inv)->55881(concept_journalist_nick_fierro)	55881(concept_journalist_nick_fierro)->25(concept:agentcollaborateswithagent_inv)->55880(concept_newspaper_express_times)	55881(concept_journalist_nick_fierro)->216(concept:journalistwritesforpublication)->55880(concept_newspaper_express_times)
+55880(concept_newspaper_express_times)->24(concept:agentcollaborateswithagent)->55881(concept_journalist_nick_fierro)	55880(concept_newspaper_express_times)->217(concept:journalistwritesforpublication_inv)->55881(concept_journalist_nick_fierro)	55881(concept_journalist_nick_fierro)->25(concept:agentcollaborateswithagent_inv)->55880(concept_newspaper_express_times)	55881(concept_journalist_nick_fierro)->216(concept:journalistwritesforpublication)->55880(concept_newspaper_express_times)
+55880(concept_newspaper_express_times)->24(concept:agentcollaborateswithagent)->55881(concept_journalist_nick_fierro)	55880(concept_newspaper_express_times)->217(concept:journalistwritesforpublication_inv)->55881(concept_journalist_nick_fierro)	55881(concept_journalist_nick_fierro)->25(concept:agentcollaborateswithagent_inv)->55880(concept_newspaper_express_times)	55881(concept_journalist_nick_fierro)->216(concept:journalistwritesforpublication)->55880(concept_newspaper_express_times)

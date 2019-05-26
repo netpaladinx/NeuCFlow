@@ -1,0 +1,13 @@
+nodes:
+75444(concept_sportsteam_cal_st__fullerton_titans):1.000000
+75444(concept_sportsteam_cal_st__fullerton_titans):1.000000
+75444(concept_sportsteam_cal_st__fullerton_titans):1.000000
+75444(concept_sportsteam_cal_st__fullerton_titans):1.000000
+75444(concept_sportsteam_cal_st__fullerton_titans):1.000000
+75444(concept_sportsteam_cal_st__fullerton_titans):1.000000
+edges:
+
+
+
+
+

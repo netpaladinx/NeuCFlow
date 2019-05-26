@@ -1,0 +1,13 @@
+nodes:
+75467(concept_professor_pat_summitt):1.000000
+75467(concept_professor_pat_summitt):1.000000
+75467(concept_professor_pat_summitt):1.000000
+75467(concept_professor_pat_summitt):1.000000
+75467(concept_professor_pat_summitt):1.000000
+75467(concept_professor_pat_summitt):1.000000
+edges:
+
+
+
+
+

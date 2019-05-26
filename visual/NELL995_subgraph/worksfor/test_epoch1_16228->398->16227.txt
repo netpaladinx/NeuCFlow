@@ -1,0 +1,4 @@
+concept_politician_olaf_scholz	concept:worksfor	concept_bank_hamburg
+
+concept_politician_olaf_scholz	concept:agentcollaborateswithagent_inv	concept_bank_hamburg
+concept_bank_hamburg	concept:agentcollaborateswithagent	concept_politician_olaf_scholz

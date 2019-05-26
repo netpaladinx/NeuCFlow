@@ -1,0 +1,13 @@
+nodes:
+75480(concept_visualartist_white):1.000000
+75480(concept_visualartist_white):1.000000
+75480(concept_visualartist_white):1.000000
+75480(concept_visualartist_white):1.000000
+75480(concept_visualartist_white):1.000000
+75480(concept_visualartist_white):1.000000
+edges:
+
+
+
+
+

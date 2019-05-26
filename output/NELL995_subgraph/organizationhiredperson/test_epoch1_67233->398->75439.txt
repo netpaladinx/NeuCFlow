@@ -1,0 +1,13 @@
+nodes:
+67233(concept_sportsteam_southern_miss_lady_golden_eagles):1.000000
+67232(concept_coach_jeff_bower):0.999678	67233(concept_sportsteam_southern_miss_lady_golden_eagles):0.000322
+67233(concept_sportsteam_southern_miss_lady_golden_eagles):0.998260	67232(concept_coach_jeff_bower):0.001740
+67232(concept_coach_jeff_bower):0.998238	67233(concept_sportsteam_southern_miss_lady_golden_eagles):0.001762
+67233(concept_sportsteam_southern_miss_lady_golden_eagles):0.998225	67232(concept_coach_jeff_bower):0.001775
+67232(concept_coach_jeff_bower):0.998225	67233(concept_sportsteam_southern_miss_lady_golden_eagles):0.001775
+edges:
+67233(concept_sportsteam_southern_miss_lady_golden_eagles)->251(concept:coachesteam_inv)->67232(concept_coach_jeff_bower)
+67232(concept_coach_jeff_bower)->250(concept:coachesteam)->67233(concept_sportsteam_southern_miss_lady_golden_eagles)	67233(concept_sportsteam_southern_miss_lady_golden_eagles)->251(concept:coachesteam_inv)->67232(concept_coach_jeff_bower)
+67232(concept_coach_jeff_bower)->250(concept:coachesteam)->67233(concept_sportsteam_southern_miss_lady_golden_eagles)	67233(concept_sportsteam_southern_miss_lady_golden_eagles)->251(concept:coachesteam_inv)->67232(concept_coach_jeff_bower)
+67232(concept_coach_jeff_bower)->250(concept:coachesteam)->67233(concept_sportsteam_southern_miss_lady_golden_eagles)	67233(concept_sportsteam_southern_miss_lady_golden_eagles)->251(concept:coachesteam_inv)->67232(concept_coach_jeff_bower)
+67232(concept_coach_jeff_bower)->250(concept:coachesteam)->67233(concept_sportsteam_southern_miss_lady_golden_eagles)	67233(concept_sportsteam_southern_miss_lady_golden_eagles)->251(concept:coachesteam_inv)->67232(concept_coach_jeff_bower)

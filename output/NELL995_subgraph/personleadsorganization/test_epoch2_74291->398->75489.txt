@@ -1,0 +1,13 @@
+nodes:
+74291(concept_professor_chad_deaton):1.000000
+74292(concept_company_baker_hughes):0.999706	74291(concept_professor_chad_deaton):0.000294
+74291(concept_professor_chad_deaton):0.999595	74292(concept_company_baker_hughes):0.000405
+74292(concept_company_baker_hughes):0.999451	74291(concept_professor_chad_deaton):0.000550
+74291(concept_professor_chad_deaton):0.999081	74292(concept_company_baker_hughes):0.000919
+74292(concept_company_baker_hughes):0.999082	74291(concept_professor_chad_deaton):0.000918
+edges:
+74291(concept_professor_chad_deaton)->0(concept:worksfor)->74292(concept_company_baker_hughes)
+74291(concept_professor_chad_deaton)->0(concept:worksfor)->74292(concept_company_baker_hughes)	74292(concept_company_baker_hughes)->1(concept:worksfor_inv)->74291(concept_professor_chad_deaton)
+74291(concept_professor_chad_deaton)->0(concept:worksfor)->74292(concept_company_baker_hughes)	74292(concept_company_baker_hughes)->1(concept:worksfor_inv)->74291(concept_professor_chad_deaton)
+74291(concept_professor_chad_deaton)->0(concept:worksfor)->74292(concept_company_baker_hughes)	74292(concept_company_baker_hughes)->1(concept:worksfor_inv)->74291(concept_professor_chad_deaton)
+74291(concept_professor_chad_deaton)->0(concept:worksfor)->74292(concept_company_baker_hughes)	74292(concept_company_baker_hughes)->1(concept:worksfor_inv)->74291(concept_professor_chad_deaton)

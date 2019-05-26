@@ -1,0 +1,13 @@
+nodes:
+75316(concept_athlete_john_lannan):1.000000
+75316(concept_athlete_john_lannan):1.000000
+75316(concept_athlete_john_lannan):1.000000
+75316(concept_athlete_john_lannan):1.000000
+75316(concept_athlete_john_lannan):1.000000
+75316(concept_athlete_john_lannan):1.000000
+edges:
+
+
+
+
+

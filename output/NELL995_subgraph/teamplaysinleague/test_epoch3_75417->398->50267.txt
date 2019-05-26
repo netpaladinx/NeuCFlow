@@ -1,0 +1,13 @@
+nodes:
+75417(concept_sportsteam_the_new_school):1.000000
+75417(concept_sportsteam_the_new_school):1.000000
+75417(concept_sportsteam_the_new_school):1.000000
+75417(concept_sportsteam_the_new_school):1.000000
+75417(concept_sportsteam_the_new_school):1.000000
+75417(concept_sportsteam_the_new_school):1.000000
+edges:
+
+
+
+
+

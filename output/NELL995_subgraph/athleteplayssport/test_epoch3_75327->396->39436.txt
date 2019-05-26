@@ -1,0 +1,13 @@
+nodes:
+75327(concept_athlete_kazuo_fukumori):1.000000
+75327(concept_athlete_kazuo_fukumori):1.000000
+75327(concept_athlete_kazuo_fukumori):1.000000
+75327(concept_athlete_kazuo_fukumori):1.000000
+75327(concept_athlete_kazuo_fukumori):1.000000
+75327(concept_athlete_kazuo_fukumori):1.000000
+edges:
+
+
+
+
+

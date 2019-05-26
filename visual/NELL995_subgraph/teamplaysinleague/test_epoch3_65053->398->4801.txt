@@ -1,0 +1,4 @@
+concept_sportsteam_fc_dallas	concept:teamplaysinleague	concept_sportsleague_mls
+
+concept_sportsteam_fc_dallas	concept:athleteplaysforteam_inv	concept_athlete_kenny_cooper
+concept_athlete_kenny_cooper	concept:athleteplaysforteam	concept_sportsteam_fc_dallas

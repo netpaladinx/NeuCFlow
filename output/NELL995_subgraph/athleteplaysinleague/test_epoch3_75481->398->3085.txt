@@ -1,0 +1,13 @@
+nodes:
+75481(concept_athlete_andre_owens):1.000000
+75481(concept_athlete_andre_owens):1.000000
+75481(concept_athlete_andre_owens):1.000000
+75481(concept_athlete_andre_owens):1.000000
+75481(concept_athlete_andre_owens):1.000000
+75481(concept_athlete_andre_owens):1.000000
+edges:
+
+
+
+
+

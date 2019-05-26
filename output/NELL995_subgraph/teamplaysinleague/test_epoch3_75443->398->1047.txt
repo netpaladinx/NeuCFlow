@@ -1,0 +1,13 @@
+nodes:
+75443(concept_sportsteam_houston_colts):1.000000
+75443(concept_sportsteam_houston_colts):1.000000
+75443(concept_sportsteam_houston_colts):1.000000
+75443(concept_sportsteam_houston_colts):1.000000
+75443(concept_sportsteam_houston_colts):1.000000
+75443(concept_sportsteam_houston_colts):1.000000
+edges:
+
+
+
+
+

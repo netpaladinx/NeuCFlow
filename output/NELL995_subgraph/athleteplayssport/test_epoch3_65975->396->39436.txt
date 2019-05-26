@@ -1,0 +1,13 @@
+nodes:
+65975(concept_athlete_roy_halladay):1.000000
+65975(concept_athlete_roy_halladay):1.000000
+1047(concept_sportsleague_mlb):1.000000
+40153(concept_sportsteam_st__louis_cardinals):1.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000	47036(concept_sportsgame_n1995_world_series):0.000000
+edges:
+
+65975(concept_athlete_roy_halladay)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->40153(concept_sportsteam_st__louis_cardinals)
+40153(concept_sportsteam_st__louis_cardinals)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->47036(concept_sportsgame_n1995_world_series)

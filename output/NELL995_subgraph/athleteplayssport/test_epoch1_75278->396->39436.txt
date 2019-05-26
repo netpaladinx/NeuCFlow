@@ -1,0 +1,13 @@
+nodes:
+75278(concept_athlete_rick_bauer):1.000000
+75278(concept_athlete_rick_bauer):1.000000
+75278(concept_athlete_rick_bauer):1.000000
+75278(concept_athlete_rick_bauer):1.000000
+75278(concept_athlete_rick_bauer):1.000000
+75278(concept_athlete_rick_bauer):1.000000
+edges:
+
+
+
+
+

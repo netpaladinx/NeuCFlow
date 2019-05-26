@@ -1,0 +1,13 @@
+nodes:
+75489(concept_politician_marta_vincenzi):1.000000
+75489(concept_politician_marta_vincenzi):1.000000
+75489(concept_politician_marta_vincenzi):1.000000
+75489(concept_politician_marta_vincenzi):1.000000
+75489(concept_politician_marta_vincenzi):1.000000
+75489(concept_politician_marta_vincenzi):1.000000
+edges:
+
+
+
+
+

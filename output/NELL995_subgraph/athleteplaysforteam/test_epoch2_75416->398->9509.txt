@@ -1,0 +1,13 @@
+nodes:
+75416(concept_athlete_junior_seau):1.000000
+75416(concept_athlete_junior_seau):1.000000
+75416(concept_athlete_junior_seau):1.000000
+75416(concept_athlete_junior_seau):1.000000
+75416(concept_athlete_junior_seau):1.000000
+75416(concept_athlete_junior_seau):1.000000
+edges:
+
+
+
+
+

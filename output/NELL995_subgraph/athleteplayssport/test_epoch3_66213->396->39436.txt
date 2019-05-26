@@ -1,0 +1,13 @@
+nodes:
+66213(concept_coach_derrek_lee):1.000000
+66213(concept_coach_derrek_lee):1.000000
+27070(concept_stadiumoreventvenue_wrigley_field):1.000000
+39436(concept_sport_baseball):1.000000
+35600(concept_stadiumoreventvenue_shea_stadium):1.000000	25194(concept_awardtrophytournament_world_series):0.000000	35461(concept_stadiumoreventvenue_citizen_bank_park):0.000000
+39436(concept_sport_baseball):1.000000
+edges:
+
+66213(concept_coach_derrek_lee)->182(concept:athletehomestadium)->27070(concept_stadiumoreventvenue_wrigley_field)
+27070(concept_stadiumoreventvenue_wrigley_field)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35461(concept_stadiumoreventvenue_citizen_bank_park)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)
+25194(concept_awardtrophytournament_world_series)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->39436(concept_sport_baseball)	35461(concept_stadiumoreventvenue_citizen_bank_park)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	35600(concept_stadiumoreventvenue_shea_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)

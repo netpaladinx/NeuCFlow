@@ -1,0 +1,13 @@
+nodes:
+75481(concept_bank_metlife):1.000000
+75481(concept_bank_metlife):1.000000
+75481(concept_bank_metlife):1.000000
+75481(concept_bank_metlife):1.000000
+75481(concept_bank_metlife):1.000000
+75481(concept_bank_metlife):1.000000
+edges:
+
+
+
+
+

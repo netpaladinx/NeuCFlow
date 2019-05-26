@@ -1,0 +1,13 @@
+nodes:
+75459(concept_coach_colorado_avalanche):1.000000
+75459(concept_coach_colorado_avalanche):1.000000
+75459(concept_coach_colorado_avalanche):1.000000
+75459(concept_coach_colorado_avalanche):1.000000
+75459(concept_coach_colorado_avalanche):1.000000
+75459(concept_coach_colorado_avalanche):1.000000
+edges:
+
+
+
+
+

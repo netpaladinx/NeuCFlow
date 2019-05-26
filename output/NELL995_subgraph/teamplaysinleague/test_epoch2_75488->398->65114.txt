@@ -1,0 +1,13 @@
+nodes:
+75488(concept_sportsteam_louisiana_ragin_cajuns):1.000000
+75488(concept_sportsteam_louisiana_ragin_cajuns):1.000000
+75488(concept_sportsteam_louisiana_ragin_cajuns):1.000000
+75488(concept_sportsteam_louisiana_ragin_cajuns):1.000000
+75488(concept_sportsteam_louisiana_ragin_cajuns):1.000000
+75488(concept_sportsteam_louisiana_ragin_cajuns):1.000000
+edges:
+
+
+
+
+

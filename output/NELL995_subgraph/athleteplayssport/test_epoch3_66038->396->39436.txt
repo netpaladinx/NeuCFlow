@@ -1,0 +1,13 @@
+nodes:
+66038(concept_personmexico_luke_walton):1.000000
+35410(concept_stadiumoreventvenue_staples_center):1.000000
+15329(concept_sport_hockey):1.000000
+35534(concept_stadiumoreventvenue_rogers_arena):1.000000	21035(concept_awardtrophytournament_stanley_cup):0.000000
+15329(concept_sport_hockey):1.000000	40122(concept_sportsteam_tampa_bay_lightning):0.000000
+35534(concept_stadiumoreventvenue_rogers_arena):1.000000	15329(concept_sport_hockey):0.000000
+edges:
+66038(concept_personmexico_luke_walton)->182(concept:athletehomestadium)->35410(concept_stadiumoreventvenue_staples_center)
+35410(concept_stadiumoreventvenue_staples_center)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)
+15329(concept_sport_hockey)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->21035(concept_awardtrophytournament_stanley_cup)	15329(concept_sport_hockey)->302(concept:sportusesstadium)->35534(concept_stadiumoreventvenue_rogers_arena)
+21035(concept_awardtrophytournament_stanley_cup)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->15329(concept_sport_hockey)	21035(concept_awardtrophytournament_stanley_cup)->261(concept:teamwontrophy_inv)->40122(concept_sportsteam_tampa_bay_lightning)	35534(concept_stadiumoreventvenue_rogers_arena)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)
+15329(concept_sport_hockey)->302(concept:sportusesstadium)->35534(concept_stadiumoreventvenue_rogers_arena)	40122(concept_sportsteam_tampa_bay_lightning)->180(concept:teamplayssport)->15329(concept_sport_hockey)

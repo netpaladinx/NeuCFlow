@@ -1,0 +1,13 @@
+nodes:
+75440(concept_sportsteam_gardner_webb_runnin__bulldogs):1.000000
+75440(concept_sportsteam_gardner_webb_runnin__bulldogs):1.000000
+75440(concept_sportsteam_gardner_webb_runnin__bulldogs):1.000000
+75440(concept_sportsteam_gardner_webb_runnin__bulldogs):1.000000
+75440(concept_sportsteam_gardner_webb_runnin__bulldogs):1.000000
+75440(concept_sportsteam_gardner_webb_runnin__bulldogs):1.000000
+edges:
+
+
+
+
+

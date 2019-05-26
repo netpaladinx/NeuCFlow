@@ -1,0 +1,13 @@
+nodes:
+75477(concept_company_usair):1.000000
+75477(concept_company_usair):1.000000
+75477(concept_company_usair):1.000000
+75477(concept_company_usair):1.000000
+75477(concept_company_usair):1.000000
+75477(concept_company_usair):1.000000
+edges:
+
+
+
+
+

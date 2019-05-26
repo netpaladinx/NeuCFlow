@@ -1,0 +1,13 @@
+nodes:
+75287(concept_athlete_troy_patton):1.000000
+75287(concept_athlete_troy_patton):1.000000
+75287(concept_athlete_troy_patton):1.000000
+75287(concept_athlete_troy_patton):1.000000
+75287(concept_athlete_troy_patton):1.000000
+75287(concept_athlete_troy_patton):1.000000
+edges:
+
+
+
+
+

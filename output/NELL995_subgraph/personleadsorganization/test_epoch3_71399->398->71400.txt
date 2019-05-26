@@ -1,0 +1,13 @@
+nodes:
+71399(concept_ceo_rodger_o__riney):1.000000
+71400(concept_company_scottrade):0.999996	71399(concept_ceo_rodger_o__riney):0.000004
+71399(concept_ceo_rodger_o__riney):0.999996	71400(concept_company_scottrade):0.000004
+71400(concept_company_scottrade):0.999995	71399(concept_ceo_rodger_o__riney):0.000005
+71399(concept_ceo_rodger_o__riney):0.999995	71400(concept_company_scottrade):0.000005
+71400(concept_company_scottrade):0.999995	71399(concept_ceo_rodger_o__riney):0.000005
+edges:
+71399(concept_ceo_rodger_o__riney)->0(concept:worksfor)->71400(concept_company_scottrade)
+71399(concept_ceo_rodger_o__riney)->0(concept:worksfor)->71400(concept_company_scottrade)	71400(concept_company_scottrade)->1(concept:worksfor_inv)->71399(concept_ceo_rodger_o__riney)
+71399(concept_ceo_rodger_o__riney)->0(concept:worksfor)->71400(concept_company_scottrade)	71400(concept_company_scottrade)->1(concept:worksfor_inv)->71399(concept_ceo_rodger_o__riney)
+71399(concept_ceo_rodger_o__riney)->0(concept:worksfor)->71400(concept_company_scottrade)	71400(concept_company_scottrade)->1(concept:worksfor_inv)->71399(concept_ceo_rodger_o__riney)
+71399(concept_ceo_rodger_o__riney)->0(concept:worksfor)->71400(concept_company_scottrade)	71400(concept_company_scottrade)->1(concept:worksfor_inv)->71399(concept_ceo_rodger_o__riney)

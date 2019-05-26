@@ -1,0 +1,13 @@
+nodes:
+75457(concept_person_barbara_west):1.000000
+75457(concept_person_barbara_west):1.000000
+75457(concept_person_barbara_west):1.000000
+75457(concept_person_barbara_west):1.000000
+75457(concept_person_barbara_west):1.000000
+75457(concept_person_barbara_west):1.000000
+edges:
+
+
+
+
+

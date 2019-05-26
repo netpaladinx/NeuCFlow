@@ -1,0 +1,13 @@
+nodes:
+75446(concept_athlete_darcy_tucker):1.000000
+75446(concept_athlete_darcy_tucker):1.000000
+75446(concept_athlete_darcy_tucker):1.000000
+75446(concept_athlete_darcy_tucker):1.000000
+75446(concept_athlete_darcy_tucker):1.000000
+75446(concept_athlete_darcy_tucker):1.000000
+edges:
+
+
+
+
+

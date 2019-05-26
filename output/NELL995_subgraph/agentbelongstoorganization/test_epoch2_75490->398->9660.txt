@@ -1,0 +1,13 @@
+nodes:
+75490(concept_coach_new_york_rangers):1.000000
+75490(concept_coach_new_york_rangers):1.000000
+75490(concept_coach_new_york_rangers):1.000000
+75490(concept_coach_new_york_rangers):1.000000
+75490(concept_coach_new_york_rangers):1.000000
+75490(concept_coach_new_york_rangers):1.000000
+edges:
+
+
+
+
+

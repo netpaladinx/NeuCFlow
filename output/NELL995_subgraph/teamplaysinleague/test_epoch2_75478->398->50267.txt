@@ -1,0 +1,13 @@
+nodes:
+75478(concept_sportsteam_san_jose_state_university):1.000000
+75478(concept_sportsteam_san_jose_state_university):1.000000
+75478(concept_sportsteam_san_jose_state_university):1.000000
+75478(concept_sportsteam_san_jose_state_university):1.000000
+75478(concept_sportsteam_san_jose_state_university):1.000000
+75478(concept_sportsteam_san_jose_state_university):1.000000
+edges:
+
+
+
+
+

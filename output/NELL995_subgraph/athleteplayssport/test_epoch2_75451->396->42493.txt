@@ -1,0 +1,13 @@
+nodes:
+75451(concept_athlete_richard_gasquet):1.000000
+75451(concept_athlete_richard_gasquet):1.000000
+75451(concept_athlete_richard_gasquet):1.000000
+75451(concept_athlete_richard_gasquet):1.000000
+75451(concept_athlete_richard_gasquet):1.000000
+75451(concept_athlete_richard_gasquet):1.000000
+edges:
+
+
+
+
+

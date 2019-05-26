@@ -1,0 +1,13 @@
+nodes:
+75323(concept_athlete_guillermo_quiroz):1.000000
+75323(concept_athlete_guillermo_quiroz):1.000000
+75323(concept_athlete_guillermo_quiroz):1.000000
+75323(concept_athlete_guillermo_quiroz):1.000000
+75323(concept_athlete_guillermo_quiroz):1.000000
+75323(concept_athlete_guillermo_quiroz):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+75468(concept_sportsteam_kansas_st__wildcats):1.000000
+75468(concept_sportsteam_kansas_st__wildcats):1.000000
+75468(concept_sportsteam_kansas_st__wildcats):1.000000
+75468(concept_sportsteam_kansas_st__wildcats):1.000000
+75468(concept_sportsteam_kansas_st__wildcats):1.000000
+75468(concept_sportsteam_kansas_st__wildcats):1.000000
+edges:
+
+
+
+
+

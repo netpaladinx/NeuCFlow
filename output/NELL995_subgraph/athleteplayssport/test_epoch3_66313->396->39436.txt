@@ -1,0 +1,13 @@
+nodes:
+66313(concept_personmexico_francisco_liriano):1.000000
+66313(concept_personmexico_francisco_liriano):1.000000
+1047(concept_sportsleague_mlb):1.000000
+17194(concept_sportsteam_red_sox):1.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000	35600(concept_stadiumoreventvenue_shea_stadium):0.000000
+edges:
+
+66313(concept_personmexico_francisco_liriano)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)
+17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)

@@ -1,0 +1,13 @@
+nodes:
+71175(concept_ceo_donato_a__montanaro):1.000000
+71176(concept_bank_tradeking):0.999995	71175(concept_ceo_donato_a__montanaro):0.000005
+71175(concept_ceo_donato_a__montanaro):0.999993	71176(concept_bank_tradeking):0.000007
+71176(concept_bank_tradeking):0.999993	71175(concept_ceo_donato_a__montanaro):0.000007
+71175(concept_ceo_donato_a__montanaro):0.999993	71176(concept_bank_tradeking):0.000007
+71176(concept_bank_tradeking):0.999993	71175(concept_ceo_donato_a__montanaro):0.000007
+edges:
+71175(concept_ceo_donato_a__montanaro)->26(concept:personleadsorganization)->71176(concept_bank_tradeking)
+71175(concept_ceo_donato_a__montanaro)->26(concept:personleadsorganization)->71176(concept_bank_tradeking)	71176(concept_bank_tradeking)->27(concept:personleadsorganization_inv)->71175(concept_ceo_donato_a__montanaro)
+71175(concept_ceo_donato_a__montanaro)->26(concept:personleadsorganization)->71176(concept_bank_tradeking)	71176(concept_bank_tradeking)->27(concept:personleadsorganization_inv)->71175(concept_ceo_donato_a__montanaro)
+71175(concept_ceo_donato_a__montanaro)->26(concept:personleadsorganization)->71176(concept_bank_tradeking)	71176(concept_bank_tradeking)->27(concept:personleadsorganization_inv)->71175(concept_ceo_donato_a__montanaro)
+71175(concept_ceo_donato_a__montanaro)->26(concept:personleadsorganization)->71176(concept_bank_tradeking)	71176(concept_bank_tradeking)->27(concept:personleadsorganization_inv)->71175(concept_ceo_donato_a__montanaro)

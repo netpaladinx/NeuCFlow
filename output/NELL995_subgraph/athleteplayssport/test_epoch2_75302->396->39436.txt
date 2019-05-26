@@ -1,0 +1,13 @@
+nodes:
+75302(concept_athlete_clay_mortensen):1.000000
+75302(concept_athlete_clay_mortensen):1.000000
+75302(concept_athlete_clay_mortensen):1.000000
+75302(concept_athlete_clay_mortensen):1.000000
+75302(concept_athlete_clay_mortensen):1.000000
+75302(concept_athlete_clay_mortensen):1.000000
+edges:
+
+
+
+
+

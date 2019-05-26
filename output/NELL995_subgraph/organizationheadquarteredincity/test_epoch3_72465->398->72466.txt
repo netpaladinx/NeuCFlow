@@ -1,0 +1,13 @@
+nodes:
+72465(concept_company_oman_air):1.000000
+72466(concept_city_salalah):0.844883	72465(concept_company_oman_air):0.155117
+72466(concept_city_salalah):0.959126	72465(concept_company_oman_air):0.040874
+72466(concept_city_salalah):0.997878	72465(concept_company_oman_air):0.002122
+72466(concept_city_salalah):0.999957	72465(concept_company_oman_air):0.000043
+72466(concept_city_salalah):1.000000	72465(concept_company_oman_air):0.000000
+edges:
+72465(concept_company_oman_air)->168(concept:hasofficeincity)->72466(concept_city_salalah)
+72465(concept_company_oman_air)->168(concept:hasofficeincity)->72466(concept_city_salalah)	72466(concept_city_salalah)->169(concept:hasofficeincity_inv)->72465(concept_company_oman_air)
+72465(concept_company_oman_air)->168(concept:hasofficeincity)->72466(concept_city_salalah)	72466(concept_city_salalah)->169(concept:hasofficeincity_inv)->72465(concept_company_oman_air)
+72465(concept_company_oman_air)->168(concept:hasofficeincity)->72466(concept_city_salalah)	72466(concept_city_salalah)->169(concept:hasofficeincity_inv)->72465(concept_company_oman_air)
+72465(concept_company_oman_air)->168(concept:hasofficeincity)->72466(concept_city_salalah)	72466(concept_city_salalah)->169(concept:hasofficeincity_inv)->72465(concept_company_oman_air)

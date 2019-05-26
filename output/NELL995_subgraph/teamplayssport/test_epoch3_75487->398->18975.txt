@@ -1,0 +1,13 @@
+nodes:
+75487(concept_sportsteam_rice_university):1.000000
+75487(concept_sportsteam_rice_university):1.000000
+75487(concept_sportsteam_rice_university):1.000000
+75487(concept_sportsteam_rice_university):1.000000
+75487(concept_sportsteam_rice_university):1.000000
+75487(concept_sportsteam_rice_university):1.000000
+edges:
+
+
+
+
+

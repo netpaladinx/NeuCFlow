@@ -1,0 +1,13 @@
+nodes:
+75476(concept_coach_minnesota_vikings):1.000000
+75476(concept_coach_minnesota_vikings):1.000000
+75476(concept_coach_minnesota_vikings):1.000000
+75476(concept_coach_minnesota_vikings):1.000000
+75476(concept_coach_minnesota_vikings):1.000000
+75476(concept_coach_minnesota_vikings):1.000000
+edges:
+
+
+
+
+

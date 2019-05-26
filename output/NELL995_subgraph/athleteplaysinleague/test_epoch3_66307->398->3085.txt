@@ -1,0 +1,13 @@
+nodes:
+66307(concept_coach_guillermo_diaz001):1.000000
+40790(concept_awardtrophytournament_playoff_series):1.000000
+66025(concept_coach_mickael_pietrus):0.939459	66319(concept_coach_marcin_gortat):0.060541	64889(concept_athlete_mcgrady):0.000000	24009(concept_sportsteam_rockets):0.000000
+40790(concept_awardtrophytournament_playoff_series):1.000000	66631(concept_athlete_colin_long):0.000000
+66319(concept_coach_marcin_gortat):1.000000	64889(concept_athlete_mcgrady):0.000000	35264(concept_stadiumoreventvenue_toyota_center):0.000000
+40790(concept_awardtrophytournament_playoff_series):1.000000	24009(concept_sportsteam_rockets):0.000000
+edges:
+66307(concept_coach_guillermo_diaz001)->152(concept:coachwontrophy)->40790(concept_awardtrophytournament_playoff_series)
+40790(concept_awardtrophytournament_playoff_series)->263(concept:teamwontrophy_inv)->24009(concept_sportsteam_rockets)	40790(concept_awardtrophytournament_playoff_series)->153(concept:coachwontrophy_inv)->64889(concept_athlete_mcgrady)	40790(concept_awardtrophytournament_playoff_series)->153(concept:coachwontrophy_inv)->66025(concept_coach_mickael_pietrus)	40790(concept_awardtrophytournament_playoff_series)->153(concept:coachwontrophy_inv)->66319(concept_coach_marcin_gortat)
+24009(concept_sportsteam_rockets)->262(concept:teamwontrophy)->40790(concept_awardtrophytournament_playoff_series)	24009(concept_sportsteam_rockets)->159(concept:athleteplaysforteam_inv)->66631(concept_athlete_colin_long)	64889(concept_athlete_mcgrady)->152(concept:coachwontrophy)->40790(concept_awardtrophytournament_playoff_series)	66025(concept_coach_mickael_pietrus)->152(concept:coachwontrophy)->40790(concept_awardtrophytournament_playoff_series)	66319(concept_coach_marcin_gortat)->152(concept:coachwontrophy)->40790(concept_awardtrophytournament_playoff_series)
+40790(concept_awardtrophytournament_playoff_series)->153(concept:coachwontrophy_inv)->64889(concept_athlete_mcgrady)	40790(concept_awardtrophytournament_playoff_series)->153(concept:coachwontrophy_inv)->66319(concept_coach_marcin_gortat)	66631(concept_athlete_colin_long)->182(concept:athletehomestadium)->35264(concept_stadiumoreventvenue_toyota_center)
+35264(concept_stadiumoreventvenue_toyota_center)->245(concept:teamhomestadium_inv)->24009(concept_sportsteam_rockets)	64889(concept_athlete_mcgrady)->152(concept:coachwontrophy)->40790(concept_awardtrophytournament_playoff_series)	66319(concept_coach_marcin_gortat)->152(concept:coachwontrophy)->40790(concept_awardtrophytournament_playoff_series)

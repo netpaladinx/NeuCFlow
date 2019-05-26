@@ -1,0 +1,13 @@
+nodes:
+71293(concept_ceo_gordon_nixon):1.000000
+71294(concept_biotechcompany_royal_bank_of_canada):0.999563	71293(concept_ceo_gordon_nixon):0.000437
+71293(concept_ceo_gordon_nixon):0.999484	71294(concept_biotechcompany_royal_bank_of_canada):0.000516
+71294(concept_biotechcompany_royal_bank_of_canada):0.999309	71293(concept_ceo_gordon_nixon):0.000691
+71293(concept_ceo_gordon_nixon):0.999108	71294(concept_biotechcompany_royal_bank_of_canada):0.000892
+71294(concept_biotechcompany_royal_bank_of_canada):0.999122	71293(concept_ceo_gordon_nixon):0.000878
+edges:
+71293(concept_ceo_gordon_nixon)->0(concept:worksfor)->71294(concept_biotechcompany_royal_bank_of_canada)
+71293(concept_ceo_gordon_nixon)->0(concept:worksfor)->71294(concept_biotechcompany_royal_bank_of_canada)	71294(concept_biotechcompany_royal_bank_of_canada)->1(concept:worksfor_inv)->71293(concept_ceo_gordon_nixon)
+71293(concept_ceo_gordon_nixon)->0(concept:worksfor)->71294(concept_biotechcompany_royal_bank_of_canada)	71294(concept_biotechcompany_royal_bank_of_canada)->1(concept:worksfor_inv)->71293(concept_ceo_gordon_nixon)
+71293(concept_ceo_gordon_nixon)->0(concept:worksfor)->71294(concept_biotechcompany_royal_bank_of_canada)	71294(concept_biotechcompany_royal_bank_of_canada)->1(concept:worksfor_inv)->71293(concept_ceo_gordon_nixon)
+71293(concept_ceo_gordon_nixon)->0(concept:worksfor)->71294(concept_biotechcompany_royal_bank_of_canada)	71294(concept_biotechcompany_royal_bank_of_canada)->1(concept:worksfor_inv)->71293(concept_ceo_gordon_nixon)

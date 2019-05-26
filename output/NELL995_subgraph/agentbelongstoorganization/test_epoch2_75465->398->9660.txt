@@ -1,0 +1,13 @@
+nodes:
+75465(concept_coach_dallas_stars):1.000000
+75465(concept_coach_dallas_stars):1.000000
+75465(concept_coach_dallas_stars):1.000000
+75465(concept_coach_dallas_stars):1.000000
+75465(concept_coach_dallas_stars):1.000000
+75465(concept_coach_dallas_stars):1.000000
+edges:
+
+
+
+
+

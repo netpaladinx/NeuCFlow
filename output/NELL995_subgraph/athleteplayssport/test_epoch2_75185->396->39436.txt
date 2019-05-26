@@ -1,0 +1,13 @@
+nodes:
+75185(concept_athlete_jay_powell):1.000000
+75185(concept_athlete_jay_powell):1.000000
+75185(concept_athlete_jay_powell):1.000000
+75185(concept_athlete_jay_powell):1.000000
+75185(concept_athlete_jay_powell):1.000000
+75185(concept_athlete_jay_powell):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+75424(concept_biotechcompany_lotus_development):1.000000
+75424(concept_biotechcompany_lotus_development):1.000000
+75424(concept_biotechcompany_lotus_development):1.000000
+75424(concept_biotechcompany_lotus_development):1.000000
+75424(concept_biotechcompany_lotus_development):1.000000
+75424(concept_biotechcompany_lotus_development):1.000000
+edges:
+
+
+
+
+

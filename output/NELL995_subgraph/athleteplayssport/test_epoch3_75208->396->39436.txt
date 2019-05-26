@@ -1,0 +1,13 @@
+nodes:
+75208(concept_personmexico_dennis_tankersley):1.000000
+75208(concept_personmexico_dennis_tankersley):1.000000
+75208(concept_personmexico_dennis_tankersley):1.000000
+75208(concept_personmexico_dennis_tankersley):1.000000
+75208(concept_personmexico_dennis_tankersley):1.000000
+75208(concept_personmexico_dennis_tankersley):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+75489(concept_athlete_ime_udoka):1.000000
+75489(concept_athlete_ime_udoka):1.000000
+75489(concept_athlete_ime_udoka):1.000000
+75489(concept_athlete_ime_udoka):1.000000
+75489(concept_athlete_ime_udoka):1.000000
+75489(concept_athlete_ime_udoka):1.000000
+edges:
+
+
+
+
+

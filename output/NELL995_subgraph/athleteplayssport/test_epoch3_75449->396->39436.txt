@@ -1,0 +1,13 @@
+nodes:
+75449(concept_athlete_ken_takahashi):1.000000
+75449(concept_athlete_ken_takahashi):1.000000
+75449(concept_athlete_ken_takahashi):1.000000
+75449(concept_athlete_ken_takahashi):1.000000
+75449(concept_athlete_ken_takahashi):1.000000
+75449(concept_athlete_ken_takahashi):1.000000
+edges:
+
+
+
+
+

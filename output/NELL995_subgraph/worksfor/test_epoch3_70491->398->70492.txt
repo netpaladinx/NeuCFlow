@@ -1,0 +1,13 @@
+nodes:
+70491(concept_journalist_doug_krikorian):1.000000
+70492(concept_newspaper_long_beach_press_telegram):1.000000	70491(concept_journalist_doug_krikorian):0.000000
+70491(concept_journalist_doug_krikorian):1.000000	70492(concept_newspaper_long_beach_press_telegram):0.000000
+70492(concept_newspaper_long_beach_press_telegram):1.000000	70491(concept_journalist_doug_krikorian):0.000000
+70491(concept_journalist_doug_krikorian):1.000000	70492(concept_newspaper_long_beach_press_telegram):0.000000
+70492(concept_newspaper_long_beach_press_telegram):1.000000	70491(concept_journalist_doug_krikorian):0.000000
+edges:
+70491(concept_journalist_doug_krikorian)->216(concept:journalistwritesforpublication)->70492(concept_newspaper_long_beach_press_telegram)
+70491(concept_journalist_doug_krikorian)->216(concept:journalistwritesforpublication)->70492(concept_newspaper_long_beach_press_telegram)	70492(concept_newspaper_long_beach_press_telegram)->217(concept:journalistwritesforpublication_inv)->70491(concept_journalist_doug_krikorian)
+70491(concept_journalist_doug_krikorian)->216(concept:journalistwritesforpublication)->70492(concept_newspaper_long_beach_press_telegram)	70492(concept_newspaper_long_beach_press_telegram)->217(concept:journalistwritesforpublication_inv)->70491(concept_journalist_doug_krikorian)
+70491(concept_journalist_doug_krikorian)->216(concept:journalistwritesforpublication)->70492(concept_newspaper_long_beach_press_telegram)	70492(concept_newspaper_long_beach_press_telegram)->217(concept:journalistwritesforpublication_inv)->70491(concept_journalist_doug_krikorian)
+70491(concept_journalist_doug_krikorian)->216(concept:journalistwritesforpublication)->70492(concept_newspaper_long_beach_press_telegram)	70492(concept_newspaper_long_beach_press_telegram)->217(concept:journalistwritesforpublication_inv)->70491(concept_journalist_doug_krikorian)

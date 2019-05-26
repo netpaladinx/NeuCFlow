@@ -1,0 +1,13 @@
+nodes:
+75462(concept_politicalparty_janata_dal):1.000000
+75462(concept_politicalparty_janata_dal):1.000000
+75462(concept_politicalparty_janata_dal):1.000000
+75462(concept_politicalparty_janata_dal):1.000000
+75462(concept_politicalparty_janata_dal):1.000000
+75462(concept_politicalparty_janata_dal):1.000000
+edges:
+
+
+
+
+

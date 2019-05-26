@@ -1,0 +1,13 @@
+nodes:
+75476(concept_automobilemaker_saab_automobile):1.000000
+75476(concept_automobilemaker_saab_automobile):1.000000
+75476(concept_automobilemaker_saab_automobile):1.000000
+75476(concept_automobilemaker_saab_automobile):1.000000
+75476(concept_automobilemaker_saab_automobile):1.000000
+75476(concept_automobilemaker_saab_automobile):1.000000
+edges:
+
+
+
+
+

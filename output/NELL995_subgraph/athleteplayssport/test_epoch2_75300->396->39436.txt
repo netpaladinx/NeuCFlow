@@ -1,0 +1,13 @@
+nodes:
+75300(concept_athlete_doc_gooden):1.000000
+75300(concept_athlete_doc_gooden):1.000000
+75300(concept_athlete_doc_gooden):1.000000
+75300(concept_athlete_doc_gooden):1.000000
+75300(concept_athlete_doc_gooden):1.000000
+75300(concept_athlete_doc_gooden):1.000000
+edges:
+
+
+
+
+

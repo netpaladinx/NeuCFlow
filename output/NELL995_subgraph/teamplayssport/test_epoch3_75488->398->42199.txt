@@ -1,0 +1,13 @@
+nodes:
+75488(concept_sportsteam_uc_santa_barbara):1.000000
+75488(concept_sportsteam_uc_santa_barbara):1.000000
+75488(concept_sportsteam_uc_santa_barbara):1.000000
+75488(concept_sportsteam_uc_santa_barbara):1.000000
+75488(concept_sportsteam_uc_santa_barbara):1.000000
+75488(concept_sportsteam_uc_santa_barbara):1.000000
+edges:
+
+
+
+
+

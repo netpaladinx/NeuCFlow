@@ -1,0 +1,13 @@
+nodes:
+75484(concept_coach_atlanta_hawks):1.000000
+75484(concept_coach_atlanta_hawks):1.000000
+75484(concept_coach_atlanta_hawks):1.000000
+75484(concept_coach_atlanta_hawks):1.000000
+75484(concept_coach_atlanta_hawks):1.000000
+75484(concept_coach_atlanta_hawks):1.000000
+edges:
+
+
+
+
+

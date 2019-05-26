@@ -1,0 +1,13 @@
+nodes:
+75210(concept_athlete_doug_carrick):1.000000
+75210(concept_athlete_doug_carrick):1.000000
+75210(concept_athlete_doug_carrick):1.000000
+75210(concept_athlete_doug_carrick):1.000000
+75210(concept_athlete_doug_carrick):1.000000
+75210(concept_athlete_doug_carrick):1.000000
+edges:
+
+
+
+
+

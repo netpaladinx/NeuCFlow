@@ -1,0 +1,13 @@
+nodes:
+2134(concept_ceo_millard_drexler):1.000000
+2133(concept_company_j__crew):0.999715	2134(concept_ceo_millard_drexler):0.000285
+2134(concept_ceo_millard_drexler):0.999603	2133(concept_company_j__crew):0.000397
+2133(concept_company_j__crew):0.999428	2134(concept_ceo_millard_drexler):0.000572
+2134(concept_ceo_millard_drexler):0.999108	2133(concept_company_j__crew):0.000892
+2133(concept_company_j__crew):0.999108	2134(concept_ceo_millard_drexler):0.000892
+edges:
+2134(concept_ceo_millard_drexler)->0(concept:worksfor)->2133(concept_company_j__crew)	2134(concept_ceo_millard_drexler)->27(concept:agentcollaborateswithagent_inv)->2133(concept_company_j__crew)
+2133(concept_company_j__crew)->1(concept:worksfor_inv)->2134(concept_ceo_millard_drexler)	2133(concept_company_j__crew)->26(concept:agentcollaborateswithagent)->2134(concept_ceo_millard_drexler)	2134(concept_ceo_millard_drexler)->0(concept:worksfor)->2133(concept_company_j__crew)	2134(concept_ceo_millard_drexler)->27(concept:agentcollaborateswithagent_inv)->2133(concept_company_j__crew)
+2133(concept_company_j__crew)->1(concept:worksfor_inv)->2134(concept_ceo_millard_drexler)	2133(concept_company_j__crew)->26(concept:agentcollaborateswithagent)->2134(concept_ceo_millard_drexler)	2134(concept_ceo_millard_drexler)->0(concept:worksfor)->2133(concept_company_j__crew)	2134(concept_ceo_millard_drexler)->27(concept:agentcollaborateswithagent_inv)->2133(concept_company_j__crew)
+2133(concept_company_j__crew)->1(concept:worksfor_inv)->2134(concept_ceo_millard_drexler)	2133(concept_company_j__crew)->26(concept:agentcollaborateswithagent)->2134(concept_ceo_millard_drexler)	2134(concept_ceo_millard_drexler)->0(concept:worksfor)->2133(concept_company_j__crew)	2134(concept_ceo_millard_drexler)->27(concept:agentcollaborateswithagent_inv)->2133(concept_company_j__crew)
+2133(concept_company_j__crew)->1(concept:worksfor_inv)->2134(concept_ceo_millard_drexler)	2133(concept_company_j__crew)->26(concept:agentcollaborateswithagent)->2134(concept_ceo_millard_drexler)	2134(concept_ceo_millard_drexler)->0(concept:worksfor)->2133(concept_company_j__crew)	2134(concept_ceo_millard_drexler)->27(concept:agentcollaborateswithagent_inv)->2133(concept_company_j__crew)

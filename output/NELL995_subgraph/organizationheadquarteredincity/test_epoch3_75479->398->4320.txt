@@ -1,0 +1,13 @@
+nodes:
+75479(concept_biotechcompany_eli_lilly___co_):1.000000
+75479(concept_biotechcompany_eli_lilly___co_):1.000000
+75479(concept_biotechcompany_eli_lilly___co_):1.000000
+75479(concept_biotechcompany_eli_lilly___co_):1.000000
+75479(concept_biotechcompany_eli_lilly___co_):1.000000
+75479(concept_biotechcompany_eli_lilly___co_):1.000000
+edges:
+
+
+
+
+

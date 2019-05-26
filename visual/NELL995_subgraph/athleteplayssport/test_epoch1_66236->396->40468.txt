@@ -1,0 +1,6 @@
+concept_athlete_pele	concept:athleteplayssport	concept_sport_soccer
+
+concept_athlete_pele	concept:athleteplaysforteam	concept_sportsteam_brazil
+concept_sportsteam_brazil	concept:teamplayssport	concept_sport_golf
+concept_sportsteam_brazil	concept:athleteplaysforteam_inv	concept_athlete_pele
+concept_sport_golf	concept:teamplayssport_inv	concept_sportsteam_brazil

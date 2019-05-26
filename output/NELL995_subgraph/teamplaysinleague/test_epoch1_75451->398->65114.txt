@@ -1,0 +1,13 @@
+nodes:
+75451(concept_sportsteam_southern_cal_trojans):1.000000
+75451(concept_sportsteam_southern_cal_trojans):1.000000
+75451(concept_sportsteam_southern_cal_trojans):1.000000
+75451(concept_sportsteam_southern_cal_trojans):1.000000
+75451(concept_sportsteam_southern_cal_trojans):1.000000
+75451(concept_sportsteam_southern_cal_trojans):1.000000
+edges:
+
+
+
+
+

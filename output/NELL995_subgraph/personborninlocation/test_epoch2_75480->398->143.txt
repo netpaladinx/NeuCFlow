@@ -1,0 +1,13 @@
+nodes:
+75480(concept_writer_john_f__kennedy):1.000000
+75480(concept_writer_john_f__kennedy):1.000000
+75480(concept_writer_john_f__kennedy):1.000000
+75480(concept_writer_john_f__kennedy):1.000000
+75480(concept_writer_john_f__kennedy):1.000000
+75480(concept_writer_john_f__kennedy):1.000000
+edges:
+
+
+
+
+

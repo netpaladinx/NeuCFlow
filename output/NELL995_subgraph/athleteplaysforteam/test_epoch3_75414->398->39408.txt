@@ -1,0 +1,13 @@
+nodes:
+75414(concept_athlete_michael_leighton):1.000000
+75414(concept_athlete_michael_leighton):1.000000
+75414(concept_athlete_michael_leighton):1.000000
+75414(concept_athlete_michael_leighton):1.000000
+75414(concept_athlete_michael_leighton):1.000000
+75414(concept_athlete_michael_leighton):1.000000
+edges:
+
+
+
+
+

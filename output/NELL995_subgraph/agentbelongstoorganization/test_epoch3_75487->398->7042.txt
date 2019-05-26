@@ -1,0 +1,13 @@
+nodes:
+75487(concept_company_knva):1.000000
+75487(concept_company_knva):1.000000
+75487(concept_company_knva):1.000000
+75487(concept_company_knva):1.000000
+75487(concept_company_knva):1.000000
+75487(concept_company_knva):1.000000
+edges:
+
+
+
+
+

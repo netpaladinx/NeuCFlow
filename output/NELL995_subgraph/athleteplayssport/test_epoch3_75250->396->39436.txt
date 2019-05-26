@@ -1,0 +1,13 @@
+nodes:
+75250(concept_athlete_yusmeiro_petit):1.000000
+75250(concept_athlete_yusmeiro_petit):1.000000
+75250(concept_athlete_yusmeiro_petit):1.000000
+75250(concept_athlete_yusmeiro_petit):1.000000
+75250(concept_athlete_yusmeiro_petit):1.000000
+75250(concept_athlete_yusmeiro_petit):1.000000
+edges:
+
+
+
+
+

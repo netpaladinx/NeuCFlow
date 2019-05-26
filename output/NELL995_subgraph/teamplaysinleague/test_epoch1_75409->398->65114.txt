@@ -1,0 +1,13 @@
+nodes:
+75409(concept_sportsteam_iowa_st_cyclones):1.000000
+75409(concept_sportsteam_iowa_st_cyclones):1.000000
+75409(concept_sportsteam_iowa_st_cyclones):1.000000
+75409(concept_sportsteam_iowa_st_cyclones):1.000000
+75409(concept_sportsteam_iowa_st_cyclones):1.000000
+75409(concept_sportsteam_iowa_st_cyclones):1.000000
+edges:
+
+
+
+
+

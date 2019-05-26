@@ -1,0 +1,13 @@
+nodes:
+75336(concept_athlete_marco_antonio_barrera):1.000000
+75336(concept_athlete_marco_antonio_barrera):1.000000
+75336(concept_athlete_marco_antonio_barrera):1.000000
+75336(concept_athlete_marco_antonio_barrera):1.000000
+75336(concept_athlete_marco_antonio_barrera):1.000000
+75336(concept_athlete_marco_antonio_barrera):1.000000
+edges:
+
+
+
+
+

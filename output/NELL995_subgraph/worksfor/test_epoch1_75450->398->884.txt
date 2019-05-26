@@ -1,0 +1,13 @@
+nodes:
+75450(concept_journalist_matt_lauer):1.000000
+75450(concept_journalist_matt_lauer):1.000000
+75450(concept_journalist_matt_lauer):1.000000
+75450(concept_journalist_matt_lauer):1.000000
+75450(concept_journalist_matt_lauer):1.000000
+75450(concept_journalist_matt_lauer):1.000000
+edges:
+
+
+
+
+

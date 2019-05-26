@@ -1,0 +1,13 @@
+nodes:
+75212(concept_athlete_cano):1.000000
+75212(concept_athlete_cano):1.000000
+75212(concept_athlete_cano):1.000000
+75212(concept_athlete_cano):1.000000
+75212(concept_athlete_cano):1.000000
+75212(concept_athlete_cano):1.000000
+edges:
+
+
+
+
+

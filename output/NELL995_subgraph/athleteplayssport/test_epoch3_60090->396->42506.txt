@@ -1,0 +1,13 @@
+nodes:
+60090(concept_coach_mike_tyson):1.000000
+60090(concept_coach_mike_tyson):0.999964	60088(concept_athlete_lennox_lewis):0.000036
+60088(concept_athlete_lennox_lewis):0.999964	42506(concept_sport_boxing):0.000036
+42506(concept_sport_boxing):1.000000
+42506(concept_sport_boxing):1.000000
+42506(concept_sport_boxing):1.000000
+edges:
+60090(concept_coach_mike_tyson)->383(concept:athletebeatathlete_inv)->60088(concept_athlete_lennox_lewis)
+60088(concept_athlete_lennox_lewis)->396(concept:athleteplayssport)->42506(concept_sport_boxing)	60090(concept_coach_mike_tyson)->383(concept:athletebeatathlete_inv)->60088(concept_athlete_lennox_lewis)
+60088(concept_athlete_lennox_lewis)->396(concept:athleteplayssport)->42506(concept_sport_boxing)
+
+

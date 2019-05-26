@@ -1,0 +1,13 @@
+nodes:
+24624(concept_company_patagonia):1.000000
+24623(concept_person_yvon_chouinard):0.999918	24624(concept_company_patagonia):0.000082
+24624(concept_company_patagonia):0.999901	24623(concept_person_yvon_chouinard):0.000099
+24623(concept_person_yvon_chouinard):0.999901	24624(concept_company_patagonia):0.000099
+24624(concept_company_patagonia):0.999821	24623(concept_person_yvon_chouinard):0.000179
+24623(concept_person_yvon_chouinard):0.999821	24624(concept_company_patagonia):0.000179
+edges:
+24624(concept_company_patagonia)->31(concept:topmemberoforganization_inv)->24623(concept_person_yvon_chouinard)	24624(concept_company_patagonia)->72(concept:organizationterminatedperson)->24623(concept_person_yvon_chouinard)
+24623(concept_person_yvon_chouinard)->30(concept:topmemberoforganization)->24624(concept_company_patagonia)	24623(concept_person_yvon_chouinard)->73(concept:organizationterminatedperson_inv)->24624(concept_company_patagonia)	24624(concept_company_patagonia)->31(concept:topmemberoforganization_inv)->24623(concept_person_yvon_chouinard)	24624(concept_company_patagonia)->72(concept:organizationterminatedperson)->24623(concept_person_yvon_chouinard)
+24623(concept_person_yvon_chouinard)->30(concept:topmemberoforganization)->24624(concept_company_patagonia)	24623(concept_person_yvon_chouinard)->73(concept:organizationterminatedperson_inv)->24624(concept_company_patagonia)	24624(concept_company_patagonia)->31(concept:topmemberoforganization_inv)->24623(concept_person_yvon_chouinard)	24624(concept_company_patagonia)->72(concept:organizationterminatedperson)->24623(concept_person_yvon_chouinard)
+24623(concept_person_yvon_chouinard)->30(concept:topmemberoforganization)->24624(concept_company_patagonia)	24623(concept_person_yvon_chouinard)->73(concept:organizationterminatedperson_inv)->24624(concept_company_patagonia)	24624(concept_company_patagonia)->31(concept:topmemberoforganization_inv)->24623(concept_person_yvon_chouinard)	24624(concept_company_patagonia)->72(concept:organizationterminatedperson)->24623(concept_person_yvon_chouinard)
+24623(concept_person_yvon_chouinard)->30(concept:topmemberoforganization)->24624(concept_company_patagonia)	24623(concept_person_yvon_chouinard)->73(concept:organizationterminatedperson_inv)->24624(concept_company_patagonia)	24624(concept_company_patagonia)->31(concept:topmemberoforganization_inv)->24623(concept_person_yvon_chouinard)	24624(concept_company_patagonia)->72(concept:organizationterminatedperson)->24623(concept_person_yvon_chouinard)

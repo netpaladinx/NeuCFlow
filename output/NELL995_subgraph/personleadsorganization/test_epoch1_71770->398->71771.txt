@@ -1,0 +1,13 @@
+nodes:
+71770(concept_person_juergen_hubbert):1.000000
+71771(concept_organization_mercedes_car_group):0.999964	71770(concept_person_juergen_hubbert):0.000036
+71770(concept_person_juergen_hubbert):0.662663	71812(concept_person_eckhard_cordes):0.337294	71771(concept_organization_mercedes_car_group):0.000044
+71771(concept_organization_mercedes_car_group):0.999792	71770(concept_person_juergen_hubbert):0.000178	71812(concept_person_eckhard_cordes):0.000030
+71770(concept_person_juergen_hubbert):0.672637	71812(concept_person_eckhard_cordes):0.326884	71771(concept_organization_mercedes_car_group):0.000479
+71771(concept_organization_mercedes_car_group):0.999392	71812(concept_person_eckhard_cordes):0.000402	71770(concept_person_juergen_hubbert):0.000205
+edges:
+71770(concept_person_juergen_hubbert)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)
+71770(concept_person_juergen_hubbert)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71770(concept_person_juergen_hubbert)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71812(concept_person_eckhard_cordes)
+71770(concept_person_juergen_hubbert)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71770(concept_person_juergen_hubbert)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71812(concept_person_eckhard_cordes)	71812(concept_person_eckhard_cordes)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)
+71770(concept_person_juergen_hubbert)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71770(concept_person_juergen_hubbert)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71812(concept_person_eckhard_cordes)	71812(concept_person_eckhard_cordes)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)
+71770(concept_person_juergen_hubbert)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71770(concept_person_juergen_hubbert)	71771(concept_organization_mercedes_car_group)->1(concept:worksfor_inv)->71812(concept_person_eckhard_cordes)	71812(concept_person_eckhard_cordes)->0(concept:worksfor)->71771(concept_organization_mercedes_car_group)

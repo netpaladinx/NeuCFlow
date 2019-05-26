@@ -1,0 +1,13 @@
+nodes:
+65984(concept_personeurope_mark_anderson):1.000000
+1423(concept_sportsleague_nfl):0.999987	65984(concept_personeurope_mark_anderson):0.000013
+11168(concept_sportsteam_redskins):0.999987	1423(concept_sportsleague_nfl):0.000013
+3601(concept_sport_football):0.999987	11168(concept_sportsteam_redskins):0.000013
+1688(concept_awardtrophytournament_super_bowl):0.999987	3601(concept_sport_football):0.000013	46924(concept_sportsgame_n2006_sugar_bowl):0.000000
+11168(concept_sportsteam_redskins):0.999987	1688(concept_awardtrophytournament_super_bowl):0.000013	3601(concept_sport_football):0.000000
+edges:
+65984(concept_personeurope_mark_anderson)->158(concept:athleteplaysinleague)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->4(concept:agentcompeteswithagent)->1423(concept_sportsleague_nfl)	1423(concept_sportsleague_nfl)->5(concept:agentcompeteswithagent_inv)->1423(concept_sportsleague_nfl)	1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)	65984(concept_personeurope_mark_anderson)->158(concept:athleteplaysinleague)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)	11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)
+3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->1688(concept_awardtrophytournament_super_bowl)	3601(concept_sport_football)->321(concept:sportsgamesport_inv)->46924(concept_sportsgame_n2006_sugar_bowl)	11168(concept_sportsteam_redskins)->260(concept:teamwontrophy)->1688(concept_awardtrophytournament_super_bowl)	11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)
+1688(concept_awardtrophytournament_super_bowl)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->3601(concept_sport_football)	1688(concept_awardtrophytournament_super_bowl)->261(concept:teamwontrophy_inv)->11168(concept_sportsteam_redskins)	3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->1688(concept_awardtrophytournament_super_bowl)	3601(concept_sport_football)->181(concept:teamplayssport_inv)->11168(concept_sportsteam_redskins)	46924(concept_sportsgame_n2006_sugar_bowl)->320(concept:sportsgamesport)->3601(concept_sport_football)

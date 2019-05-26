@@ -1,0 +1,13 @@
+nodes:
+75397(concept_athlete_mat_latos):1.000000
+75397(concept_athlete_mat_latos):1.000000
+75397(concept_athlete_mat_latos):1.000000
+75397(concept_athlete_mat_latos):1.000000
+75397(concept_athlete_mat_latos):1.000000
+75397(concept_athlete_mat_latos):1.000000
+edges:
+
+
+
+
+

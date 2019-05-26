@@ -1,0 +1,13 @@
+nodes:
+75490(concept_athlete_mickey_mantel):1.000000
+75490(concept_athlete_mickey_mantel):1.000000
+75490(concept_athlete_mickey_mantel):1.000000
+75490(concept_athlete_mickey_mantel):1.000000
+75490(concept_athlete_mickey_mantel):1.000000
+75490(concept_athlete_mickey_mantel):1.000000
+edges:
+
+
+
+
+

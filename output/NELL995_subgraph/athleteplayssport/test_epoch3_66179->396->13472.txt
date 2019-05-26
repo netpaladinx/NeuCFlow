@@ -1,0 +1,13 @@
+nodes:
+66179(concept_athlete_monta_ellis):1.000000
+66179(concept_athlete_monta_ellis):0.962796	24004(concept_sportsteam_golden_state_warriors):0.037173	35241(concept_stadiumoreventvenue_oracle_arena):0.000032
+24004(concept_sportsteam_golden_state_warriors):0.962796	13472(concept_sport_basketball):0.037204
+13472(concept_sport_basketball):1.000000
+35488(concept_stadiumoreventvenue_air_canada_center):1.000000	13472(concept_sport_basketball):0.000000
+15329(concept_sport_hockey):1.000000	35488(concept_stadiumoreventvenue_air_canada_center):0.000000
+edges:
+66179(concept_athlete_monta_ellis)->156(concept:athleteplaysforteam)->24004(concept_sportsteam_golden_state_warriors)	66179(concept_athlete_monta_ellis)->184(concept:athleteledsportsteam)->24004(concept_sportsteam_golden_state_warriors)	66179(concept_athlete_monta_ellis)->182(concept:athletehomestadium)->35241(concept_stadiumoreventvenue_oracle_arena)
+24004(concept_sportsteam_golden_state_warriors)->180(concept:teamplayssport)->13472(concept_sport_basketball)	35241(concept_stadiumoreventvenue_oracle_arena)->303(concept:sportusesstadium_inv)->13472(concept_sport_basketball)	35241(concept_stadiumoreventvenue_oracle_arena)->243(concept:teamhomestadium_inv)->24004(concept_sportsteam_golden_state_warriors)	66179(concept_athlete_monta_ellis)->156(concept:athleteplaysforteam)->24004(concept_sportsteam_golden_state_warriors)	66179(concept_athlete_monta_ellis)->184(concept:athleteledsportsteam)->24004(concept_sportsteam_golden_state_warriors)
+24004(concept_sportsteam_golden_state_warriors)->180(concept:teamplayssport)->13472(concept_sport_basketball)
+13472(concept_sport_basketball)->302(concept:sportusesstadium)->35488(concept_stadiumoreventvenue_air_canada_center)
+13472(concept_sport_basketball)->302(concept:sportusesstadium)->35488(concept_stadiumoreventvenue_air_canada_center)	35488(concept_stadiumoreventvenue_air_canada_center)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)

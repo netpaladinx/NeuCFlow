@@ -1,0 +1,6 @@
+concept_bank_bbva	concept:organizationheadquarteredincity	concept_city_bilbao
+
+concept_bank_bbva	concept:headquarteredin	concept_city_bilbao
+concept_city_bilbao	concept:airportincity_inv	concept_port_bilbao_airport
+concept_city_bilbao	concept:headquarteredin_inv	concept_bank_bbva
+concept_port_bilbao_airport	concept:airportincity	concept_city_bilbao

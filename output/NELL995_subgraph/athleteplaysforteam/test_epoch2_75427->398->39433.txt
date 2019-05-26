@@ -1,0 +1,13 @@
+nodes:
+75427(concept_athlete_rick_nash):1.000000
+75427(concept_athlete_rick_nash):1.000000
+75427(concept_athlete_rick_nash):1.000000
+75427(concept_athlete_rick_nash):1.000000
+75427(concept_athlete_rick_nash):1.000000
+75427(concept_athlete_rick_nash):1.000000
+edges:
+
+
+
+
+

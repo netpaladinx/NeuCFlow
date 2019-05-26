@@ -1,0 +1,13 @@
+nodes:
+65053(concept_sportsteam_fc_dallas):1.000000
+65052(concept_athlete_kenny_cooper):0.801707	65053(concept_sportsteam_fc_dallas):0.198293
+65053(concept_sportsteam_fc_dallas):0.928965	65052(concept_athlete_kenny_cooper):0.071035
+65053(concept_sportsteam_fc_dallas):0.554886	65052(concept_athlete_kenny_cooper):0.445114
+65053(concept_sportsteam_fc_dallas):0.657635	65052(concept_athlete_kenny_cooper):0.342365
+65053(concept_sportsteam_fc_dallas):0.698500	65052(concept_athlete_kenny_cooper):0.301500
+edges:
+65053(concept_sportsteam_fc_dallas)->159(concept:athleteplaysforteam_inv)->65052(concept_athlete_kenny_cooper)
+65052(concept_athlete_kenny_cooper)->158(concept:athleteplaysforteam)->65053(concept_sportsteam_fc_dallas)	65053(concept_sportsteam_fc_dallas)->159(concept:athleteplaysforteam_inv)->65052(concept_athlete_kenny_cooper)
+65052(concept_athlete_kenny_cooper)->158(concept:athleteplaysforteam)->65053(concept_sportsteam_fc_dallas)	65053(concept_sportsteam_fc_dallas)->159(concept:athleteplaysforteam_inv)->65052(concept_athlete_kenny_cooper)
+65052(concept_athlete_kenny_cooper)->158(concept:athleteplaysforteam)->65053(concept_sportsteam_fc_dallas)	65053(concept_sportsteam_fc_dallas)->159(concept:athleteplaysforteam_inv)->65052(concept_athlete_kenny_cooper)
+65052(concept_athlete_kenny_cooper)->158(concept:athleteplaysforteam)->65053(concept_sportsteam_fc_dallas)	65053(concept_sportsteam_fc_dallas)->159(concept:athleteplaysforteam_inv)->65052(concept_athlete_kenny_cooper)

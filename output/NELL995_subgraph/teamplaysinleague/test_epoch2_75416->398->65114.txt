@@ -1,0 +1,13 @@
+nodes:
+75416(concept_sportsteam_stephen_f__austin_lumberjacks):1.000000
+75416(concept_sportsteam_stephen_f__austin_lumberjacks):1.000000
+75416(concept_sportsteam_stephen_f__austin_lumberjacks):1.000000
+75416(concept_sportsteam_stephen_f__austin_lumberjacks):1.000000
+75416(concept_sportsteam_stephen_f__austin_lumberjacks):1.000000
+75416(concept_sportsteam_stephen_f__austin_lumberjacks):1.000000
+edges:
+
+
+
+
+

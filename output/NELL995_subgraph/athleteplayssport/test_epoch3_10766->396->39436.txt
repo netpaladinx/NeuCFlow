@@ -1,0 +1,13 @@
+nodes:
+10766(concept_coach_josh_hamilton):1.000000
+10766(concept_coach_josh_hamilton):1.000000
+10166(concept_stadiumoreventvenue_giants_stadium):1.000000	1047(concept_sportsleague_mlb):0.000000
+1423(concept_sportsleague_nfl):1.000000	17194(concept_sportsteam_red_sox):0.000000
+11168(concept_sportsteam_redskins):1.000000	39436(concept_sport_baseball):0.000000
+3601(concept_sport_football):1.000000	25194(concept_awardtrophytournament_world_series):0.000000
+edges:
+
+10766(concept_coach_josh_hamilton)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)	10766(concept_coach_josh_hamilton)->182(concept:athletehomestadium)->10166(concept_stadiumoreventvenue_giants_stadium)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)	10166(concept_stadiumoreventvenue_giants_stadium)->395(concept:leaguestadiums_inv)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)	39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)

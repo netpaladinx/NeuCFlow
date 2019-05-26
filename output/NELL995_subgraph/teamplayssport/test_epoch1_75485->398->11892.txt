@@ -1,0 +1,13 @@
+nodes:
+75485(concept_sportsteam_evangel_university):1.000000
+75485(concept_sportsteam_evangel_university):1.000000
+75485(concept_sportsteam_evangel_university):1.000000
+75485(concept_sportsteam_evangel_university):1.000000
+75485(concept_sportsteam_evangel_university):1.000000
+75485(concept_sportsteam_evangel_university):1.000000
+edges:
+
+
+
+
+

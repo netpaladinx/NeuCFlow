@@ -1,0 +1,4 @@
+concept_ceo_herb_kelleher	concept:personleadsorganization	concept_geopoliticallocation_southwest
+
+concept_ceo_herb_kelleher	concept:proxyfor	concept_retailstore_southwest_airlines
+concept_retailstore_southwest_airlines	concept:proxyfor_inv	concept_ceo_herb_kelleher

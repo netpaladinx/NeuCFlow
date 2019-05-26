@@ -1,0 +1,13 @@
+nodes:
+75468(concept_journalist_jacob_weisberg):1.000000
+75468(concept_journalist_jacob_weisberg):1.000000
+75468(concept_journalist_jacob_weisberg):1.000000
+75468(concept_journalist_jacob_weisberg):1.000000
+75468(concept_journalist_jacob_weisberg):1.000000
+75468(concept_journalist_jacob_weisberg):1.000000
+edges:
+
+
+
+
+

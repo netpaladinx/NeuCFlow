@@ -1,0 +1,13 @@
+nodes:
+75418(concept_athlete_justin_thomas):1.000000
+75418(concept_athlete_justin_thomas):1.000000
+75418(concept_athlete_justin_thomas):1.000000
+75418(concept_athlete_justin_thomas):1.000000
+75418(concept_athlete_justin_thomas):1.000000
+75418(concept_athlete_justin_thomas):1.000000
+edges:
+
+
+
+
+

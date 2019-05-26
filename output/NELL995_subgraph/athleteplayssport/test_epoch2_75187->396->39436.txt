@@ -1,0 +1,13 @@
+nodes:
+75187(concept_athlete_pedro_astacio):1.000000
+75187(concept_athlete_pedro_astacio):1.000000
+75187(concept_athlete_pedro_astacio):1.000000
+75187(concept_athlete_pedro_astacio):1.000000
+75187(concept_athlete_pedro_astacio):1.000000
+75187(concept_athlete_pedro_astacio):1.000000
+edges:
+
+
+
+
+

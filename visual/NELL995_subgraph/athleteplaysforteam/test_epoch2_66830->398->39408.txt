@@ -1,0 +1,6 @@
+concept_athlete_dean_williams	concept:athleteplaysforteam	concept_sportsteam_carolina
+
+concept_athlete_dean_williams	concept:latitudelongitude	55.3582300000000,-97.4829800000000
+55.3582300000000,-97.4829800000000	concept:latitudelongitude_inv	concept_mlauthor_dean_williams
+55.3582300000000,-97.4829800000000	concept:latitudelongitude_inv	concept_athlete_dean_williams
+concept_mlauthor_dean_williams	concept:latitudelongitude	55.3582300000000,-97.4829800000000

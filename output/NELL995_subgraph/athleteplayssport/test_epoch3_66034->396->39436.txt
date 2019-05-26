@@ -1,0 +1,13 @@
+nodes:
+66034(concept_athlete_chris_resop):1.000000
+12766(concept_sportsteamposition_center):1.000000
+60490(concept_athlete_ivan_rodriguez):1.000000	64678(concept_athlete_jamey_carroll):0.000000	65640(concept_athlete_royce_ring):0.000000	60568(concept_athlete_bill_mazeroski):0.000000
+20656(concept_stadiumoreventvenue_yankee_stadium):1.000000	39436(concept_sport_baseball):0.000000
+39436(concept_sport_baseball):1.000000	21281(concept_sportsgame_n1956_world_series):0.000000
+20656(concept_stadiumoreventvenue_yankee_stadium):1.000000	39436(concept_sport_baseball):0.000000
+edges:
+66034(concept_athlete_chris_resop)->222(concept:athleteflyouttosportsteamposition)->12766(concept_sportsteamposition_center)
+12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60490(concept_athlete_ivan_rodriguez)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60568(concept_athlete_bill_mazeroski)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->64678(concept_athlete_jamey_carroll)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->65640(concept_athlete_royce_ring)
+60490(concept_athlete_ivan_rodriguez)->182(concept:athletehomestadium)->20656(concept_stadiumoreventvenue_yankee_stadium)	60490(concept_athlete_ivan_rodriguez)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	60568(concept_athlete_bill_mazeroski)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	64678(concept_athlete_jamey_carroll)->396(concept:athleteplayssport)->39436(concept_sport_baseball)	65640(concept_athlete_royce_ring)->396(concept:athleteplayssport)->39436(concept_sport_baseball)
+20656(concept_stadiumoreventvenue_yankee_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->21281(concept_sportsgame_n1956_world_series)
+21281(concept_sportsgame_n1956_world_series)->320(concept:sportsgamesport)->39436(concept_sport_baseball)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->20656(concept_stadiumoreventvenue_yankee_stadium)

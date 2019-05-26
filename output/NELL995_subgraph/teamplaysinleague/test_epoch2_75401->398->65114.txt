@@ -1,0 +1,13 @@
+nodes:
+75401(concept_sportsteam_sacramento_st__hornets):1.000000
+75401(concept_sportsteam_sacramento_st__hornets):1.000000
+75401(concept_sportsteam_sacramento_st__hornets):1.000000
+75401(concept_sportsteam_sacramento_st__hornets):1.000000
+75401(concept_sportsteam_sacramento_st__hornets):1.000000
+75401(concept_sportsteam_sacramento_st__hornets):1.000000
+edges:
+
+
+
+
+

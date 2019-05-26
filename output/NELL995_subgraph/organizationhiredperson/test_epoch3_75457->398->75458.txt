@@ -1,0 +1,13 @@
+nodes:
+75457(concept_biotechcompany_affiliated_managers_group):1.000000
+75457(concept_biotechcompany_affiliated_managers_group):1.000000
+75457(concept_biotechcompany_affiliated_managers_group):1.000000
+75457(concept_biotechcompany_affiliated_managers_group):1.000000
+75457(concept_biotechcompany_affiliated_managers_group):1.000000
+75457(concept_biotechcompany_affiliated_managers_group):1.000000
+edges:
+
+
+
+
+

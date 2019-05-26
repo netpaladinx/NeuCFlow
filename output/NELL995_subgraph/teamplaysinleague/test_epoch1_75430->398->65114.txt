@@ -1,0 +1,13 @@
+nodes:
+75430(concept_sportsteam_birmingham_southern_panthers):1.000000
+75430(concept_sportsteam_birmingham_southern_panthers):1.000000
+75430(concept_sportsteam_birmingham_southern_panthers):1.000000
+75430(concept_sportsteam_birmingham_southern_panthers):1.000000
+75430(concept_sportsteam_birmingham_southern_panthers):1.000000
+75430(concept_sportsteam_birmingham_southern_panthers):1.000000
+edges:
+
+
+
+
+

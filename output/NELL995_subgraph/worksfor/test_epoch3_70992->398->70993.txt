@@ -1,0 +1,13 @@
+nodes:
+70992(concept_person_nur_misuari):1.000000
+70993(concept_nongovorganization_mnlf):1.000000	70992(concept_person_nur_misuari):0.000000
+70992(concept_person_nur_misuari):1.000000	70993(concept_nongovorganization_mnlf):0.000000
+70993(concept_nongovorganization_mnlf):1.000000	70992(concept_person_nur_misuari):0.000000
+70992(concept_person_nur_misuari):1.000000	70993(concept_nongovorganization_mnlf):0.000000
+70993(concept_nongovorganization_mnlf):1.000000	70992(concept_person_nur_misuari):0.000000
+edges:
+70992(concept_person_nur_misuari)->26(concept:personleadsorganization)->70993(concept_nongovorganization_mnlf)
+70992(concept_person_nur_misuari)->26(concept:personleadsorganization)->70993(concept_nongovorganization_mnlf)	70993(concept_nongovorganization_mnlf)->27(concept:personleadsorganization_inv)->70992(concept_person_nur_misuari)
+70992(concept_person_nur_misuari)->26(concept:personleadsorganization)->70993(concept_nongovorganization_mnlf)	70993(concept_nongovorganization_mnlf)->27(concept:personleadsorganization_inv)->70992(concept_person_nur_misuari)
+70992(concept_person_nur_misuari)->26(concept:personleadsorganization)->70993(concept_nongovorganization_mnlf)	70993(concept_nongovorganization_mnlf)->27(concept:personleadsorganization_inv)->70992(concept_person_nur_misuari)
+70992(concept_person_nur_misuari)->26(concept:personleadsorganization)->70993(concept_nongovorganization_mnlf)	70993(concept_nongovorganization_mnlf)->27(concept:personleadsorganization_inv)->70992(concept_person_nur_misuari)

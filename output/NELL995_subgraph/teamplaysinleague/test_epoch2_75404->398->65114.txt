@@ -1,0 +1,13 @@
+nodes:
+75404(concept_sportsteam_ohio_st_buckeyes):1.000000
+75404(concept_sportsteam_ohio_st_buckeyes):1.000000
+75404(concept_sportsteam_ohio_st_buckeyes):1.000000
+75404(concept_sportsteam_ohio_st_buckeyes):1.000000
+75404(concept_sportsteam_ohio_st_buckeyes):1.000000
+75404(concept_sportsteam_ohio_st_buckeyes):1.000000
+edges:
+
+
+
+
+

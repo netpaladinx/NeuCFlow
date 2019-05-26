@@ -1,0 +1,13 @@
+nodes:
+75420(concept_nongovorganization_french_army):1.000000
+75420(concept_nongovorganization_french_army):1.000000
+75420(concept_nongovorganization_french_army):1.000000
+75420(concept_nongovorganization_french_army):1.000000
+75420(concept_nongovorganization_french_army):1.000000
+75420(concept_nongovorganization_french_army):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+27631(concept_politician_michael_bear):1.000000
+27630(concept_attraction_city_of_london):0.999985	27631(concept_politician_michael_bear):0.000015
+27631(concept_politician_michael_bear):0.999983	27630(concept_attraction_city_of_london):0.000017
+27630(concept_attraction_city_of_london):0.999980	27631(concept_politician_michael_bear):0.000020
+27631(concept_politician_michael_bear):0.999980	27630(concept_attraction_city_of_london):0.000020
+27630(concept_attraction_city_of_london):0.999979	27631(concept_politician_michael_bear):0.000021
+edges:
+27631(concept_politician_michael_bear)->13(concept:mutualproxyfor_inv)->27630(concept_attraction_city_of_london)
+27630(concept_attraction_city_of_london)->12(concept:mutualproxyfor)->27631(concept_politician_michael_bear)	27631(concept_politician_michael_bear)->13(concept:mutualproxyfor_inv)->27630(concept_attraction_city_of_london)
+27630(concept_attraction_city_of_london)->12(concept:mutualproxyfor)->27631(concept_politician_michael_bear)	27631(concept_politician_michael_bear)->13(concept:mutualproxyfor_inv)->27630(concept_attraction_city_of_london)
+27630(concept_attraction_city_of_london)->12(concept:mutualproxyfor)->27631(concept_politician_michael_bear)	27631(concept_politician_michael_bear)->13(concept:mutualproxyfor_inv)->27630(concept_attraction_city_of_london)
+27630(concept_attraction_city_of_london)->12(concept:mutualproxyfor)->27631(concept_politician_michael_bear)	27631(concept_politician_michael_bear)->13(concept:mutualproxyfor_inv)->27630(concept_attraction_city_of_london)

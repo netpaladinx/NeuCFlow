@@ -1,0 +1,13 @@
+nodes:
+70928(concept_person_xiao_haopeng):1.000000
+70929(concept_organization_chinese_shooting_squad):1.000000	70928(concept_person_xiao_haopeng):0.000000
+70928(concept_person_xiao_haopeng):1.000000	70929(concept_organization_chinese_shooting_squad):0.000000
+70929(concept_organization_chinese_shooting_squad):1.000000	70928(concept_person_xiao_haopeng):0.000000
+70928(concept_person_xiao_haopeng):1.000000	70929(concept_organization_chinese_shooting_squad):0.000000
+70929(concept_organization_chinese_shooting_squad):1.000000	70928(concept_person_xiao_haopeng):0.000000
+edges:
+70928(concept_person_xiao_haopeng)->5(concept:subpartof_inv)->70929(concept_organization_chinese_shooting_squad)	70928(concept_person_xiao_haopeng)->26(concept:personleadsorganization)->70929(concept_organization_chinese_shooting_squad)
+70928(concept_person_xiao_haopeng)->5(concept:subpartof_inv)->70929(concept_organization_chinese_shooting_squad)	70928(concept_person_xiao_haopeng)->26(concept:personleadsorganization)->70929(concept_organization_chinese_shooting_squad)	70929(concept_organization_chinese_shooting_squad)->4(concept:subpartof)->70928(concept_person_xiao_haopeng)	70929(concept_organization_chinese_shooting_squad)->27(concept:personleadsorganization_inv)->70928(concept_person_xiao_haopeng)
+70928(concept_person_xiao_haopeng)->5(concept:subpartof_inv)->70929(concept_organization_chinese_shooting_squad)	70928(concept_person_xiao_haopeng)->26(concept:personleadsorganization)->70929(concept_organization_chinese_shooting_squad)	70929(concept_organization_chinese_shooting_squad)->4(concept:subpartof)->70928(concept_person_xiao_haopeng)	70929(concept_organization_chinese_shooting_squad)->27(concept:personleadsorganization_inv)->70928(concept_person_xiao_haopeng)
+70928(concept_person_xiao_haopeng)->5(concept:subpartof_inv)->70929(concept_organization_chinese_shooting_squad)	70928(concept_person_xiao_haopeng)->26(concept:personleadsorganization)->70929(concept_organization_chinese_shooting_squad)	70929(concept_organization_chinese_shooting_squad)->4(concept:subpartof)->70928(concept_person_xiao_haopeng)	70929(concept_organization_chinese_shooting_squad)->27(concept:personleadsorganization_inv)->70928(concept_person_xiao_haopeng)
+70928(concept_person_xiao_haopeng)->5(concept:subpartof_inv)->70929(concept_organization_chinese_shooting_squad)	70928(concept_person_xiao_haopeng)->26(concept:personleadsorganization)->70929(concept_organization_chinese_shooting_squad)	70929(concept_organization_chinese_shooting_squad)->4(concept:subpartof)->70928(concept_person_xiao_haopeng)	70929(concept_organization_chinese_shooting_squad)->27(concept:personleadsorganization_inv)->70928(concept_person_xiao_haopeng)

@@ -1,0 +1,13 @@
+nodes:
+75454(concept_coach_minnesota_twins):1.000000
+75454(concept_coach_minnesota_twins):1.000000
+75454(concept_coach_minnesota_twins):1.000000
+75454(concept_coach_minnesota_twins):1.000000
+75454(concept_coach_minnesota_twins):1.000000
+75454(concept_coach_minnesota_twins):1.000000
+edges:
+
+
+
+
+

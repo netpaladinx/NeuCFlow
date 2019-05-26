@@ -1,0 +1,13 @@
+nodes:
+70549(concept_journalist_bob_hunter):1.000000
+70550(concept_website_columbus_dispatch):1.000000	70549(concept_journalist_bob_hunter):0.000000
+70549(concept_journalist_bob_hunter):1.000000	70550(concept_website_columbus_dispatch):0.000000
+70550(concept_website_columbus_dispatch):1.000000	70549(concept_journalist_bob_hunter):0.000000
+70549(concept_journalist_bob_hunter):1.000000	70550(concept_website_columbus_dispatch):0.000000
+70550(concept_website_columbus_dispatch):1.000000	70549(concept_journalist_bob_hunter):0.000000
+edges:
+70549(concept_journalist_bob_hunter)->216(concept:journalistwritesforpublication)->70550(concept_website_columbus_dispatch)
+70549(concept_journalist_bob_hunter)->216(concept:journalistwritesforpublication)->70550(concept_website_columbus_dispatch)	70550(concept_website_columbus_dispatch)->217(concept:journalistwritesforpublication_inv)->70549(concept_journalist_bob_hunter)
+70549(concept_journalist_bob_hunter)->216(concept:journalistwritesforpublication)->70550(concept_website_columbus_dispatch)	70550(concept_website_columbus_dispatch)->217(concept:journalistwritesforpublication_inv)->70549(concept_journalist_bob_hunter)
+70549(concept_journalist_bob_hunter)->216(concept:journalistwritesforpublication)->70550(concept_website_columbus_dispatch)	70550(concept_website_columbus_dispatch)->217(concept:journalistwritesforpublication_inv)->70549(concept_journalist_bob_hunter)
+70549(concept_journalist_bob_hunter)->216(concept:journalistwritesforpublication)->70550(concept_website_columbus_dispatch)	70550(concept_website_columbus_dispatch)->217(concept:journalistwritesforpublication_inv)->70549(concept_journalist_bob_hunter)

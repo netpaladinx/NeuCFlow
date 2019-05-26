@@ -1,0 +1,13 @@
+nodes:
+69331(concept_journalist_ben_smith):1.000000
+2304(concept_newspaper_politico):0.999995	69331(concept_journalist_ben_smith):0.000005
+69331(concept_journalist_ben_smith):0.780900	2305(concept_publication_ben_smith):0.219095	2304(concept_newspaper_politico):0.000005
+2304(concept_newspaper_politico):0.999992	69331(concept_journalist_ben_smith):0.000007	2305(concept_publication_ben_smith):0.000001
+69331(concept_journalist_ben_smith):0.994839	2305(concept_publication_ben_smith):0.005154	2304(concept_newspaper_politico):0.000008
+2304(concept_newspaper_politico):0.999971	69331(concept_journalist_ben_smith):0.000029	2305(concept_publication_ben_smith):0.000000
+edges:
+69331(concept_journalist_ben_smith)->216(concept:journalistwritesforpublication)->2304(concept_newspaper_politico)
+2304(concept_newspaper_politico)->24(concept:agentcollaborateswithagent)->2305(concept_publication_ben_smith)	2304(concept_newspaper_politico)->217(concept:journalistwritesforpublication_inv)->69331(concept_journalist_ben_smith)	69331(concept_journalist_ben_smith)->216(concept:journalistwritesforpublication)->2304(concept_newspaper_politico)
+2304(concept_newspaper_politico)->24(concept:agentcollaborateswithagent)->2305(concept_publication_ben_smith)	2304(concept_newspaper_politico)->217(concept:journalistwritesforpublication_inv)->69331(concept_journalist_ben_smith)	2305(concept_publication_ben_smith)->25(concept:agentcollaborateswithagent_inv)->2304(concept_newspaper_politico)	69331(concept_journalist_ben_smith)->216(concept:journalistwritesforpublication)->2304(concept_newspaper_politico)
+2304(concept_newspaper_politico)->24(concept:agentcollaborateswithagent)->2305(concept_publication_ben_smith)	2304(concept_newspaper_politico)->217(concept:journalistwritesforpublication_inv)->69331(concept_journalist_ben_smith)	2305(concept_publication_ben_smith)->25(concept:agentcollaborateswithagent_inv)->2304(concept_newspaper_politico)	69331(concept_journalist_ben_smith)->216(concept:journalistwritesforpublication)->2304(concept_newspaper_politico)
+2304(concept_newspaper_politico)->24(concept:agentcollaborateswithagent)->2305(concept_publication_ben_smith)	2304(concept_newspaper_politico)->217(concept:journalistwritesforpublication_inv)->69331(concept_journalist_ben_smith)	2305(concept_publication_ben_smith)->25(concept:agentcollaborateswithagent_inv)->2304(concept_newspaper_politico)	69331(concept_journalist_ben_smith)->216(concept:journalistwritesforpublication)->2304(concept_newspaper_politico)

@@ -1,0 +1,13 @@
+nodes:
+75203(concept_athlete_chris_booker):1.000000
+75203(concept_athlete_chris_booker):1.000000
+75203(concept_athlete_chris_booker):1.000000
+75203(concept_athlete_chris_booker):1.000000
+75203(concept_athlete_chris_booker):1.000000
+75203(concept_athlete_chris_booker):1.000000
+edges:
+
+
+
+
+

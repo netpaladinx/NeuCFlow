@@ -1,0 +1,13 @@
+nodes:
+75380(concept_athlete_chin_hui_tsao):1.000000
+75380(concept_athlete_chin_hui_tsao):1.000000
+75380(concept_athlete_chin_hui_tsao):1.000000
+75380(concept_athlete_chin_hui_tsao):1.000000
+75380(concept_athlete_chin_hui_tsao):1.000000
+75380(concept_athlete_chin_hui_tsao):1.000000
+edges:
+
+
+
+
+

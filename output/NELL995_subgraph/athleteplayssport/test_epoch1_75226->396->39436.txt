@@ -1,0 +1,13 @@
+nodes:
+75226(concept_athlete_narciso_elvira):1.000000
+75226(concept_athlete_narciso_elvira):1.000000
+75226(concept_athlete_narciso_elvira):1.000000
+75226(concept_athlete_narciso_elvira):1.000000
+75226(concept_athlete_narciso_elvira):1.000000
+75226(concept_athlete_narciso_elvira):1.000000
+edges:
+
+
+
+
+

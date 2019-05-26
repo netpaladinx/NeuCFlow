@@ -1,0 +1,13 @@
+nodes:
+75484(concept_sportsteam_union_college):1.000000
+75484(concept_sportsteam_union_college):1.000000
+75484(concept_sportsteam_union_college):1.000000
+75484(concept_sportsteam_union_college):1.000000
+75484(concept_sportsteam_union_college):1.000000
+75484(concept_sportsteam_union_college):1.000000
+edges:
+
+
+
+
+

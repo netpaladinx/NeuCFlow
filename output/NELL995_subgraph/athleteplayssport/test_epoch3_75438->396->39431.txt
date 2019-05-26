@@ -1,0 +1,13 @@
+nodes:
+75438(concept_athlete_stanley_thompson):1.000000
+75438(concept_athlete_stanley_thompson):1.000000
+75438(concept_athlete_stanley_thompson):1.000000
+75438(concept_athlete_stanley_thompson):1.000000
+75438(concept_athlete_stanley_thompson):1.000000
+75438(concept_athlete_stanley_thompson):1.000000
+edges:
+
+
+
+
+

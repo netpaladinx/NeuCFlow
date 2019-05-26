@@ -1,0 +1,13 @@
+nodes:
+75436(concept_athlete_terry_glenn):1.000000
+75436(concept_athlete_terry_glenn):1.000000
+75436(concept_athlete_terry_glenn):1.000000
+75436(concept_athlete_terry_glenn):1.000000
+75436(concept_athlete_terry_glenn):1.000000
+75436(concept_athlete_terry_glenn):1.000000
+edges:
+
+
+
+
+

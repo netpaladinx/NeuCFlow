@@ -1,0 +1,13 @@
+nodes:
+55877(concept_journalist_luis_e__rangel):1.000000
+55876(concept_newspaper_el_nuevo_herald):0.999998	55877(concept_journalist_luis_e__rangel):0.000002
+55877(concept_journalist_luis_e__rangel):0.999997	55876(concept_newspaper_el_nuevo_herald):0.000003
+55876(concept_newspaper_el_nuevo_herald):0.999997	55877(concept_journalist_luis_e__rangel):0.000003
+55877(concept_journalist_luis_e__rangel):0.999997	55876(concept_newspaper_el_nuevo_herald):0.000003
+55876(concept_newspaper_el_nuevo_herald):0.999997	55877(concept_journalist_luis_e__rangel):0.000003
+edges:
+55877(concept_journalist_luis_e__rangel)->25(concept:agentcollaborateswithagent_inv)->55876(concept_newspaper_el_nuevo_herald)
+55876(concept_newspaper_el_nuevo_herald)->24(concept:agentcollaborateswithagent)->55877(concept_journalist_luis_e__rangel)	55877(concept_journalist_luis_e__rangel)->25(concept:agentcollaborateswithagent_inv)->55876(concept_newspaper_el_nuevo_herald)
+55876(concept_newspaper_el_nuevo_herald)->24(concept:agentcollaborateswithagent)->55877(concept_journalist_luis_e__rangel)	55877(concept_journalist_luis_e__rangel)->25(concept:agentcollaborateswithagent_inv)->55876(concept_newspaper_el_nuevo_herald)
+55876(concept_newspaper_el_nuevo_herald)->24(concept:agentcollaborateswithagent)->55877(concept_journalist_luis_e__rangel)	55877(concept_journalist_luis_e__rangel)->25(concept:agentcollaborateswithagent_inv)->55876(concept_newspaper_el_nuevo_herald)
+55876(concept_newspaper_el_nuevo_herald)->24(concept:agentcollaborateswithagent)->55877(concept_journalist_luis_e__rangel)	55877(concept_journalist_luis_e__rangel)->25(concept:agentcollaborateswithagent_inv)->55876(concept_newspaper_el_nuevo_herald)

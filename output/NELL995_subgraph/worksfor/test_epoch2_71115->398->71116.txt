@@ -1,0 +1,13 @@
+nodes:
+71115(concept_ceo_gordon_nixon):1.000000
+71116(concept_biotechcompany_royal_bank_of_canada):1.000000	71115(concept_ceo_gordon_nixon):0.000000
+71115(concept_ceo_gordon_nixon):1.000000	71116(concept_biotechcompany_royal_bank_of_canada):0.000000
+71116(concept_biotechcompany_royal_bank_of_canada):1.000000	71115(concept_ceo_gordon_nixon):0.000000
+71115(concept_ceo_gordon_nixon):1.000000	71116(concept_biotechcompany_royal_bank_of_canada):0.000000
+71116(concept_biotechcompany_royal_bank_of_canada):1.000000	71115(concept_ceo_gordon_nixon):0.000000
+edges:
+71115(concept_ceo_gordon_nixon)->26(concept:personleadsorganization)->71116(concept_biotechcompany_royal_bank_of_canada)
+71115(concept_ceo_gordon_nixon)->26(concept:personleadsorganization)->71116(concept_biotechcompany_royal_bank_of_canada)	71116(concept_biotechcompany_royal_bank_of_canada)->27(concept:personleadsorganization_inv)->71115(concept_ceo_gordon_nixon)
+71115(concept_ceo_gordon_nixon)->26(concept:personleadsorganization)->71116(concept_biotechcompany_royal_bank_of_canada)	71116(concept_biotechcompany_royal_bank_of_canada)->27(concept:personleadsorganization_inv)->71115(concept_ceo_gordon_nixon)
+71115(concept_ceo_gordon_nixon)->26(concept:personleadsorganization)->71116(concept_biotechcompany_royal_bank_of_canada)	71116(concept_biotechcompany_royal_bank_of_canada)->27(concept:personleadsorganization_inv)->71115(concept_ceo_gordon_nixon)
+71115(concept_ceo_gordon_nixon)->26(concept:personleadsorganization)->71116(concept_biotechcompany_royal_bank_of_canada)	71116(concept_biotechcompany_royal_bank_of_canada)->27(concept:personleadsorganization_inv)->71115(concept_ceo_gordon_nixon)

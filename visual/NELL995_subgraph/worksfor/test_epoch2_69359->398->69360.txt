@@ -1,0 +1,4 @@
+concept_professor_david_yu	concept:worksfor	concept_company_betfair
+
+concept_professor_david_yu	concept:personleadsorganization	concept_company_betfair
+concept_company_betfair	concept:personleadsorganization_inv	concept_professor_david_yu

@@ -1,0 +1,13 @@
+nodes:
+71353(concept_ceo_donato_a__montanaro):1.000000
+71354(concept_bank_tradeking):0.999836	71353(concept_ceo_donato_a__montanaro):0.000164
+71353(concept_ceo_donato_a__montanaro):0.999714	71354(concept_bank_tradeking):0.000286
+71354(concept_bank_tradeking):0.999639	71353(concept_ceo_donato_a__montanaro):0.000361
+71353(concept_ceo_donato_a__montanaro):0.999123	71354(concept_bank_tradeking):0.000877
+71354(concept_bank_tradeking):0.999160	71353(concept_ceo_donato_a__montanaro):0.000840
+edges:
+71353(concept_ceo_donato_a__montanaro)->0(concept:worksfor)->71354(concept_bank_tradeking)
+71353(concept_ceo_donato_a__montanaro)->0(concept:worksfor)->71354(concept_bank_tradeking)	71354(concept_bank_tradeking)->1(concept:worksfor_inv)->71353(concept_ceo_donato_a__montanaro)
+71353(concept_ceo_donato_a__montanaro)->0(concept:worksfor)->71354(concept_bank_tradeking)	71354(concept_bank_tradeking)->1(concept:worksfor_inv)->71353(concept_ceo_donato_a__montanaro)
+71353(concept_ceo_donato_a__montanaro)->0(concept:worksfor)->71354(concept_bank_tradeking)	71354(concept_bank_tradeking)->1(concept:worksfor_inv)->71353(concept_ceo_donato_a__montanaro)
+71353(concept_ceo_donato_a__montanaro)->0(concept:worksfor)->71354(concept_bank_tradeking)	71354(concept_bank_tradeking)->1(concept:worksfor_inv)->71353(concept_ceo_donato_a__montanaro)

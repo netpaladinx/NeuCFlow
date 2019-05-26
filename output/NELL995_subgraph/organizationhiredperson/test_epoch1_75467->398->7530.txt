@@ -1,0 +1,13 @@
+nodes:
+75467(concept_politicalparty_nationalist_congress_party):1.000000
+75467(concept_politicalparty_nationalist_congress_party):1.000000
+75467(concept_politicalparty_nationalist_congress_party):1.000000
+75467(concept_politicalparty_nationalist_congress_party):1.000000
+75467(concept_politicalparty_nationalist_congress_party):1.000000
+75467(concept_politicalparty_nationalist_congress_party):1.000000
+edges:
+
+
+
+
+

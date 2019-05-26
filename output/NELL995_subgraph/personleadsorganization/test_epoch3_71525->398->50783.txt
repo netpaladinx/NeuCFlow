@@ -1,0 +1,13 @@
+nodes:
+71525(concept_ceo_herb_kelleher):1.000000
+71526(concept_retailstore_southwest_airlines):0.999999	71525(concept_ceo_herb_kelleher):0.000002
+71525(concept_ceo_herb_kelleher):0.999996	71526(concept_retailstore_southwest_airlines):0.000004
+71526(concept_retailstore_southwest_airlines):0.999996	71525(concept_ceo_herb_kelleher):0.000004
+71525(concept_ceo_herb_kelleher):0.999994	71526(concept_retailstore_southwest_airlines):0.000006
+71526(concept_retailstore_southwest_airlines):0.999994	71525(concept_ceo_herb_kelleher):0.000006
+edges:
+71525(concept_ceo_herb_kelleher)->2(concept:proxyfor)->71526(concept_retailstore_southwest_airlines)
+71525(concept_ceo_herb_kelleher)->2(concept:proxyfor)->71526(concept_retailstore_southwest_airlines)	71526(concept_retailstore_southwest_airlines)->3(concept:proxyfor_inv)->71525(concept_ceo_herb_kelleher)
+71525(concept_ceo_herb_kelleher)->2(concept:proxyfor)->71526(concept_retailstore_southwest_airlines)	71526(concept_retailstore_southwest_airlines)->3(concept:proxyfor_inv)->71525(concept_ceo_herb_kelleher)
+71525(concept_ceo_herb_kelleher)->2(concept:proxyfor)->71526(concept_retailstore_southwest_airlines)	71526(concept_retailstore_southwest_airlines)->3(concept:proxyfor_inv)->71525(concept_ceo_herb_kelleher)
+71525(concept_ceo_herb_kelleher)->2(concept:proxyfor)->71526(concept_retailstore_southwest_airlines)	71526(concept_retailstore_southwest_airlines)->3(concept:proxyfor_inv)->71525(concept_ceo_herb_kelleher)

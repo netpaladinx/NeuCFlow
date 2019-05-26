@@ -1,0 +1,4 @@
+concept_ceo_donato_a__montanaro	concept:personleadsorganization	concept_bank_tradeking
+
+concept_ceo_donato_a__montanaro	concept:worksfor	concept_bank_tradeking
+concept_bank_tradeking	concept:worksfor_inv	concept_ceo_donato_a__montanaro

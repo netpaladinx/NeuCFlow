@@ -1,0 +1,13 @@
+nodes:
+75213(concept_athlete_alfredo_figaro):1.000000
+75213(concept_athlete_alfredo_figaro):1.000000
+75213(concept_athlete_alfredo_figaro):1.000000
+75213(concept_athlete_alfredo_figaro):1.000000
+75213(concept_athlete_alfredo_figaro):1.000000
+75213(concept_athlete_alfredo_figaro):1.000000
+edges:
+
+
+
+
+

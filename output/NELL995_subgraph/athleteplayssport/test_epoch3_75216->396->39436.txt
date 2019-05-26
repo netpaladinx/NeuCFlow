@@ -1,0 +1,13 @@
+nodes:
+75216(concept_athlete_jeff_ridgway):1.000000
+75216(concept_athlete_jeff_ridgway):1.000000
+75216(concept_athlete_jeff_ridgway):1.000000
+75216(concept_athlete_jeff_ridgway):1.000000
+75216(concept_athlete_jeff_ridgway):1.000000
+75216(concept_athlete_jeff_ridgway):1.000000
+edges:
+
+
+
+
+

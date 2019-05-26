@@ -1,0 +1,4 @@
+concept_athlete_dale_jarrett	concept:agentbelongstoorganization	concept_sportsleague_nascar
+
+concept_athlete_dale_jarrett	concept:athleteplayssport	concept_hobby_car_racing
+concept_hobby_car_racing	concept:athleteplayssport_inv	concept_athlete_dale_jarrett

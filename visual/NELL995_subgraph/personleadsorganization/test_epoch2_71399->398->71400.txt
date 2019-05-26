@@ -1,0 +1,4 @@
+concept_ceo_rodger_o__riney	concept:personleadsorganization	concept_company_scottrade
+
+concept_ceo_rodger_o__riney	concept:worksfor	concept_company_scottrade
+concept_company_scottrade	concept:worksfor_inv	concept_ceo_rodger_o__riney

@@ -1,0 +1,13 @@
+nodes:
+66320(concept_athlete_david_ross):1.000000
+1047(concept_sportsleague_mlb):1.000000
+8327(concept_sportsteam_chicago_cubs):1.000000	17194(concept_sportsteam_red_sox):0.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000	27070(concept_stadiumoreventvenue_wrigley_field):0.000000	47002(concept_sportsgame_alds):0.000000	35643(concept_stadiumoreventvenue_dolphin_stadium):0.000000
+39436(concept_sport_baseball):1.000000
+edges:
+66320(concept_athlete_david_ross)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->8327(concept_sportsteam_chicago_cubs)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)
+8327(concept_sportsteam_chicago_cubs)->180(concept:teamplayssport)->39436(concept_sport_baseball)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->27070(concept_stadiumoreventvenue_wrigley_field)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35643(concept_stadiumoreventvenue_dolphin_stadium)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->47002(concept_sportsgame_alds)
+25194(concept_awardtrophytournament_world_series)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->39436(concept_sport_baseball)	27070(concept_stadiumoreventvenue_wrigley_field)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	35643(concept_stadiumoreventvenue_dolphin_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	47002(concept_sportsgame_alds)->320(concept:sportsgamesport)->39436(concept_sport_baseball)

@@ -1,0 +1,13 @@
+nodes:
+75409(concept_personaustralia_michael_owen):1.000000
+75409(concept_personaustralia_michael_owen):1.000000
+75409(concept_personaustralia_michael_owen):1.000000
+75409(concept_personaustralia_michael_owen):1.000000
+75409(concept_personaustralia_michael_owen):1.000000
+75409(concept_personaustralia_michael_owen):1.000000
+edges:
+
+
+
+
+

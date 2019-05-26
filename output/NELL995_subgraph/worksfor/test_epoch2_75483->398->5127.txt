@@ -1,0 +1,13 @@
+nodes:
+75483(concept_professor_david_richards):1.000000
+75483(concept_professor_david_richards):1.000000
+75483(concept_professor_david_richards):1.000000
+75483(concept_professor_david_richards):1.000000
+75483(concept_professor_david_richards):1.000000
+75483(concept_professor_david_richards):1.000000
+edges:
+
+
+
+
+

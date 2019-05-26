@@ -1,0 +1,13 @@
+nodes:
+75386(concept_personmexico_robinson_tejeda):1.000000
+75386(concept_personmexico_robinson_tejeda):1.000000
+75386(concept_personmexico_robinson_tejeda):1.000000
+75386(concept_personmexico_robinson_tejeda):1.000000
+75386(concept_personmexico_robinson_tejeda):1.000000
+75386(concept_personmexico_robinson_tejeda):1.000000
+edges:
+
+
+
+
+

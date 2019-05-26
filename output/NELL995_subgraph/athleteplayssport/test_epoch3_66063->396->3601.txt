@@ -1,0 +1,13 @@
+nodes:
+66063(concept_athlete_phil_simms):1.000000
+66063(concept_athlete_phil_simms):1.000000	1414(concept_sportsteam_new_york_giants):0.000000
+10166(concept_stadiumoreventvenue_giants_stadium):1.000000	3601(concept_sport_football):0.000000
+1423(concept_sportsleague_nfl):1.000000	47017(concept_sportsgame_n2001_super_bowl):0.000000
+11168(concept_sportsteam_redskins):1.000000	39482(concept_sportsteam_ravens):0.000000
+3601(concept_sport_football):1.000000
+edges:
+66063(concept_athlete_phil_simms)->156(concept:athleteplaysforteam)->1414(concept_sportsteam_new_york_giants)	66063(concept_athlete_phil_simms)->184(concept:athleteledsportsteam)->1414(concept_sportsteam_new_york_giants)
+1414(concept_sportsteam_new_york_giants)->180(concept:teamplayssport)->3601(concept_sport_football)	1414(concept_sportsteam_new_york_giants)->242(concept:teamhomestadium)->10166(concept_stadiumoreventvenue_giants_stadium)	66063(concept_athlete_phil_simms)->182(concept:athletehomestadium)->10166(concept_stadiumoreventvenue_giants_stadium)
+3601(concept_sport_football)->321(concept:sportsgamesport_inv)->47017(concept_sportsgame_n2001_super_bowl)	10166(concept_stadiumoreventvenue_giants_stadium)->395(concept:leaguestadiums_inv)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)	1423(concept_sportsleague_nfl)->97(concept:subpartoforganization_inv)->39482(concept_sportsteam_ravens)	47017(concept_sportsgame_n2001_super_bowl)->146(concept:sportsgamewinner)->39482(concept_sportsteam_ravens)
+11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)	39482(concept_sportsteam_ravens)->180(concept:teamplayssport)->3601(concept_sport_football)

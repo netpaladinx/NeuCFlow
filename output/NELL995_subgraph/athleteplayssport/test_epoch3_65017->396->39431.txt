@@ -1,0 +1,13 @@
+nodes:
+65017(concept_athlete_phil_mickelson):1.000000
+64907(concept_athlete_tiger_woods):0.999999	65017(concept_athlete_phil_mickelson):0.000001
+39431(concept_sport_golf):0.999999	64907(concept_athlete_tiger_woods):0.000001
+39431(concept_sport_golf):1.000000
+576(concept_country_the_united_kingdom):1.000000	9154(concept_country_uk):0.000000	39431(concept_sport_golf):0.000000
+42518(concept_sport_ski):1.000000	3601(concept_sport_football):0.000000	576(concept_country_the_united_kingdom):0.000000
+edges:
+65017(concept_athlete_phil_mickelson)->382(concept:athletebeatathlete)->64907(concept_athlete_tiger_woods)	65017(concept_athlete_phil_mickelson)->383(concept:athletebeatathlete_inv)->64907(concept_athlete_tiger_woods)
+64907(concept_athlete_tiger_woods)->396(concept:athleteplayssport)->39431(concept_sport_golf)	65017(concept_athlete_phil_mickelson)->382(concept:athletebeatathlete)->64907(concept_athlete_tiger_woods)	65017(concept_athlete_phil_mickelson)->383(concept:athletebeatathlete_inv)->64907(concept_athlete_tiger_woods)
+64907(concept_athlete_tiger_woods)->396(concept:athleteplayssport)->39431(concept_sport_golf)
+39431(concept_sport_golf)->292(concept:sportschoolincountry)->576(concept_country_the_united_kingdom)	39431(concept_sport_golf)->296(concept:sportfansincountry)->576(concept_country_the_united_kingdom)	39431(concept_sport_golf)->292(concept:sportschoolincountry)->9154(concept_country_uk)
+576(concept_country_the_united_kingdom)->297(concept:sportfansincountry_inv)->3601(concept_sport_football)	576(concept_country_the_united_kingdom)->293(concept:sportschoolincountry_inv)->42518(concept_sport_ski)	9154(concept_country_uk)->293(concept:sportschoolincountry_inv)->3601(concept_sport_football)	9154(concept_country_uk)->297(concept:sportfansincountry_inv)->3601(concept_sport_football)	9154(concept_country_uk)->293(concept:sportschoolincountry_inv)->42518(concept_sport_ski)	39431(concept_sport_golf)->292(concept:sportschoolincountry)->576(concept_country_the_united_kingdom)	39431(concept_sport_golf)->296(concept:sportfansincountry)->576(concept_country_the_united_kingdom)

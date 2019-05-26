@@ -1,0 +1,13 @@
+nodes:
+60780(concept_athlete_dale_jarrett):1.000000
+60781(concept_hobby_car_racing):0.999821	60780(concept_athlete_dale_jarrett):0.000179
+60780(concept_athlete_dale_jarrett):0.999767	60781(concept_hobby_car_racing):0.000233
+60781(concept_hobby_car_racing):0.999406	60780(concept_athlete_dale_jarrett):0.000594
+60780(concept_athlete_dale_jarrett):0.999124	60781(concept_hobby_car_racing):0.000876
+60781(concept_hobby_car_racing):0.998469	60780(concept_athlete_dale_jarrett):0.001531
+edges:
+60780(concept_athlete_dale_jarrett)->154(concept:athleteplayssport)->60781(concept_hobby_car_racing)
+60780(concept_athlete_dale_jarrett)->154(concept:athleteplayssport)->60781(concept_hobby_car_racing)	60781(concept_hobby_car_racing)->155(concept:athleteplayssport_inv)->60780(concept_athlete_dale_jarrett)
+60780(concept_athlete_dale_jarrett)->154(concept:athleteplayssport)->60781(concept_hobby_car_racing)	60781(concept_hobby_car_racing)->155(concept:athleteplayssport_inv)->60780(concept_athlete_dale_jarrett)
+60780(concept_athlete_dale_jarrett)->154(concept:athleteplayssport)->60781(concept_hobby_car_racing)	60781(concept_hobby_car_racing)->155(concept:athleteplayssport_inv)->60780(concept_athlete_dale_jarrett)
+60780(concept_athlete_dale_jarrett)->154(concept:athleteplayssport)->60781(concept_hobby_car_racing)	60781(concept_hobby_car_racing)->155(concept:athleteplayssport_inv)->60780(concept_athlete_dale_jarrett)

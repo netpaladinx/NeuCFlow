@@ -1,0 +1,13 @@
+nodes:
+75471(concept_coach_arizona_cardinals):1.000000
+75471(concept_coach_arizona_cardinals):1.000000
+75471(concept_coach_arizona_cardinals):1.000000
+75471(concept_coach_arizona_cardinals):1.000000
+75471(concept_coach_arizona_cardinals):1.000000
+75471(concept_coach_arizona_cardinals):1.000000
+edges:
+
+
+
+
+

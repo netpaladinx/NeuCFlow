@@ -1,0 +1,13 @@
+nodes:
+74187(concept_athlete_john_lucas):1.000000
+3085(concept_sportsleague_nba):1.000000	74187(concept_athlete_john_lucas):0.000000
+3085(concept_sportsleague_nba):1.000000
+3085(concept_sportsleague_nba):1.000000
+3085(concept_sportsleague_nba):1.000000
+3085(concept_sportsleague_nba):1.000000
+edges:
+74187(concept_athlete_john_lucas)->33(concept:organizationhiredperson_inv)->3085(concept_sportsleague_nba)
+3085(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3085(concept_sportsleague_nba)	3085(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3085(concept_sportsleague_nba)	74187(concept_athlete_john_lucas)->33(concept:organizationhiredperson_inv)->3085(concept_sportsleague_nba)
+3085(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3085(concept_sportsleague_nba)	3085(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3085(concept_sportsleague_nba)
+3085(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3085(concept_sportsleague_nba)	3085(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3085(concept_sportsleague_nba)
+3085(concept_sportsleague_nba)->4(concept:agentcompeteswithagent)->3085(concept_sportsleague_nba)	3085(concept_sportsleague_nba)->5(concept:agentcompeteswithagent_inv)->3085(concept_sportsleague_nba)

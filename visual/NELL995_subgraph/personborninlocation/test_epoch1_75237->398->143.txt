@@ -1,0 +1,8 @@
+concept_person_joey002	concept:personborninlocation	concept_city_york
+
+concept_person_joey002	concept:personbornincity	concept_city_york
+concept_person_joey002	concept:persondiedatage	2
+concept_city_york	concept:personbornincity_inv	concept_person_joey002
+2	concept:persondiedatage_inv	concept_male_alex
+2	concept:persondiedatage_inv	concept_person_joey002
+concept_male_alex	concept:persondiedatage	2

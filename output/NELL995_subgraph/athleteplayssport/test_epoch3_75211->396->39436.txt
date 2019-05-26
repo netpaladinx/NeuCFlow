@@ -1,0 +1,13 @@
+nodes:
+75211(concept_athlete_wayne_franklin):1.000000
+75211(concept_athlete_wayne_franklin):1.000000
+75211(concept_athlete_wayne_franklin):1.000000
+75211(concept_athlete_wayne_franklin):1.000000
+75211(concept_athlete_wayne_franklin):1.000000
+75211(concept_athlete_wayne_franklin):1.000000
+edges:
+
+
+
+
+

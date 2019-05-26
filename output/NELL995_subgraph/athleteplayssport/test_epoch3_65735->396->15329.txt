@@ -1,0 +1,13 @@
+nodes:
+65735(concept_coach_brandon_dubinsky):1.000000
+10166(concept_stadiumoreventvenue_giants_stadium):1.000000
+1423(concept_sportsleague_nfl):1.000000
+11168(concept_sportsteam_redskins):1.000000
+3601(concept_sport_football):1.000000
+1688(concept_awardtrophytournament_super_bowl):1.000000	46924(concept_sportsgame_n2006_sugar_bowl):0.000000
+edges:
+65735(concept_coach_brandon_dubinsky)->182(concept:athletehomestadium)->10166(concept_stadiumoreventvenue_giants_stadium)
+10166(concept_stadiumoreventvenue_giants_stadium)->395(concept:leaguestadiums_inv)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)
+11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)
+3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->1688(concept_awardtrophytournament_super_bowl)	3601(concept_sport_football)->321(concept:sportsgamesport_inv)->46924(concept_sportsgame_n2006_sugar_bowl)

@@ -1,0 +1,13 @@
+nodes:
+75486(concept_personeurope_andrew_jackson):1.000000
+75486(concept_personeurope_andrew_jackson):1.000000
+75486(concept_personeurope_andrew_jackson):1.000000
+75486(concept_personeurope_andrew_jackson):1.000000
+75486(concept_personeurope_andrew_jackson):1.000000
+75486(concept_personeurope_andrew_jackson):1.000000
+edges:
+
+
+
+
+

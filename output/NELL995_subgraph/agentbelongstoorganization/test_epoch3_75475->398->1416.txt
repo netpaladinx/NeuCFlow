@@ -1,0 +1,13 @@
+nodes:
+75475(concept_coach_detroit_lions):1.000000
+75475(concept_coach_detroit_lions):1.000000
+75475(concept_coach_detroit_lions):1.000000
+75475(concept_coach_detroit_lions):1.000000
+75475(concept_coach_detroit_lions):1.000000
+75475(concept_coach_detroit_lions):1.000000
+edges:
+
+
+
+
+

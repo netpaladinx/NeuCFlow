@@ -1,0 +1,13 @@
+nodes:
+66123(concept_athlete_odalis_perez):1.000000
+1047(concept_sportsleague_mlb):1.000000
+17194(concept_sportsteam_red_sox):1.000000	1573(concept_sportsteam_red_sox_this_season):0.000000
+39436(concept_sport_baseball):1.000000
+46972(concept_sportsgame_n1970_world_series):1.000000	35600(concept_stadiumoreventvenue_shea_stadium):0.000000
+39436(concept_sport_baseball):1.000000	60137(concept_coach_pedro_martinez):0.000000	60078(concept_athlete_pelfrey):0.000000
+edges:
+66123(concept_athlete_odalis_perez)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->1573(concept_sportsteam_red_sox_this_season)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)
+1573(concept_sportsteam_red_sox_this_season)->180(concept:teamplayssport)->39436(concept_sport_baseball)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->46972(concept_sportsgame_n1970_world_series)
+35600(concept_stadiumoreventvenue_shea_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	35600(concept_stadiumoreventvenue_shea_stadium)->183(concept:athletehomestadium_inv)->60078(concept_athlete_pelfrey)	35600(concept_stadiumoreventvenue_shea_stadium)->183(concept:athletehomestadium_inv)->60137(concept_coach_pedro_martinez)	46972(concept_sportsgame_n1970_world_series)->320(concept:sportsgamesport)->39436(concept_sport_baseball)

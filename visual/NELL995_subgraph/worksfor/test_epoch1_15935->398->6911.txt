@@ -1,0 +1,4 @@
+concept_chef_john_mariani	concept:worksfor	concept_company_esquire001
+
+concept_chef_john_mariani	concept:agentcollaborateswithagent_inv	concept_professor_esquire
+concept_professor_esquire	concept:agentcollaborateswithagent	concept_chef_john_mariani

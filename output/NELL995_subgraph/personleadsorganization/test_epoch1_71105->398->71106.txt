@@ -1,0 +1,13 @@
+nodes:
+71105(concept_person_xiao_haopeng):1.000000
+71106(concept_organization_chinese_shooting_squad):0.999952	71105(concept_person_xiao_haopeng):0.000048
+71105(concept_person_xiao_haopeng):0.999947	71106(concept_organization_chinese_shooting_squad):0.000053
+71106(concept_organization_chinese_shooting_squad):0.999781	71105(concept_person_xiao_haopeng):0.000219
+71105(concept_person_xiao_haopeng):0.999594	71106(concept_organization_chinese_shooting_squad):0.000406
+71106(concept_organization_chinese_shooting_squad):0.999571	71105(concept_person_xiao_haopeng):0.000429
+edges:
+71105(concept_person_xiao_haopeng)->0(concept:worksfor)->71106(concept_organization_chinese_shooting_squad)	71105(concept_person_xiao_haopeng)->7(concept:subpartof_inv)->71106(concept_organization_chinese_shooting_squad)
+71105(concept_person_xiao_haopeng)->0(concept:worksfor)->71106(concept_organization_chinese_shooting_squad)	71105(concept_person_xiao_haopeng)->7(concept:subpartof_inv)->71106(concept_organization_chinese_shooting_squad)	71106(concept_organization_chinese_shooting_squad)->1(concept:worksfor_inv)->71105(concept_person_xiao_haopeng)	71106(concept_organization_chinese_shooting_squad)->6(concept:subpartof)->71105(concept_person_xiao_haopeng)
+71105(concept_person_xiao_haopeng)->0(concept:worksfor)->71106(concept_organization_chinese_shooting_squad)	71105(concept_person_xiao_haopeng)->7(concept:subpartof_inv)->71106(concept_organization_chinese_shooting_squad)	71106(concept_organization_chinese_shooting_squad)->1(concept:worksfor_inv)->71105(concept_person_xiao_haopeng)	71106(concept_organization_chinese_shooting_squad)->6(concept:subpartof)->71105(concept_person_xiao_haopeng)
+71105(concept_person_xiao_haopeng)->0(concept:worksfor)->71106(concept_organization_chinese_shooting_squad)	71105(concept_person_xiao_haopeng)->7(concept:subpartof_inv)->71106(concept_organization_chinese_shooting_squad)	71106(concept_organization_chinese_shooting_squad)->1(concept:worksfor_inv)->71105(concept_person_xiao_haopeng)	71106(concept_organization_chinese_shooting_squad)->6(concept:subpartof)->71105(concept_person_xiao_haopeng)
+71105(concept_person_xiao_haopeng)->0(concept:worksfor)->71106(concept_organization_chinese_shooting_squad)	71105(concept_person_xiao_haopeng)->7(concept:subpartof_inv)->71106(concept_organization_chinese_shooting_squad)	71106(concept_organization_chinese_shooting_squad)->1(concept:worksfor_inv)->71105(concept_person_xiao_haopeng)	71106(concept_organization_chinese_shooting_squad)->6(concept:subpartof)->71105(concept_person_xiao_haopeng)

@@ -1,0 +1,13 @@
+nodes:
+75442(concept_sportsteam_kansas_city_wizards):1.000000
+75442(concept_sportsteam_kansas_city_wizards):1.000000
+75442(concept_sportsteam_kansas_city_wizards):1.000000
+75442(concept_sportsteam_kansas_city_wizards):1.000000
+75442(concept_sportsteam_kansas_city_wizards):1.000000
+75442(concept_sportsteam_kansas_city_wizards):1.000000
+edges:
+
+
+
+
+

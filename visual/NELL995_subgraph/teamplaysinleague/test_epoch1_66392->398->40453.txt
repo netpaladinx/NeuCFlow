@@ -1,0 +1,4 @@
+concept_sportsteam_cardiff_city	concept:teamplaysinleague	concept_sportsleague_fa
+
+concept_sportsteam_cardiff_city	concept:athleteplaysforteam_inv	concept_athlete_joe_ledley
+concept_athlete_joe_ledley	concept:athleteplaysforteam	concept_sportsteam_cardiff_city

@@ -1,0 +1,13 @@
+nodes:
+75451(concept_journalist_thomas_smith):1.000000
+75451(concept_journalist_thomas_smith):1.000000
+75451(concept_journalist_thomas_smith):1.000000
+75451(concept_journalist_thomas_smith):1.000000
+75451(concept_journalist_thomas_smith):1.000000
+75451(concept_journalist_thomas_smith):1.000000
+edges:
+
+
+
+
+

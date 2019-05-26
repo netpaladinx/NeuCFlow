@@ -1,0 +1,13 @@
+nodes:
+75374(concept_athlete_jackie_gayda):1.000000
+75374(concept_athlete_jackie_gayda):1.000000
+75374(concept_athlete_jackie_gayda):1.000000
+75374(concept_athlete_jackie_gayda):1.000000
+75374(concept_athlete_jackie_gayda):1.000000
+75374(concept_athlete_jackie_gayda):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,4 @@
+concept_ceo_paul_d__house	concept:worksfor	concept_company_tim_hortons
+
+concept_ceo_paul_d__house	concept:personleadsorganization	concept_company_tim_hortons
+concept_company_tim_hortons	concept:personleadsorganization_inv	concept_ceo_paul_d__house

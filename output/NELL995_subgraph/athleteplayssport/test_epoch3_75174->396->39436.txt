@@ -1,0 +1,13 @@
+nodes:
+75174(concept_coach_danny_richar):1.000000
+75174(concept_coach_danny_richar):1.000000
+75174(concept_coach_danny_richar):1.000000
+75174(concept_coach_danny_richar):1.000000
+75174(concept_coach_danny_richar):1.000000
+75174(concept_coach_danny_richar):1.000000
+edges:
+
+
+
+
+

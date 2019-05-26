@@ -1,0 +1,13 @@
+nodes:
+65762(concept_athlete_vladimir_radmanovic):1.000000
+35410(concept_stadiumoreventvenue_staples_center):1.000000	1047(concept_sportsleague_mlb):0.000000
+15329(concept_sport_hockey):1.000000	1573(concept_sportsteam_red_sox_this_season):0.000000
+3606(concept_stadiumoreventvenue_united_center):1.000000	21035(concept_awardtrophytournament_stanley_cup):0.000000	39436(concept_sport_baseball):0.000000
+15329(concept_sport_hockey):1.000000	35600(concept_stadiumoreventvenue_shea_stadium):0.000000
+3606(concept_stadiumoreventvenue_united_center):1.000000	35410(concept_stadiumoreventvenue_staples_center):0.000000	15329(concept_sport_hockey):0.000000	39436(concept_sport_baseball):0.000000
+edges:
+65762(concept_athlete_vladimir_radmanovic)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)	65762(concept_athlete_vladimir_radmanovic)->182(concept:athletehomestadium)->35410(concept_stadiumoreventvenue_staples_center)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->1573(concept_sportsteam_red_sox_this_season)	35410(concept_stadiumoreventvenue_staples_center)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)
+1573(concept_sportsteam_red_sox_this_season)->180(concept:teamplayssport)->39436(concept_sport_baseball)	15329(concept_sport_hockey)->302(concept:sportusesstadium)->3606(concept_stadiumoreventvenue_united_center)	15329(concept_sport_hockey)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->21035(concept_awardtrophytournament_stanley_cup)
+3606(concept_stadiumoreventvenue_united_center)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)	21035(concept_awardtrophytournament_stanley_cup)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->15329(concept_sport_hockey)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)
+15329(concept_sport_hockey)->302(concept:sportusesstadium)->3606(concept_stadiumoreventvenue_united_center)	15329(concept_sport_hockey)->302(concept:sportusesstadium)->35410(concept_stadiumoreventvenue_staples_center)	35600(concept_stadiumoreventvenue_shea_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)

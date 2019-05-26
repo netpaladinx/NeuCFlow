@@ -1,0 +1,13 @@
+nodes:
+65712(concept_personmexico_eli_marrero):1.000000
+10166(concept_stadiumoreventvenue_giants_stadium):1.000000
+66237(concept_athlete_plaxico_burress):1.000000
+10166(concept_stadiumoreventvenue_giants_stadium):1.000000
+66237(concept_athlete_plaxico_burress):1.000000
+10166(concept_stadiumoreventvenue_giants_stadium):1.000000
+edges:
+65712(concept_personmexico_eli_marrero)->182(concept:athletehomestadium)->10166(concept_stadiumoreventvenue_giants_stadium)
+10166(concept_stadiumoreventvenue_giants_stadium)->183(concept:athletehomestadium_inv)->66237(concept_athlete_plaxico_burress)
+66237(concept_athlete_plaxico_burress)->182(concept:athletehomestadium)->10166(concept_stadiumoreventvenue_giants_stadium)
+10166(concept_stadiumoreventvenue_giants_stadium)->183(concept:athletehomestadium_inv)->66237(concept_athlete_plaxico_burress)
+66237(concept_athlete_plaxico_burress)->182(concept:athletehomestadium)->10166(concept_stadiumoreventvenue_giants_stadium)

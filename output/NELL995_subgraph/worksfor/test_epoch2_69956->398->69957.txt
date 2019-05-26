@@ -1,0 +1,13 @@
+nodes:
+69956(concept_journalist_jeff_peek):1.000000
+69957(concept_newspaper_traverse_city_record_eagle):1.000000	69956(concept_journalist_jeff_peek):0.000000
+69956(concept_journalist_jeff_peek):1.000000	69957(concept_newspaper_traverse_city_record_eagle):0.000000
+69957(concept_newspaper_traverse_city_record_eagle):1.000000	69956(concept_journalist_jeff_peek):0.000000
+69956(concept_journalist_jeff_peek):1.000000	69957(concept_newspaper_traverse_city_record_eagle):0.000000
+69957(concept_newspaper_traverse_city_record_eagle):1.000000	69956(concept_journalist_jeff_peek):0.000000
+edges:
+69956(concept_journalist_jeff_peek)->216(concept:journalistwritesforpublication)->69957(concept_newspaper_traverse_city_record_eagle)
+69956(concept_journalist_jeff_peek)->216(concept:journalistwritesforpublication)->69957(concept_newspaper_traverse_city_record_eagle)	69957(concept_newspaper_traverse_city_record_eagle)->217(concept:journalistwritesforpublication_inv)->69956(concept_journalist_jeff_peek)
+69956(concept_journalist_jeff_peek)->216(concept:journalistwritesforpublication)->69957(concept_newspaper_traverse_city_record_eagle)	69957(concept_newspaper_traverse_city_record_eagle)->217(concept:journalistwritesforpublication_inv)->69956(concept_journalist_jeff_peek)
+69956(concept_journalist_jeff_peek)->216(concept:journalistwritesforpublication)->69957(concept_newspaper_traverse_city_record_eagle)	69957(concept_newspaper_traverse_city_record_eagle)->217(concept:journalistwritesforpublication_inv)->69956(concept_journalist_jeff_peek)
+69956(concept_journalist_jeff_peek)->216(concept:journalistwritesforpublication)->69957(concept_newspaper_traverse_city_record_eagle)	69957(concept_newspaper_traverse_city_record_eagle)->217(concept:journalistwritesforpublication_inv)->69956(concept_journalist_jeff_peek)

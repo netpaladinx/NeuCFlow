@@ -1,0 +1,13 @@
+nodes:
+75395(concept_athlete_madison_bumgarner):1.000000
+75395(concept_athlete_madison_bumgarner):1.000000
+75395(concept_athlete_madison_bumgarner):1.000000
+75395(concept_athlete_madison_bumgarner):1.000000
+75395(concept_athlete_madison_bumgarner):1.000000
+75395(concept_athlete_madison_bumgarner):1.000000
+edges:
+
+
+
+
+

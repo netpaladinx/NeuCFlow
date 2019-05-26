@@ -1,0 +1,13 @@
+nodes:
+75434(concept_sportsteam_missouri_valley_conference):1.000000
+75434(concept_sportsteam_missouri_valley_conference):1.000000
+75434(concept_sportsteam_missouri_valley_conference):1.000000
+75434(concept_sportsteam_missouri_valley_conference):1.000000
+75434(concept_sportsteam_missouri_valley_conference):1.000000
+75434(concept_sportsteam_missouri_valley_conference):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+75453(concept_coach_nashville_predators):1.000000
+75453(concept_coach_nashville_predators):1.000000
+75453(concept_coach_nashville_predators):1.000000
+75453(concept_coach_nashville_predators):1.000000
+75453(concept_coach_nashville_predators):1.000000
+75453(concept_coach_nashville_predators):1.000000
+edges:
+
+
+
+
+

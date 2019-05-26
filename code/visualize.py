@@ -138,9 +138,9 @@ def draw_a_graph(filename, dataset, topk_all=None, topk_per_step=None, font_size
         assert nodes_all[id2i[head]][1]['name'] == dataset.id2entity[int(head)]
         if tail not in id2i:
             plt.title('{} - {} (missed)'.format(head, tail))
-        else:
-            assert nodes_all[id2i[tail]][1]['name'] == dataset.id2entity[int(tail)]
-            plt.title('{} - {}'.format(head, tail))
+        # else:
+        #     assert nodes_all[id2i[tail]][1]['name'] == dataset.id2entity[int(tail)]
+        #     plt.title('{} - {}'.format(head, tail))
 
     edges = [(i2id[e[0]], e[2]['rel_id'], i2id[e[1]]) for e in edges_all]
     return head, relation, tail, edges

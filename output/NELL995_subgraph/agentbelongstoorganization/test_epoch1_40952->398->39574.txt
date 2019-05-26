@@ -1,0 +1,13 @@
+nodes:
+40952(concept_sportsteam_saskatchewan_roughriders):1.000000
+40953(concept_awardtrophytournament_grey_cup):0.986097	40952(concept_sportsteam_saskatchewan_roughriders):0.013903
+40952(concept_sportsteam_saskatchewan_roughriders):0.983491	40953(concept_awardtrophytournament_grey_cup):0.016509
+40953(concept_awardtrophytournament_grey_cup):0.973039	40952(concept_sportsteam_saskatchewan_roughriders):0.026961
+40952(concept_sportsteam_saskatchewan_roughriders):0.971713	40953(concept_awardtrophytournament_grey_cup):0.028287
+40953(concept_awardtrophytournament_grey_cup):0.962492	40952(concept_sportsteam_saskatchewan_roughriders):0.037508
+edges:
+40952(concept_sportsteam_saskatchewan_roughriders)->262(concept:teamwontrophy)->40953(concept_awardtrophytournament_grey_cup)
+40952(concept_sportsteam_saskatchewan_roughriders)->262(concept:teamwontrophy)->40953(concept_awardtrophytournament_grey_cup)	40953(concept_awardtrophytournament_grey_cup)->263(concept:teamwontrophy_inv)->40952(concept_sportsteam_saskatchewan_roughriders)
+40952(concept_sportsteam_saskatchewan_roughriders)->262(concept:teamwontrophy)->40953(concept_awardtrophytournament_grey_cup)	40953(concept_awardtrophytournament_grey_cup)->263(concept:teamwontrophy_inv)->40952(concept_sportsteam_saskatchewan_roughriders)
+40952(concept_sportsteam_saskatchewan_roughriders)->262(concept:teamwontrophy)->40953(concept_awardtrophytournament_grey_cup)	40953(concept_awardtrophytournament_grey_cup)->263(concept:teamwontrophy_inv)->40952(concept_sportsteam_saskatchewan_roughriders)
+40952(concept_sportsteam_saskatchewan_roughriders)->262(concept:teamwontrophy)->40953(concept_awardtrophytournament_grey_cup)	40953(concept_awardtrophytournament_grey_cup)->263(concept:teamwontrophy_inv)->40952(concept_sportsteam_saskatchewan_roughriders)

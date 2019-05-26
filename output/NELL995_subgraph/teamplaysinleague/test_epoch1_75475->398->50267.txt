@@ -1,0 +1,13 @@
+nodes:
+75475(concept_sportsteam_san_diego_state_university):1.000000
+75475(concept_sportsteam_san_diego_state_university):1.000000
+75475(concept_sportsteam_san_diego_state_university):1.000000
+75475(concept_sportsteam_san_diego_state_university):1.000000
+75475(concept_sportsteam_san_diego_state_university):1.000000
+75475(concept_sportsteam_san_diego_state_university):1.000000
+edges:
+
+
+
+
+

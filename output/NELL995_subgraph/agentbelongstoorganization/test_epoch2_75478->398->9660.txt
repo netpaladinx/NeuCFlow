@@ -1,0 +1,13 @@
+nodes:
+75478(concept_coach_calgary_flames):1.000000
+75478(concept_coach_calgary_flames):1.000000
+75478(concept_coach_calgary_flames):1.000000
+75478(concept_coach_calgary_flames):1.000000
+75478(concept_coach_calgary_flames):1.000000
+75478(concept_coach_calgary_flames):1.000000
+edges:
+
+
+
+
+

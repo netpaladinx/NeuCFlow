@@ -1,0 +1,13 @@
+nodes:
+75253(concept_athlete_adam_pettyjohn):1.000000
+75253(concept_athlete_adam_pettyjohn):1.000000
+75253(concept_athlete_adam_pettyjohn):1.000000
+75253(concept_athlete_adam_pettyjohn):1.000000
+75253(concept_athlete_adam_pettyjohn):1.000000
+75253(concept_athlete_adam_pettyjohn):1.000000
+edges:
+
+
+
+
+

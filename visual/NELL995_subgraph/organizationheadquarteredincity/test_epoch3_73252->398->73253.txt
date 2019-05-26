@@ -1,0 +1,4 @@
+concept_company_bp_america	concept:organizationheadquarteredincity	concept_city_warrenville
+
+concept_company_bp_america	concept:hasofficeincity	concept_city_warrenville
+concept_city_warrenville	concept:hasofficeincity_inv	concept_company_bp_america

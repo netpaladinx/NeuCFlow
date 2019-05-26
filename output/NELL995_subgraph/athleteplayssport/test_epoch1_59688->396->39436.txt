@@ -1,0 +1,13 @@
+nodes:
+59688(concept_personus_justin_speier):1.000000
+59687(concept_athlete_chris_speier):0.797321	59688(concept_personus_justin_speier):0.202679
+59688(concept_personus_justin_speier):0.568282	59687(concept_athlete_chris_speier):0.431718
+59687(concept_athlete_chris_speier):0.679063	59688(concept_personus_justin_speier):0.320937
+59687(concept_athlete_chris_speier):0.742985	59688(concept_personus_justin_speier):0.257015
+59687(concept_athlete_chris_speier):0.839688	59688(concept_personus_justin_speier):0.160312
+edges:
+59688(concept_personus_justin_speier)->54(concept:parentofperson)->59687(concept_athlete_chris_speier)	59688(concept_personus_justin_speier)->55(concept:parentofperson_inv)->59687(concept_athlete_chris_speier)
+59687(concept_athlete_chris_speier)->54(concept:parentofperson)->59688(concept_personus_justin_speier)	59687(concept_athlete_chris_speier)->55(concept:parentofperson_inv)->59688(concept_personus_justin_speier)	59688(concept_personus_justin_speier)->54(concept:parentofperson)->59687(concept_athlete_chris_speier)	59688(concept_personus_justin_speier)->55(concept:parentofperson_inv)->59687(concept_athlete_chris_speier)
+59687(concept_athlete_chris_speier)->54(concept:parentofperson)->59688(concept_personus_justin_speier)	59687(concept_athlete_chris_speier)->55(concept:parentofperson_inv)->59688(concept_personus_justin_speier)	59688(concept_personus_justin_speier)->54(concept:parentofperson)->59687(concept_athlete_chris_speier)	59688(concept_personus_justin_speier)->55(concept:parentofperson_inv)->59687(concept_athlete_chris_speier)
+59687(concept_athlete_chris_speier)->54(concept:parentofperson)->59688(concept_personus_justin_speier)	59687(concept_athlete_chris_speier)->55(concept:parentofperson_inv)->59688(concept_personus_justin_speier)	59688(concept_personus_justin_speier)->54(concept:parentofperson)->59687(concept_athlete_chris_speier)	59688(concept_personus_justin_speier)->55(concept:parentofperson_inv)->59687(concept_athlete_chris_speier)
+59687(concept_athlete_chris_speier)->54(concept:parentofperson)->59688(concept_personus_justin_speier)	59687(concept_athlete_chris_speier)->55(concept:parentofperson_inv)->59688(concept_personus_justin_speier)	59688(concept_personus_justin_speier)->54(concept:parentofperson)->59687(concept_athlete_chris_speier)	59688(concept_personus_justin_speier)->55(concept:parentofperson_inv)->59687(concept_athlete_chris_speier)

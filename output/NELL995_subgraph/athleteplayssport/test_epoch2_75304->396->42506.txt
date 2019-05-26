@@ -1,0 +1,13 @@
+nodes:
+75304(concept_athlete_andrew_golota):1.000000
+75304(concept_athlete_andrew_golota):1.000000
+75304(concept_athlete_andrew_golota):1.000000
+75304(concept_athlete_andrew_golota):1.000000
+75304(concept_athlete_andrew_golota):1.000000
+75304(concept_athlete_andrew_golota):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+71159(concept_ceo_chua_sock_koong):1.000000
+71160(concept_company_singtel):1.000000	71159(concept_ceo_chua_sock_koong):0.000000
+71159(concept_ceo_chua_sock_koong):1.000000	71160(concept_company_singtel):0.000000
+71160(concept_company_singtel):1.000000	71159(concept_ceo_chua_sock_koong):0.000000
+71159(concept_ceo_chua_sock_koong):1.000000	71160(concept_company_singtel):0.000000
+71160(concept_company_singtel):1.000000	71159(concept_ceo_chua_sock_koong):0.000000
+edges:
+71159(concept_ceo_chua_sock_koong)->26(concept:personleadsorganization)->71160(concept_company_singtel)
+71159(concept_ceo_chua_sock_koong)->26(concept:personleadsorganization)->71160(concept_company_singtel)	71160(concept_company_singtel)->27(concept:personleadsorganization_inv)->71159(concept_ceo_chua_sock_koong)
+71159(concept_ceo_chua_sock_koong)->26(concept:personleadsorganization)->71160(concept_company_singtel)	71160(concept_company_singtel)->27(concept:personleadsorganization_inv)->71159(concept_ceo_chua_sock_koong)
+71159(concept_ceo_chua_sock_koong)->26(concept:personleadsorganization)->71160(concept_company_singtel)	71160(concept_company_singtel)->27(concept:personleadsorganization_inv)->71159(concept_ceo_chua_sock_koong)
+71159(concept_ceo_chua_sock_koong)->26(concept:personleadsorganization)->71160(concept_company_singtel)	71160(concept_company_singtel)->27(concept:personleadsorganization_inv)->71159(concept_ceo_chua_sock_koong)

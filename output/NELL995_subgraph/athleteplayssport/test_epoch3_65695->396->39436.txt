@@ -1,0 +1,13 @@
+nodes:
+65695(concept_personmexico_josh_anderson001):1.000000
+65695(concept_personmexico_josh_anderson001):1.000000	12766(concept_sportsteamposition_center):0.000000
+25194(concept_awardtrophytournament_world_series):1.000000	65331(concept_athlete_ryan_theriot):0.000000
+40910(concept_personmexico_craig_counsell):0.999993	39436(concept_sport_baseball):0.000007
+20656(concept_stadiumoreventvenue_yankee_stadium):0.999993	21281(concept_sportsgame_n1956_world_series):0.000007
+39436(concept_sport_baseball):1.000000
+edges:
+65695(concept_personmexico_josh_anderson001)->222(concept:athleteflyouttosportsteamposition)->12766(concept_sportsteamposition_center)
+12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->65331(concept_athlete_ryan_theriot)	65695(concept_personmexico_josh_anderson001)->152(concept:coachwontrophy)->25194(concept_awardtrophytournament_world_series)
+25194(concept_awardtrophytournament_world_series)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->39436(concept_sport_baseball)	25194(concept_awardtrophytournament_world_series)->153(concept:coachwontrophy_inv)->40910(concept_personmexico_craig_counsell)	25194(concept_awardtrophytournament_world_series)->257(concept:athletewinsawardtrophytournament_inv)->40910(concept_personmexico_craig_counsell)	65331(concept_athlete_ryan_theriot)->396(concept:athleteplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->302(concept:sportusesstadium)->20656(concept_stadiumoreventvenue_yankee_stadium)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->21281(concept_sportsgame_n1956_world_series)	40910(concept_personmexico_craig_counsell)->182(concept:athletehomestadium)->20656(concept_stadiumoreventvenue_yankee_stadium)
+20656(concept_stadiumoreventvenue_yankee_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	21281(concept_sportsgame_n1956_world_series)->320(concept:sportsgamesport)->39436(concept_sport_baseball)

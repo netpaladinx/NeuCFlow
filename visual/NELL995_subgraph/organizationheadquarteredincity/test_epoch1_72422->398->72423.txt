@@ -1,0 +1,4 @@
+concept_company_air_southwest	concept:organizationheadquarteredincity	concept_city_newquay
+
+concept_company_air_southwest	concept:hasofficeincity	concept_city_newquay
+concept_city_newquay	concept:hasofficeincity_inv	concept_company_air_southwest

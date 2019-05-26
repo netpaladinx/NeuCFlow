@@ -1,0 +1,13 @@
+nodes:
+75403(concept_sportsteam_american_college_of_traditional_chinese_medicine):1.000000
+75403(concept_sportsteam_american_college_of_traditional_chinese_medicine):1.000000
+75403(concept_sportsteam_american_college_of_traditional_chinese_medicine):1.000000
+75403(concept_sportsteam_american_college_of_traditional_chinese_medicine):1.000000
+75403(concept_sportsteam_american_college_of_traditional_chinese_medicine):1.000000
+75403(concept_sportsteam_american_college_of_traditional_chinese_medicine):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+66041(concept_athlete_sean_green):1.000000
+66041(concept_athlete_sean_green):0.999993	35304(concept_stadiumoreventvenue_safeco_field):0.000007
+59407(concept_sportsleague_major_league_baseball):0.999993	39436(concept_sport_baseball):0.000007
+1047(concept_sportsleague_mlb):0.999993	46969(concept_sportsgame_n1966_world_series):0.000007	25194(concept_awardtrophytournament_world_series):0.000000
+1573(concept_sportsteam_red_sox_this_season):0.999903	17194(concept_sportsteam_red_sox):0.000091	2495(concept_sportsteam_orioles):0.000007
+39436(concept_sport_baseball):1.000000
+edges:
+66041(concept_athlete_sean_green)->182(concept:athletehomestadium)->35304(concept_stadiumoreventvenue_safeco_field)
+35304(concept_stadiumoreventvenue_safeco_field)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	66041(concept_athlete_sean_green)->158(concept:athleteplaysinleague)->59407(concept_sportsleague_major_league_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->46969(concept_sportsgame_n1966_world_series)	59407(concept_sportsleague_major_league_baseball)->163(concept:organizationacronymhasname_inv)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->1573(concept_sportsteam_red_sox_this_season)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->2495(concept_sportsteam_orioles)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->1573(concept_sportsteam_red_sox_this_season)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->2495(concept_sportsteam_orioles)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->17194(concept_sportsteam_red_sox)	46969(concept_sportsgame_n1966_world_series)->146(concept:sportsgamewinner)->2495(concept_sportsteam_orioles)
+1573(concept_sportsteam_red_sox_this_season)->180(concept:teamplayssport)->39436(concept_sport_baseball)	2495(concept_sportsteam_orioles)->180(concept:teamplayssport)->39436(concept_sport_baseball)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)

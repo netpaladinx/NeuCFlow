@@ -1,0 +1,13 @@
+nodes:
+75451(concept_coach_carolina_hurricanes):1.000000
+75451(concept_coach_carolina_hurricanes):1.000000
+75451(concept_coach_carolina_hurricanes):1.000000
+75451(concept_coach_carolina_hurricanes):1.000000
+75451(concept_coach_carolina_hurricanes):1.000000
+75451(concept_coach_carolina_hurricanes):1.000000
+edges:
+
+
+
+
+

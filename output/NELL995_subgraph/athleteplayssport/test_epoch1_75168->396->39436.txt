@@ -1,0 +1,13 @@
+nodes:
+75168(concept_athlete_luis_perdomo):1.000000
+75168(concept_athlete_luis_perdomo):1.000000
+75168(concept_athlete_luis_perdomo):1.000000
+75168(concept_athlete_luis_perdomo):1.000000
+75168(concept_athlete_luis_perdomo):1.000000
+75168(concept_athlete_luis_perdomo):1.000000
+edges:
+
+
+
+
+

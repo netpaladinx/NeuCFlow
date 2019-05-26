@@ -1,0 +1,13 @@
+nodes:
+75334(concept_athlete_jermain_taylor):1.000000
+75334(concept_athlete_jermain_taylor):1.000000
+75334(concept_athlete_jermain_taylor):1.000000
+75334(concept_athlete_jermain_taylor):1.000000
+75334(concept_athlete_jermain_taylor):1.000000
+75334(concept_athlete_jermain_taylor):1.000000
+edges:
+
+
+
+
+

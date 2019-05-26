@@ -1,0 +1,13 @@
+nodes:
+75489(concept_company_usairways):1.000000
+75489(concept_company_usairways):1.000000
+75489(concept_company_usairways):1.000000
+75489(concept_company_usairways):1.000000
+75489(concept_company_usairways):1.000000
+75489(concept_company_usairways):1.000000
+edges:
+
+
+
+
+

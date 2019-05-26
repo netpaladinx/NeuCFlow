@@ -1,0 +1,13 @@
+nodes:
+75483(concept_athlete_jannero_pargo):1.000000
+75483(concept_athlete_jannero_pargo):1.000000
+75483(concept_athlete_jannero_pargo):1.000000
+75483(concept_athlete_jannero_pargo):1.000000
+75483(concept_athlete_jannero_pargo):1.000000
+75483(concept_athlete_jannero_pargo):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+66236(concept_athlete_pele):1.000000
+35816(concept_sportsteam_brazil):1.000000	66236(concept_athlete_pele):0.000000
+39431(concept_sport_golf):1.000000	66236(concept_athlete_pele):0.000000
+39431(concept_sport_golf):1.000000	35816(concept_sportsteam_brazil):0.000000
+39431(concept_sport_golf):0.604616	10602(concept_country_portugal):0.395308	9154(concept_country_uk):0.000076
+10602(concept_country_portugal):0.604616	3601(concept_sport_football):0.395384	9154(concept_country_uk):0.000000
+edges:
+66236(concept_athlete_pele)->156(concept:athleteplaysforteam)->35816(concept_sportsteam_brazil)
+35816(concept_sportsteam_brazil)->180(concept:teamplayssport)->39431(concept_sport_golf)	35816(concept_sportsteam_brazil)->157(concept:athleteplaysforteam_inv)->66236(concept_athlete_pele)
+39431(concept_sport_golf)->181(concept:teamplayssport_inv)->35816(concept_sportsteam_brazil)	66236(concept_athlete_pele)->156(concept:athleteplaysforteam)->35816(concept_sportsteam_brazil)
+35816(concept_sportsteam_brazil)->180(concept:teamplayssport)->39431(concept_sport_golf)	39431(concept_sport_golf)->292(concept:sportschoolincountry)->9154(concept_country_uk)	39431(concept_sport_golf)->292(concept:sportschoolincountry)->10602(concept_country_portugal)
+9154(concept_country_uk)->293(concept:sportschoolincountry_inv)->3601(concept_sport_football)	9154(concept_country_uk)->297(concept:sportfansincountry_inv)->3601(concept_sport_football)	10602(concept_country_portugal)->297(concept:sportfansincountry_inv)->3601(concept_sport_football)	39431(concept_sport_golf)->292(concept:sportschoolincountry)->9154(concept_country_uk)	39431(concept_sport_golf)->292(concept:sportschoolincountry)->10602(concept_country_portugal)

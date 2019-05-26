@@ -1,0 +1,13 @@
+nodes:
+71131(concept_ceo_paul_d__house):1.000000
+71132(concept_company_tim_hortons):1.000000	71131(concept_ceo_paul_d__house):0.000000
+71131(concept_ceo_paul_d__house):1.000000	71132(concept_company_tim_hortons):0.000000
+71132(concept_company_tim_hortons):1.000000	71131(concept_ceo_paul_d__house):0.000000
+71131(concept_ceo_paul_d__house):1.000000	71132(concept_company_tim_hortons):0.000000
+71132(concept_company_tim_hortons):1.000000	71131(concept_ceo_paul_d__house):0.000000
+edges:
+71131(concept_ceo_paul_d__house)->26(concept:personleadsorganization)->71132(concept_company_tim_hortons)
+71131(concept_ceo_paul_d__house)->26(concept:personleadsorganization)->71132(concept_company_tim_hortons)	71132(concept_company_tim_hortons)->27(concept:personleadsorganization_inv)->71131(concept_ceo_paul_d__house)
+71131(concept_ceo_paul_d__house)->26(concept:personleadsorganization)->71132(concept_company_tim_hortons)	71132(concept_company_tim_hortons)->27(concept:personleadsorganization_inv)->71131(concept_ceo_paul_d__house)
+71131(concept_ceo_paul_d__house)->26(concept:personleadsorganization)->71132(concept_company_tim_hortons)	71132(concept_company_tim_hortons)->27(concept:personleadsorganization_inv)->71131(concept_ceo_paul_d__house)
+71131(concept_ceo_paul_d__house)->26(concept:personleadsorganization)->71132(concept_company_tim_hortons)	71132(concept_company_tim_hortons)->27(concept:personleadsorganization_inv)->71131(concept_ceo_paul_d__house)

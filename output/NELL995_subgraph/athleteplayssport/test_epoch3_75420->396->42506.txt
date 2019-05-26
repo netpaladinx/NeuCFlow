@@ -1,0 +1,13 @@
+nodes:
+75420(concept_athlete_floyd_mayweather):1.000000
+75420(concept_athlete_floyd_mayweather):1.000000
+75420(concept_athlete_floyd_mayweather):1.000000
+75420(concept_athlete_floyd_mayweather):1.000000
+75420(concept_athlete_floyd_mayweather):1.000000
+75420(concept_athlete_floyd_mayweather):1.000000
+edges:
+
+
+
+
+

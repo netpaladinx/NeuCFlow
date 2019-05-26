@@ -1,0 +1,13 @@
+nodes:
+70365(concept_journalist_katherine_kersten):1.000000
+70366(concept_newspaper_star_tribune):1.000000	70365(concept_journalist_katherine_kersten):0.000000
+70365(concept_journalist_katherine_kersten):1.000000	70366(concept_newspaper_star_tribune):0.000000
+70366(concept_newspaper_star_tribune):1.000000	70365(concept_journalist_katherine_kersten):0.000000
+70365(concept_journalist_katherine_kersten):1.000000	70366(concept_newspaper_star_tribune):0.000000
+70366(concept_newspaper_star_tribune):1.000000	70365(concept_journalist_katherine_kersten):0.000000
+edges:
+70365(concept_journalist_katherine_kersten)->216(concept:journalistwritesforpublication)->70366(concept_newspaper_star_tribune)
+70365(concept_journalist_katherine_kersten)->216(concept:journalistwritesforpublication)->70366(concept_newspaper_star_tribune)	70366(concept_newspaper_star_tribune)->217(concept:journalistwritesforpublication_inv)->70365(concept_journalist_katherine_kersten)
+70365(concept_journalist_katherine_kersten)->216(concept:journalistwritesforpublication)->70366(concept_newspaper_star_tribune)	70366(concept_newspaper_star_tribune)->217(concept:journalistwritesforpublication_inv)->70365(concept_journalist_katherine_kersten)
+70365(concept_journalist_katherine_kersten)->216(concept:journalistwritesforpublication)->70366(concept_newspaper_star_tribune)	70366(concept_newspaper_star_tribune)->217(concept:journalistwritesforpublication_inv)->70365(concept_journalist_katherine_kersten)
+70365(concept_journalist_katherine_kersten)->216(concept:journalistwritesforpublication)->70366(concept_newspaper_star_tribune)	70366(concept_newspaper_star_tribune)->217(concept:journalistwritesforpublication_inv)->70365(concept_journalist_katherine_kersten)

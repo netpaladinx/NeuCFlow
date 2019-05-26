@@ -1,0 +1,13 @@
+nodes:
+75432(concept_journalist_connie_chung):1.000000
+75432(concept_journalist_connie_chung):1.000000
+75432(concept_journalist_connie_chung):1.000000
+75432(concept_journalist_connie_chung):1.000000
+75432(concept_journalist_connie_chung):1.000000
+75432(concept_journalist_connie_chung):1.000000
+edges:
+
+
+
+
+

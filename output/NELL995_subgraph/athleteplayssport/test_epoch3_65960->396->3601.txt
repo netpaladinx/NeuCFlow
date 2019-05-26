@@ -1,0 +1,13 @@
+nodes:
+65960(concept_athlete_romo):1.000000
+65960(concept_athlete_romo):1.000000
+1423(concept_sportsleague_nfl):1.000000
+1690(concept_sportsteam_rams):0.998208	39401(concept_sportsteam_buccaneers):0.001792
+3601(concept_sport_football):1.000000
+47017(concept_sportsgame_n2001_super_bowl):1.000000	1688(concept_awardtrophytournament_super_bowl):0.000000
+edges:
+
+65960(concept_athlete_romo)->158(concept:athleteplaysinleague)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->1690(concept_sportsteam_rams)	1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->39401(concept_sportsteam_buccaneers)
+1690(concept_sportsteam_rams)->180(concept:teamplayssport)->3601(concept_sport_football)	39401(concept_sportsteam_buccaneers)->180(concept:teamplayssport)->3601(concept_sport_football)
+3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->1688(concept_awardtrophytournament_super_bowl)	3601(concept_sport_football)->321(concept:sportsgamesport_inv)->47017(concept_sportsgame_n2001_super_bowl)

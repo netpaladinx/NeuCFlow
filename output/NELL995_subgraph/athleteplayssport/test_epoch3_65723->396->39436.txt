@@ -1,0 +1,13 @@
+nodes:
+65723(concept_athlete_ramon_troncoso):1.000000
+1047(concept_sportsleague_mlb):1.000000
+17194(concept_sportsteam_red_sox):1.000000
+39436(concept_sport_baseball):1.000000
+35600(concept_stadiumoreventvenue_shea_stadium):1.000000	25194(concept_awardtrophytournament_world_series):0.000000	27070(concept_stadiumoreventvenue_wrigley_field):0.000000
+39436(concept_sport_baseball):1.000000	1573(concept_sportsteam_red_sox_this_season):0.000000
+edges:
+65723(concept_athlete_ramon_troncoso)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)
+17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->27070(concept_stadiumoreventvenue_wrigley_field)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)
+25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->1573(concept_sportsteam_red_sox_this_season)	25194(concept_awardtrophytournament_world_series)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->39436(concept_sport_baseball)	27070(concept_stadiumoreventvenue_wrigley_field)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	35600(concept_stadiumoreventvenue_shea_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)

@@ -1,0 +1,13 @@
+nodes:
+75472(concept_politicalparty_samajwadi_party):1.000000
+75472(concept_politicalparty_samajwadi_party):1.000000
+75472(concept_politicalparty_samajwadi_party):1.000000
+75472(concept_politicalparty_samajwadi_party):1.000000
+75472(concept_politicalparty_samajwadi_party):1.000000
+75472(concept_politicalparty_samajwadi_party):1.000000
+edges:
+
+
+
+
+

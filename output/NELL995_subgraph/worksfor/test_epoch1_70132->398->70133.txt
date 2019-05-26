@@ -1,0 +1,13 @@
+nodes:
+70132(concept_journalist_jeff_blair):1.000000
+70133(concept_newspaper_toronto_globe_and_mail):0.999996	70132(concept_journalist_jeff_blair):0.000004
+70132(concept_journalist_jeff_blair):0.999993	70133(concept_newspaper_toronto_globe_and_mail):0.000007
+70133(concept_newspaper_toronto_globe_and_mail):0.999991	70132(concept_journalist_jeff_blair):0.000009
+70132(concept_journalist_jeff_blair):0.999990	70133(concept_newspaper_toronto_globe_and_mail):0.000010
+70133(concept_newspaper_toronto_globe_and_mail):0.999988	70132(concept_journalist_jeff_blair):0.000012
+edges:
+70132(concept_journalist_jeff_blair)->216(concept:journalistwritesforpublication)->70133(concept_newspaper_toronto_globe_and_mail)
+70132(concept_journalist_jeff_blair)->216(concept:journalistwritesforpublication)->70133(concept_newspaper_toronto_globe_and_mail)	70133(concept_newspaper_toronto_globe_and_mail)->217(concept:journalistwritesforpublication_inv)->70132(concept_journalist_jeff_blair)
+70132(concept_journalist_jeff_blair)->216(concept:journalistwritesforpublication)->70133(concept_newspaper_toronto_globe_and_mail)	70133(concept_newspaper_toronto_globe_and_mail)->217(concept:journalistwritesforpublication_inv)->70132(concept_journalist_jeff_blair)
+70132(concept_journalist_jeff_blair)->216(concept:journalistwritesforpublication)->70133(concept_newspaper_toronto_globe_and_mail)	70133(concept_newspaper_toronto_globe_and_mail)->217(concept:journalistwritesforpublication_inv)->70132(concept_journalist_jeff_blair)
+70132(concept_journalist_jeff_blair)->216(concept:journalistwritesforpublication)->70133(concept_newspaper_toronto_globe_and_mail)	70133(concept_newspaper_toronto_globe_and_mail)->217(concept:journalistwritesforpublication_inv)->70132(concept_journalist_jeff_blair)

@@ -1,0 +1,13 @@
+nodes:
+75189(concept_athlete_clay_condrey):1.000000
+75189(concept_athlete_clay_condrey):1.000000
+75189(concept_athlete_clay_condrey):1.000000
+75189(concept_athlete_clay_condrey):1.000000
+75189(concept_athlete_clay_condrey):1.000000
+75189(concept_athlete_clay_condrey):1.000000
+edges:
+
+
+
+
+

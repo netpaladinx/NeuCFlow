@@ -1,0 +1,13 @@
+nodes:
+75446(concept_journalist_linda_douglass):1.000000
+75446(concept_journalist_linda_douglass):1.000000
+75446(concept_journalist_linda_douglass):1.000000
+75446(concept_journalist_linda_douglass):1.000000
+75446(concept_journalist_linda_douglass):1.000000
+75446(concept_journalist_linda_douglass):1.000000
+edges:
+
+
+
+
+

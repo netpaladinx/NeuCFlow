@@ -1,0 +1,13 @@
+nodes:
+75482(concept_sportsteam_georgia_st__panthers):1.000000
+75482(concept_sportsteam_georgia_st__panthers):1.000000
+75482(concept_sportsteam_georgia_st__panthers):1.000000
+75482(concept_sportsteam_georgia_st__panthers):1.000000
+75482(concept_sportsteam_georgia_st__panthers):1.000000
+75482(concept_sportsteam_georgia_st__panthers):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+2708(concept_athlete_shaq):1.000000
+2707(concept_personcanada_wilt_chamberlain):0.762883	57434(concept_everypromotedthing_kareem):0.237117
+2708(concept_athlete_shaq):1.000000
+57434(concept_everypromotedthing_kareem):1.000000
+2708(concept_athlete_shaq):1.000000
+2707(concept_personcanada_wilt_chamberlain):1.000000
+edges:
+2708(concept_athlete_shaq)->113(concept:istallerthan_inv)->2707(concept_personcanada_wilt_chamberlain)	2708(concept_athlete_shaq)->113(concept:istallerthan_inv)->57434(concept_everypromotedthing_kareem)
+2707(concept_personcanada_wilt_chamberlain)->112(concept:istallerthan)->2708(concept_athlete_shaq)	57434(concept_everypromotedthing_kareem)->112(concept:istallerthan)->2708(concept_athlete_shaq)
+2708(concept_athlete_shaq)->113(concept:istallerthan_inv)->57434(concept_everypromotedthing_kareem)
+57434(concept_everypromotedthing_kareem)->112(concept:istallerthan)->2708(concept_athlete_shaq)
+2708(concept_athlete_shaq)->113(concept:istallerthan_inv)->2707(concept_personcanada_wilt_chamberlain)

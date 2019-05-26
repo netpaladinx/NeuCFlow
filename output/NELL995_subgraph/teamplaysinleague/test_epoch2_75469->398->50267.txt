@@ -1,0 +1,13 @@
+nodes:
+75469(concept_sportsteam_claremont_graduate_university):1.000000
+75469(concept_sportsteam_claremont_graduate_university):1.000000
+75469(concept_sportsteam_claremont_graduate_university):1.000000
+75469(concept_sportsteam_claremont_graduate_university):1.000000
+75469(concept_sportsteam_claremont_graduate_university):1.000000
+75469(concept_sportsteam_claremont_graduate_university):1.000000
+edges:
+
+
+
+
+

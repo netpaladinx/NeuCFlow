@@ -1,0 +1,13 @@
+nodes:
+70236(concept_journalist_jonathan_rauch):1.000000
+70237(concept_newspaper_national_journal):0.999996	70236(concept_journalist_jonathan_rauch):0.000004
+70236(concept_journalist_jonathan_rauch):0.999995	70237(concept_newspaper_national_journal):0.000005
+70237(concept_newspaper_national_journal):0.999995	70236(concept_journalist_jonathan_rauch):0.000005
+70236(concept_journalist_jonathan_rauch):0.999995	70237(concept_newspaper_national_journal):0.000005
+70237(concept_newspaper_national_journal):0.999995	70236(concept_journalist_jonathan_rauch):0.000005
+edges:
+70236(concept_journalist_jonathan_rauch)->216(concept:journalistwritesforpublication)->70237(concept_newspaper_national_journal)
+70236(concept_journalist_jonathan_rauch)->216(concept:journalistwritesforpublication)->70237(concept_newspaper_national_journal)	70237(concept_newspaper_national_journal)->217(concept:journalistwritesforpublication_inv)->70236(concept_journalist_jonathan_rauch)
+70236(concept_journalist_jonathan_rauch)->216(concept:journalistwritesforpublication)->70237(concept_newspaper_national_journal)	70237(concept_newspaper_national_journal)->217(concept:journalistwritesforpublication_inv)->70236(concept_journalist_jonathan_rauch)
+70236(concept_journalist_jonathan_rauch)->216(concept:journalistwritesforpublication)->70237(concept_newspaper_national_journal)	70237(concept_newspaper_national_journal)->217(concept:journalistwritesforpublication_inv)->70236(concept_journalist_jonathan_rauch)
+70236(concept_journalist_jonathan_rauch)->216(concept:journalistwritesforpublication)->70237(concept_newspaper_national_journal)	70237(concept_newspaper_national_journal)->217(concept:journalistwritesforpublication_inv)->70236(concept_journalist_jonathan_rauch)

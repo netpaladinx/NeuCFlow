@@ -1,0 +1,13 @@
+nodes:
+75490(concept_athlete_bob_sura):1.000000
+75490(concept_athlete_bob_sura):1.000000
+75490(concept_athlete_bob_sura):1.000000
+75490(concept_athlete_bob_sura):1.000000
+75490(concept_athlete_bob_sura):1.000000
+75490(concept_athlete_bob_sura):1.000000
+edges:
+
+
+
+
+

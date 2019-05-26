@@ -1,0 +1,4 @@
+concept_chef_jerome_corsi	concept:worksfor	concept_company_wnd
+
+concept_chef_jerome_corsi	concept:agentcollaborateswithagent_inv	concept_company_wnd
+concept_company_wnd	concept:agentcollaborateswithagent	concept_chef_jerome_corsi

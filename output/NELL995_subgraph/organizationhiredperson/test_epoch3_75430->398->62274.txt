@@ -1,0 +1,13 @@
+nodes:
+75430(concept_organization_the_pittsburgh_police_force):1.000000
+75430(concept_organization_the_pittsburgh_police_force):1.000000
+75430(concept_organization_the_pittsburgh_police_force):1.000000
+75430(concept_organization_the_pittsburgh_police_force):1.000000
+75430(concept_organization_the_pittsburgh_police_force):1.000000
+75430(concept_organization_the_pittsburgh_police_force):1.000000
+edges:
+
+
+
+
+

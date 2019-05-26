@@ -1,0 +1,13 @@
+nodes:
+75447(concept_professionalorganization_vietnam_veterans_of_america_foundation):1.000000
+75447(concept_professionalorganization_vietnam_veterans_of_america_foundation):1.000000
+75447(concept_professionalorganization_vietnam_veterans_of_america_foundation):1.000000
+75447(concept_professionalorganization_vietnam_veterans_of_america_foundation):1.000000
+75447(concept_professionalorganization_vietnam_veterans_of_america_foundation):1.000000
+75447(concept_professionalorganization_vietnam_veterans_of_america_foundation):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+75291(concept_athlete_chris_jakubauskas):1.000000
+75291(concept_athlete_chris_jakubauskas):1.000000
+75291(concept_athlete_chris_jakubauskas):1.000000
+75291(concept_athlete_chris_jakubauskas):1.000000
+75291(concept_athlete_chris_jakubauskas):1.000000
+75291(concept_athlete_chris_jakubauskas):1.000000
+edges:
+
+
+
+
+

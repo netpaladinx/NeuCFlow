@@ -1,0 +1,13 @@
+nodes:
+9317(concept_person_ingrid_newkirk):1.000000
+71600(concept_nongovorganization_peta):0.621754	9316(concept_female_peta):0.378245	9317(concept_person_ingrid_newkirk):0.000001
+9317(concept_person_ingrid_newkirk):0.999998	71600(concept_nongovorganization_peta):0.000001	9316(concept_female_peta):0.000001
+71600(concept_nongovorganization_peta):0.553373	9316(concept_female_peta):0.446625	9317(concept_person_ingrid_newkirk):0.000002
+9317(concept_person_ingrid_newkirk):0.999998	9316(concept_female_peta):0.000001	71600(concept_nongovorganization_peta):0.000001
+9316(concept_female_peta):0.534031	71600(concept_nongovorganization_peta):0.465967	9317(concept_person_ingrid_newkirk):0.000002
+edges:
+9317(concept_person_ingrid_newkirk)->25(concept:agentcollaborateswithagent_inv)->9316(concept_female_peta)	9317(concept_person_ingrid_newkirk)->26(concept:personleadsorganization)->71600(concept_nongovorganization_peta)
+9316(concept_female_peta)->24(concept:agentcollaborateswithagent)->9317(concept_person_ingrid_newkirk)	9317(concept_person_ingrid_newkirk)->25(concept:agentcollaborateswithagent_inv)->9316(concept_female_peta)	9317(concept_person_ingrid_newkirk)->26(concept:personleadsorganization)->71600(concept_nongovorganization_peta)	71600(concept_nongovorganization_peta)->27(concept:personleadsorganization_inv)->9317(concept_person_ingrid_newkirk)
+9316(concept_female_peta)->24(concept:agentcollaborateswithagent)->9317(concept_person_ingrid_newkirk)	9317(concept_person_ingrid_newkirk)->25(concept:agentcollaborateswithagent_inv)->9316(concept_female_peta)	9317(concept_person_ingrid_newkirk)->26(concept:personleadsorganization)->71600(concept_nongovorganization_peta)	71600(concept_nongovorganization_peta)->27(concept:personleadsorganization_inv)->9317(concept_person_ingrid_newkirk)
+9316(concept_female_peta)->24(concept:agentcollaborateswithagent)->9317(concept_person_ingrid_newkirk)	9317(concept_person_ingrid_newkirk)->25(concept:agentcollaborateswithagent_inv)->9316(concept_female_peta)	9317(concept_person_ingrid_newkirk)->26(concept:personleadsorganization)->71600(concept_nongovorganization_peta)	71600(concept_nongovorganization_peta)->27(concept:personleadsorganization_inv)->9317(concept_person_ingrid_newkirk)
+9316(concept_female_peta)->24(concept:agentcollaborateswithagent)->9317(concept_person_ingrid_newkirk)	9317(concept_person_ingrid_newkirk)->25(concept:agentcollaborateswithagent_inv)->9316(concept_female_peta)	9317(concept_person_ingrid_newkirk)->26(concept:personleadsorganization)->71600(concept_nongovorganization_peta)	71600(concept_nongovorganization_peta)->27(concept:personleadsorganization_inv)->9317(concept_person_ingrid_newkirk)

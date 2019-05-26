@@ -1,0 +1,4 @@
+concept_ceo_mary_sammons	concept:personleadsorganization	concept_company_rite_aid
+
+concept_ceo_mary_sammons	concept:ceoof	concept_company_rite_aid
+concept_company_rite_aid	concept:ceoof_inv	concept_ceo_mary_sammons

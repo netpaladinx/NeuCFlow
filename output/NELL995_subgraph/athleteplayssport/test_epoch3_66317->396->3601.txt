@@ -1,0 +1,13 @@
+nodes:
+66317(concept_athlete_sam_bradford):1.000000
+40203(concept_sportsteam_oklahoma_sooners_basketball):1.000000	66317(concept_athlete_sam_bradford):0.000000
+13472(concept_sport_basketball):1.000000	40203(concept_sportsteam_oklahoma_sooners_basketball):0.000000
+35410(concept_stadiumoreventvenue_staples_center):1.000000	13472(concept_sport_basketball):0.000000
+15329(concept_sport_hockey):1.000000	35410(concept_stadiumoreventvenue_staples_center):0.000000
+35410(concept_stadiumoreventvenue_staples_center):1.000000	15329(concept_sport_hockey):0.000000
+edges:
+66317(concept_athlete_sam_bradford)->156(concept:athleteplaysforteam)->40203(concept_sportsteam_oklahoma_sooners_basketball)	66317(concept_athlete_sam_bradford)->184(concept:athleteledsportsteam)->40203(concept_sportsteam_oklahoma_sooners_basketball)
+40203(concept_sportsteam_oklahoma_sooners_basketball)->180(concept:teamplayssport)->13472(concept_sport_basketball)	66317(concept_athlete_sam_bradford)->156(concept:athleteplaysforteam)->40203(concept_sportsteam_oklahoma_sooners_basketball)	66317(concept_athlete_sam_bradford)->184(concept:athleteledsportsteam)->40203(concept_sportsteam_oklahoma_sooners_basketball)
+13472(concept_sport_basketball)->302(concept:sportusesstadium)->35410(concept_stadiumoreventvenue_staples_center)	40203(concept_sportsteam_oklahoma_sooners_basketball)->180(concept:teamplayssport)->13472(concept_sport_basketball)
+13472(concept_sport_basketball)->302(concept:sportusesstadium)->35410(concept_stadiumoreventvenue_staples_center)	35410(concept_stadiumoreventvenue_staples_center)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)
+15329(concept_sport_hockey)->302(concept:sportusesstadium)->35410(concept_stadiumoreventvenue_staples_center)	35410(concept_stadiumoreventvenue_staples_center)->303(concept:sportusesstadium_inv)->15329(concept_sport_hockey)

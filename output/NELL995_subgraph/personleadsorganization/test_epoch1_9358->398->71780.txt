@@ -1,0 +1,13 @@
+nodes:
+9358(concept_person_ingrid_newkirk):1.000000
+71780(concept_nongovorganization_peta):0.925854	9357(concept_female_peta):0.074086	9358(concept_person_ingrid_newkirk):0.000060
+9358(concept_person_ingrid_newkirk):0.999877	71780(concept_nongovorganization_peta):0.000062	9357(concept_female_peta):0.000061
+71780(concept_nongovorganization_peta):0.929640	9357(concept_female_peta):0.069886	9358(concept_person_ingrid_newkirk):0.000474
+9358(concept_person_ingrid_newkirk):0.998462	9357(concept_female_peta):0.000871	71780(concept_nongovorganization_peta):0.000667
+71780(concept_nongovorganization_peta):0.990647	9357(concept_female_peta):0.007781	9358(concept_person_ingrid_newkirk):0.001572
+edges:
+9358(concept_person_ingrid_newkirk)->27(concept:agentcollaborateswithagent_inv)->9357(concept_female_peta)	9358(concept_person_ingrid_newkirk)->0(concept:worksfor)->71780(concept_nongovorganization_peta)
+9357(concept_female_peta)->26(concept:agentcollaborateswithagent)->9358(concept_person_ingrid_newkirk)	9358(concept_person_ingrid_newkirk)->27(concept:agentcollaborateswithagent_inv)->9357(concept_female_peta)	9358(concept_person_ingrid_newkirk)->0(concept:worksfor)->71780(concept_nongovorganization_peta)	71780(concept_nongovorganization_peta)->1(concept:worksfor_inv)->9358(concept_person_ingrid_newkirk)
+9357(concept_female_peta)->26(concept:agentcollaborateswithagent)->9358(concept_person_ingrid_newkirk)	9358(concept_person_ingrid_newkirk)->27(concept:agentcollaborateswithagent_inv)->9357(concept_female_peta)	9358(concept_person_ingrid_newkirk)->0(concept:worksfor)->71780(concept_nongovorganization_peta)	71780(concept_nongovorganization_peta)->1(concept:worksfor_inv)->9358(concept_person_ingrid_newkirk)
+9357(concept_female_peta)->26(concept:agentcollaborateswithagent)->9358(concept_person_ingrid_newkirk)	9358(concept_person_ingrid_newkirk)->27(concept:agentcollaborateswithagent_inv)->9357(concept_female_peta)	9358(concept_person_ingrid_newkirk)->0(concept:worksfor)->71780(concept_nongovorganization_peta)	71780(concept_nongovorganization_peta)->1(concept:worksfor_inv)->9358(concept_person_ingrid_newkirk)
+9357(concept_female_peta)->26(concept:agentcollaborateswithagent)->9358(concept_person_ingrid_newkirk)	9358(concept_person_ingrid_newkirk)->27(concept:agentcollaborateswithagent_inv)->9357(concept_female_peta)	9358(concept_person_ingrid_newkirk)->0(concept:worksfor)->71780(concept_nongovorganization_peta)	71780(concept_nongovorganization_peta)->1(concept:worksfor_inv)->9358(concept_person_ingrid_newkirk)

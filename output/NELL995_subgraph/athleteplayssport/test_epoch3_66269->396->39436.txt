@@ -1,0 +1,13 @@
+nodes:
+66269(concept_athlete_joe_saunders):1.000000
+66269(concept_athlete_joe_saunders):1.000000
+1047(concept_sportsleague_mlb):1.000000
+39512(concept_sportsteam_marlins):1.000000	1573(concept_sportsteam_red_sox_this_season):0.000000	39673(concept_sportsteam_minnesota_twins):0.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000
+edges:
+
+66269(concept_athlete_joe_saunders)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->1573(concept_sportsteam_red_sox_this_season)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->39512(concept_sportsteam_marlins)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->39673(concept_sportsteam_minnesota_twins)
+1573(concept_sportsteam_red_sox_this_season)->180(concept:teamplayssport)->39436(concept_sport_baseball)	39512(concept_sportsteam_marlins)->180(concept:teamplayssport)->39436(concept_sport_baseball)	39673(concept_sportsteam_minnesota_twins)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)

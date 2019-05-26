@@ -1,0 +1,13 @@
+nodes:
+15935(concept_chef_john_mariani):1.000000
+15934(concept_professor_esquire):0.999996	15935(concept_chef_john_mariani):0.000004
+15935(concept_chef_john_mariani):0.999995	15934(concept_professor_esquire):0.000005
+15934(concept_professor_esquire):0.999995	15935(concept_chef_john_mariani):0.000005
+15935(concept_chef_john_mariani):0.999995	15934(concept_professor_esquire):0.000005
+15934(concept_professor_esquire):0.999995	15935(concept_chef_john_mariani):0.000005
+edges:
+15935(concept_chef_john_mariani)->25(concept:agentcollaborateswithagent_inv)->15934(concept_professor_esquire)
+15934(concept_professor_esquire)->24(concept:agentcollaborateswithagent)->15935(concept_chef_john_mariani)	15935(concept_chef_john_mariani)->25(concept:agentcollaborateswithagent_inv)->15934(concept_professor_esquire)
+15934(concept_professor_esquire)->24(concept:agentcollaborateswithagent)->15935(concept_chef_john_mariani)	15935(concept_chef_john_mariani)->25(concept:agentcollaborateswithagent_inv)->15934(concept_professor_esquire)
+15934(concept_professor_esquire)->24(concept:agentcollaborateswithagent)->15935(concept_chef_john_mariani)	15935(concept_chef_john_mariani)->25(concept:agentcollaborateswithagent_inv)->15934(concept_professor_esquire)
+15934(concept_professor_esquire)->24(concept:agentcollaborateswithagent)->15935(concept_chef_john_mariani)	15935(concept_chef_john_mariani)->25(concept:agentcollaborateswithagent_inv)->15934(concept_professor_esquire)

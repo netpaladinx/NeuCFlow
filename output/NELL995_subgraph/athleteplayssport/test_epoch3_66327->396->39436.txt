@@ -1,0 +1,13 @@
+nodes:
+66327(concept_coach_kameron_loe):1.000000
+66327(concept_coach_kameron_loe):1.000000	12766(concept_sportsteamposition_center):0.000000
+1047(concept_sportsleague_mlb):1.000000	60741(concept_athlete_gary_carter):0.000000	59337(concept_athlete_fernando_abad):0.000000	65653(concept_athlete_yunel_escobar):0.000000
+17194(concept_sportsteam_red_sox):1.000000	39449(concept_sportsteam_oakland_athletics):0.000000	1047(concept_sportsleague_mlb):0.000000
+39436(concept_sport_baseball):1.000000	39449(concept_sportsteam_oakland_athletics):0.000000
+20656(concept_stadiumoreventvenue_yankee_stadium):1.000000	47002(concept_sportsgame_alds):0.000001	39436(concept_sport_baseball):0.000000
+edges:
+66327(concept_coach_kameron_loe)->222(concept:athleteflyouttosportsteamposition)->12766(concept_sportsteamposition_center)
+12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->59337(concept_athlete_fernando_abad)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->60741(concept_athlete_gary_carter)	12766(concept_sportsteamposition_center)->223(concept:athleteflyouttosportsteamposition_inv)->65653(concept_athlete_yunel_escobar)	66327(concept_coach_kameron_loe)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->39449(concept_sportsteam_oakland_athletics)	59337(concept_athlete_fernando_abad)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)	60741(concept_athlete_gary_carter)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)	65653(concept_athlete_yunel_escobar)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->39449(concept_sportsteam_oakland_athletics)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)	17194(concept_sportsteam_red_sox)->234(concept:teamplaysagainstteam)->39449(concept_sportsteam_oakland_athletics)	17194(concept_sportsteam_red_sox)->235(concept:teamplaysagainstteam_inv)->39449(concept_sportsteam_oakland_athletics)	39449(concept_sportsteam_oakland_athletics)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->302(concept:sportusesstadium)->20656(concept_stadiumoreventvenue_yankee_stadium)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->47002(concept_sportsgame_alds)	39449(concept_sportsteam_oakland_athletics)->180(concept:teamplayssport)->39436(concept_sport_baseball)

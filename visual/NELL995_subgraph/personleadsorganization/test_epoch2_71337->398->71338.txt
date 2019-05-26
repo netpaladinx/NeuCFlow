@@ -1,0 +1,4 @@
+concept_ceo_chua_sock_koong	concept:personleadsorganization	concept_company_singtel
+
+concept_ceo_chua_sock_koong	concept:worksfor	concept_company_singtel
+concept_company_singtel	concept:worksfor_inv	concept_ceo_chua_sock_koong

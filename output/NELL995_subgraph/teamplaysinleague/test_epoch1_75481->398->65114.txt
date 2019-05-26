@@ -1,0 +1,13 @@
+nodes:
+75481(concept_sportsteam_san_diego_st_aztecs):1.000000
+75481(concept_sportsteam_san_diego_st_aztecs):1.000000
+75481(concept_sportsteam_san_diego_st_aztecs):1.000000
+75481(concept_sportsteam_san_diego_st_aztecs):1.000000
+75481(concept_sportsteam_san_diego_st_aztecs):1.000000
+75481(concept_sportsteam_san_diego_st_aztecs):1.000000
+edges:
+
+
+
+
+

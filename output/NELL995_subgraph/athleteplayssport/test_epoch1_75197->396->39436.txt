@@ -1,0 +1,13 @@
+nodes:
+75197(concept_athlete_ty_taubenheim):1.000000
+75197(concept_athlete_ty_taubenheim):1.000000
+75197(concept_athlete_ty_taubenheim):1.000000
+75197(concept_athlete_ty_taubenheim):1.000000
+75197(concept_athlete_ty_taubenheim):1.000000
+75197(concept_athlete_ty_taubenheim):1.000000
+edges:
+
+
+
+
+

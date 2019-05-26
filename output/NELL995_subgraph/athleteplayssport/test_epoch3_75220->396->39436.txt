@@ -1,0 +1,13 @@
+nodes:
+75220(concept_athlete_jurickson_profar):1.000000
+75220(concept_athlete_jurickson_profar):1.000000
+75220(concept_athlete_jurickson_profar):1.000000
+75220(concept_athlete_jurickson_profar):1.000000
+75220(concept_athlete_jurickson_profar):1.000000
+75220(concept_athlete_jurickson_profar):1.000000
+edges:
+
+
+
+
+

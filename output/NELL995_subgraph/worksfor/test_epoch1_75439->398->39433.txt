@@ -1,0 +1,13 @@
+nodes:
+75439(concept_politicianus_brookhart):1.000000
+75439(concept_politicianus_brookhart):1.000000
+75439(concept_politicianus_brookhart):1.000000
+75439(concept_politicianus_brookhart):1.000000
+75439(concept_politicianus_brookhart):1.000000
+75439(concept_politicianus_brookhart):1.000000
+edges:
+
+
+
+
+

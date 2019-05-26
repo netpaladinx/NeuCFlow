@@ -1,0 +1,4 @@
+concept_politician_michael_bear	concept:worksfor	concept_city_city_of_london
+
+concept_politician_michael_bear	concept:mutualproxyfor_inv	concept_attraction_city_of_london
+concept_attraction_city_of_london	concept:mutualproxyfor	concept_politician_michael_bear

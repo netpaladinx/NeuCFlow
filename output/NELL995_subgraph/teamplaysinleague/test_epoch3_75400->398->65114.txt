@@ -1,0 +1,13 @@
+nodes:
+75400(concept_sportsteam_utah_valley_state_wolverines):1.000000
+75400(concept_sportsteam_utah_valley_state_wolverines):1.000000
+75400(concept_sportsteam_utah_valley_state_wolverines):1.000000
+75400(concept_sportsteam_utah_valley_state_wolverines):1.000000
+75400(concept_sportsteam_utah_valley_state_wolverines):1.000000
+75400(concept_sportsteam_utah_valley_state_wolverines):1.000000
+edges:
+
+
+
+
+

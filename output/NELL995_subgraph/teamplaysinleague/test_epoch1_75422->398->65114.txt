@@ -1,0 +1,13 @@
+nodes:
+75422(concept_sportsteam_st__john_s_red_storm):1.000000
+75422(concept_sportsteam_st__john_s_red_storm):1.000000
+75422(concept_sportsteam_st__john_s_red_storm):1.000000
+75422(concept_sportsteam_st__john_s_red_storm):1.000000
+75422(concept_sportsteam_st__john_s_red_storm):1.000000
+75422(concept_sportsteam_st__john_s_red_storm):1.000000
+edges:
+
+
+
+
+

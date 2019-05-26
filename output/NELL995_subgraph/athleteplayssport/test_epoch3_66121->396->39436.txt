@@ -1,0 +1,13 @@
+nodes:
+66121(concept_athlete_bubba_crosby):1.000000
+1047(concept_sportsleague_mlb):1.000000
+39511(concept_sportsteam_pittsburgh_pirates):0.969202	17194(concept_sportsteam_red_sox):0.030798	7656(concept_sportsteam_brewers):0.000000
+39436(concept_sport_baseball):1.000000
+25194(concept_awardtrophytournament_world_series):1.000000	35600(concept_stadiumoreventvenue_shea_stadium):0.000000	47002(concept_sportsgame_alds):0.000000
+39674(concept_sportsteam_boston_braves):1.000000	39436(concept_sport_baseball):0.000000
+edges:
+66121(concept_athlete_bubba_crosby)->158(concept:athleteplaysinleague)->1047(concept_sportsleague_mlb)
+1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->7656(concept_sportsteam_brewers)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->17194(concept_sportsteam_red_sox)	1047(concept_sportsleague_mlb)->179(concept:teamplaysinleague_inv)->39511(concept_sportsteam_pittsburgh_pirates)
+7656(concept_sportsteam_brewers)->180(concept:teamplayssport)->39436(concept_sport_baseball)	17194(concept_sportsteam_red_sox)->180(concept:teamplayssport)->39436(concept_sport_baseball)	39511(concept_sportsteam_pittsburgh_pirates)->180(concept:teamplayssport)->39436(concept_sport_baseball)
+39436(concept_sport_baseball)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->25194(concept_awardtrophytournament_world_series)	39436(concept_sport_baseball)->302(concept:sportusesstadium)->35600(concept_stadiumoreventvenue_shea_stadium)	39436(concept_sport_baseball)->321(concept:sportsgamesport_inv)->47002(concept_sportsgame_alds)
+25194(concept_awardtrophytournament_world_series)->304(concept:awardtrophytournamentisthechampionshipgameofthenationalsport)->39436(concept_sport_baseball)	25194(concept_awardtrophytournament_world_series)->261(concept:teamwontrophy_inv)->39674(concept_sportsteam_boston_braves)	35600(concept_stadiumoreventvenue_shea_stadium)->303(concept:sportusesstadium_inv)->39436(concept_sport_baseball)	47002(concept_sportsgame_alds)->320(concept:sportsgamesport)->39436(concept_sport_baseball)

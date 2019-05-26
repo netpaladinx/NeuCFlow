@@ -1,0 +1,13 @@
+nodes:
+75446(concept_sportsteam_st__joseph_s_hawks):1.000000
+75446(concept_sportsteam_st__joseph_s_hawks):1.000000
+75446(concept_sportsteam_st__joseph_s_hawks):1.000000
+75446(concept_sportsteam_st__joseph_s_hawks):1.000000
+75446(concept_sportsteam_st__joseph_s_hawks):1.000000
+75446(concept_sportsteam_st__joseph_s_hawks):1.000000
+edges:
+
+
+
+
+

@@ -1,0 +1,13 @@
+nodes:
+66025(concept_athlete_deuce_lutui):1.000000
+66025(concept_athlete_deuce_lutui):1.000000
+1423(concept_sportsleague_nfl):1.000000
+11168(concept_sportsteam_redskins):1.000000
+3601(concept_sport_football):1.000000
+1688(concept_awardtrophytournament_super_bowl):0.999995	39498(concept_awardtrophytournament_superbowl):0.000003	11168(concept_sportsteam_redskins):0.000002
+edges:
+
+66025(concept_athlete_deuce_lutui)->158(concept:athleteplaysinleague)->1423(concept_sportsleague_nfl)
+1423(concept_sportsleague_nfl)->179(concept:teamplaysinleague_inv)->11168(concept_sportsteam_redskins)
+11168(concept_sportsteam_redskins)->180(concept:teamplayssport)->3601(concept_sport_football)
+3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->1688(concept_awardtrophytournament_super_bowl)	3601(concept_sport_football)->181(concept:teamplayssport_inv)->11168(concept_sportsteam_redskins)	3601(concept_sport_football)->305(concept:awardtrophytournamentisthechampionshipgameofthenationalsport_inv)->39498(concept_awardtrophytournament_superbowl)

@@ -1,0 +1,13 @@
+nodes:
+75228(concept_personmexico_joel_peralta):1.000000
+75228(concept_personmexico_joel_peralta):1.000000
+75228(concept_personmexico_joel_peralta):1.000000
+75228(concept_personmexico_joel_peralta):1.000000
+75228(concept_personmexico_joel_peralta):1.000000
+75228(concept_personmexico_joel_peralta):1.000000
+edges:
+
+
+
+
+

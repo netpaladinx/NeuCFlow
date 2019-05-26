@@ -1,0 +1,13 @@
+nodes:
+75383(concept_personmexico_pedro_liriano):1.000000
+75383(concept_personmexico_pedro_liriano):1.000000
+75383(concept_personmexico_pedro_liriano):1.000000
+75383(concept_personmexico_pedro_liriano):1.000000
+75383(concept_personmexico_pedro_liriano):1.000000
+75383(concept_personmexico_pedro_liriano):1.000000
+edges:
+
+
+
+
+

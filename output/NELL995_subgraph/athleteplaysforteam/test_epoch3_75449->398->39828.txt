@@ -1,0 +1,13 @@
+nodes:
+75449(concept_coach_andrei_kostitsyn):1.000000
+75449(concept_coach_andrei_kostitsyn):1.000000
+75449(concept_coach_andrei_kostitsyn):1.000000
+75449(concept_coach_andrei_kostitsyn):1.000000
+75449(concept_coach_andrei_kostitsyn):1.000000
+75449(concept_coach_andrei_kostitsyn):1.000000
+edges:
+
+
+
+
+

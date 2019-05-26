@@ -1,0 +1,13 @@
+nodes:
+75465(concept_journalist_andy_katz):1.000000
+75465(concept_journalist_andy_katz):1.000000
+75465(concept_journalist_andy_katz):1.000000
+75465(concept_journalist_andy_katz):1.000000
+75465(concept_journalist_andy_katz):1.000000
+75465(concept_journalist_andy_katz):1.000000
+edges:
+
+
+
+
+

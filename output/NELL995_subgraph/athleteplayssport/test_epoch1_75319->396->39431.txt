@@ -1,0 +1,13 @@
+nodes:
+75319(concept_athlete_gene_bates):1.000000
+75319(concept_athlete_gene_bates):1.000000
+75319(concept_athlete_gene_bates):1.000000
+75319(concept_athlete_gene_bates):1.000000
+75319(concept_athlete_gene_bates):1.000000
+75319(concept_athlete_gene_bates):1.000000
+edges:
+
+
+
+
+

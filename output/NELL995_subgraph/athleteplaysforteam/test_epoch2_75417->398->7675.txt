@@ -1,0 +1,13 @@
+nodes:
+75417(concept_athlete_ariza):1.000000
+75417(concept_athlete_ariza):1.000000
+75417(concept_athlete_ariza):1.000000
+75417(concept_athlete_ariza):1.000000
+75417(concept_athlete_ariza):1.000000
+75417(concept_athlete_ariza):1.000000
+edges:
+
+
+
+
+
